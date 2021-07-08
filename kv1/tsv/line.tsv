@@ -1,0 +1,475 @@
+1;true;CXX;A001;1;Oosterbeek - Velp;1;;BUS;;;
+1;true;CXX;A002;2;Arnhem CS - De Laar West;2;;BUS;;;
+1;true;CXX;A003;3;Arnhem Burgers Zoo - Het Duifje;3;;BUS;;;
+1;true;CXX;A004;4;Arnhem CS - Kronenburg;4;;BUS;;;
+1;true;CXX;A005;5;Arnhem Schuytgraaf - Presikhaaf;5;;BUS;;;
+1;true;CXX;A006;6;Arnhem De Laar West - Elsweide;6;;BUS;;;
+1;true;CXX;A007;7;Arnhem Geitenkamp - Rijkerswoerd;7;;BUS;;;
+1;true;CXX;A008;8;Velp - Arnhem CS;8;;BUS;;;
+1;true;CXX;A009;9;Schaarsbergen - Arnhem CS;9;;BUS;;;
+1;true;CXX;A010;10;Arnhem CS - Papendal;10;;BUS;;;
+1;true;CXX;A011;11;Station Arnhem Zuid - Het Duifje;11;;BUS;;;
+1;true;CXX;A012;12;Arnhem CS - IJsseloord 2;12;;BUS;;;
+1;true;CXX;A013;13;Arnhem CS - Klarendal;13;;BUS;;;
+1;true;CXX;A014;14;Arnhem CS - Elst - Nijmegen Brakkenstein;14;;BUS;;;
+1;true;CXX;A026;26;Arnhem CS - Dieren Station;26;;BUS;;;
+1;true;CXX;A027;27;Arnhem CS - Doetinchem;27;;BUS;;;
+1;true;CXX;A029;29;Arnhem CS - Doetinchem;29;;BUS;;;
+1;true;CXX;A033;33;Arnhem CS - Bemmel -  Nijmegen CS;33;;BUS;;;
+1;true;CXX;A035;35;Bemmel - Elst - Zetten;35;;BUS;;;
+1;true;CXX;A043;43;Apeldoorn Station - Arnhem CS;43;;BUS;;;
+1;true;CXX;A051;51;Wageningen Station - Arnhem CS;51;;BUS;;;
+1;true;CXX;A054;54;Wageningen - Heteren;54;;BUS;;;
+1;true;CXX;A056;56;Wageningen Station - Arnhem CS;56;;BUS;;;
+1;true;CXX;A060;60;Tolkamer Lobede - Arnhem CS;60;;BUS;;;
+1;true;CXX;A061;61;Westervoort Station - Duiven Centerpoort Noord;61;;BUS;;;
+1;true;CXX;A062;62;Duiven Centerpoort Noord - Arnhem CS;62;;BUS;;;
+1;true;CXX;A066;66;Westervoort Station - Centerpoort Nieuwgraaf;66;;BUS;;;
+1;true;CXX;A070;70;Giesbeek - Rozendaal;70;;BUS;;;
+1;true;CXX;A071;71;Eerbeek - Rozendaal;71;;BUS;;;
+1;true;CXX;A072;72;Arnhem CS - Huissen Bergerden;72;;BUS;;;
+1;true;CXX;A078;78;Papendal - Beekdal Lyceum;78;;BUS;;;
+1;true;CXX;A300;300;Arnhem CS - Nijmegen Heyendaal;300;;BUS;;;
+1;true;CXX;A331;331;Velp Zuid - Nijmegen Weezenhof;331;;BUS;;;
+1;true;CXX;A352;352;Wageningen Station - Arnhem CS;352;;BUS;;;
+1;true;CXX;A524;524;Spankeren - Dieren Station;124;;BUS;;;
+1;true;CXX;A525;525;Dieren Station - Dieren West;125;;BUS;;;
+1;true;CXX;A526;526;Dieren Station - Dieren Noord;126;;BUS;;;
+1;true;CXX;A556;556;Heteren - Elst;556;;BUS;;;
+1;true;CXX;A560;560;Herwen - Zevenaar Ziekenhuis;160;;BUS;;;
+1;true;CXX;A566;566;Spijk - Zevenaar Station;166;;BUS;;;
+1;true;CXX;A589;589;Doorwerth De Weerd - Wolfheze Het Schild;189;;BUS;;;
+1;true;CXX;A590;590;Doorwerth De Weerd - Wolfheze Het Schild;190;;BUS;;;
+1;true;CXX;C144;144;Harderwijk - Zeewolde;144;;BUS;;;
+1;true;CXX;E625;625;Zeewolde - Amersfoort;225;;BUS;;;
+1;true;CXX;F021;21;Dronten stadsdienst;21;;BUS;;;
+1;true;CXX;F022;22;Dronten stadsdienst;22;;BUS;;;
+1;true;CXX;F032;N32;Hilversum - Huizen;32;;BUS;;;
+1;true;CXX;F100;100;Bussum - Blaricum;100;;BUS;;;
+1;true;CXX;F101;101;Bussum - Blaricum;101;;BUS;;;
+1;true;CXX;F104;104;Hilversum - Nieuw Loosdrecht;104;;BUS;;;
+1;true;CXX;F105;105;Bussum - Hilversum;105;;BUS;;;
+1;true;CXX;F106;106;Weesp - Nederhorst den Berg;106;;BUS;;;
+1;true;CXX;F107;107;Huizen - Hilversum;107;;BUS;;;
+1;true;CXX;F108;108;Huizen - Hilversum;108;;BUS;;;
+1;true;CXX;F109;109;Bussum - Hilversum;109;;BUS;;;
+1;true;CXX;F110;110;Bussum - Weesp;110;;BUS;;;
+1;true;CXX;F140;140;Emmeloord - Lelystad;140;;BUS;;;
+1;true;CXX;F142;142;Nijkerk - Zeewolde - Harderwijk;142;;BUS;;;
+1;true;CXX;F143;143;Kampen - Dronten;143;;BUS;;;
+1;true;CXX;F145;145;Lelystad - Swifterbant;145;;BUS;;;
+1;true;CXX;F146;146;Emmeloord - Dronten;146;;BUS;;;
+1;true;CXX;F147;147;Harderwijk - Dronten;147;;BUS;;;
+1;true;CXX;F148;148;Lelystad - Harderwijk;148;;BUS;;;
+1;true;CXX;F149;149;Urk - Nagele;149;;BUS;;;
+1;true;CXX;F159;159;Almere Stad - Zeewolde - Harderwijk;159;;BUS;;;
+1;true;CXX;F160;160;Almere - Zeewolde;160;;BUS;;;
+1;true;CXX;F163;163;Lelystad - Dronten;163;;BUS;;;
+1;true;CXX;F164;164;Swifterbant - Lelystad via Runderweg;64;;BUS;;;
+1;true;CXX;F202;202;Blaricum - Amsterdam;202;;BUS;;;
+1;true;CXX;F209;209;Blaricum - Amsterdam;209;;BUS;;;
+1;true;CXX;F210;210;Bussum - Weesp;110;;BUS;;;
+1;true;CXX;F301;1;Hilversum Station - Kerkelanden;301;;BUS;;;
+1;true;CXX;F302;2;Hilversum Station - Erfgooierskwartier;302;;BUS;;;
+1;true;CXX;F303;3;Hilversum Station - Tergooi Ziekenhuis;303;;BUS;;;
+1;true;CXX;F320;320;Amsterdam - Hilversum;320;;BUS;;FF0000;FFFFFF
+1;true;CXX;F602;602;Naarden - Amsterdam;202;;BUS;;;
+1;true;CXX;F609;609;Blaricum - Amsterdam;609;;BUS;;;
+1;true;CXX;F663;663;Lelystad - Kampen Pieter Zandt;263;;BUS;;;
+1;true;CXX;G011;11;Kampen Station - Flevowijk - Bovenbroek;11;;BUS;;;
+1;true;CXX;G141;141;Kampen - Emmeloord - Urk;141;;BUS;;;
+1;true;CXX;G506;506;Wilsum - Kampen - Hattem;106;;BUS;;;
+1;true;CXX;G641;641;Zwolle - Kampen - Emmeloord - Urk;241;;BUS;;;
+1;true;CXX;G681;681;Urk - Emmeloord - Kampen;181;;BUS;;;
+1;true;CXX;H001;1;Alkmaar Station - de Hoef;60;;BUS;;FF0000;FFFFFF
+1;true;CXX;H002;2;Alkmaar Daalmeer - Station - Overdie;2;;BUS;;00CCFF;000000
+1;true;CXX;H003;3;Alkmaar Station - De Mare - Daalmeer;3;;BUS;;FF99FF;FFFFFF
+1;true;CXX;H004;4;Alkmaar Station - Vroonermeer - Daalmeer;4;;BUS;;66CC33;000000
+1;true;CXX;H008;8;Alkmaar Station - Bestevaerstraat;8;;BUS;;FFCC00;000000
+1;true;CXX;H010;10;St. Pancras - Alkmaar Station;10;;BUS;;0000FF;FFFFFF
+1;true;CXX;H011;11;Hoorn Station - Zwaag Risdam;11;;BUS;;FF0000;FFFFFF
+1;true;CXX;H014;14;Luslijn Hoorn Station - Kersenboogerd;14;;BUS;;0000FF;FFFFFF
+1;true;CXX;H028;28;Texel Veerhaven - Den Burg - De Koog;28;;BUS;;;
+1;true;CXX;H030;30;Den Helder Station - Station Zuid - Julianadorp;30;;BUS;;FF0000;FFFFFF
+1;true;CXX;H031;31;Den Helder Station Zuid - Den Helder Station;31;;BUS;;66CC33;000000
+1;true;CXX;H033;33;Den Helder Station - Veerhaven;33;;BUS;;00CCFF;000000
+1;true;CXX;H034;34;Den Helder Station - De Schooten;34;;BUS;;FF99FF;FFFFFF
+1;true;CXX;H123;123;Alkmaar Station - De Rijp - Alkmaar Station;123;;BUS;;00CCFF;000000
+1;true;CXX;H128;128;Hoorn Station - Noordbeemster;128;;BUS;;FF99FF;FFFFFF
+1;true;CXX;H129;129;Alkmaar Station - Noordbeemster - P'rend Tramplein;129;;BUS;;CC99FF;FFFFFF
+1;true;CXX;H132;132;Hoorn Station - Wervershoof - Andijk;132;;BUS;;FFCC00;000000
+1;true;CXX;H133;133;Hoorn Station - Wognum - Opmeer - Hoogwoud;133;;BUS;;66CC33;000000
+1;true;CXX;H134;134;Hoorn Station - Abbekerk Dorp - Wieringerwerf;134;;BUS;;00CCFF;000000
+1;true;CXX;H135;135;Hoorn Station - Wieringerwerf - Den Helder;135;;BUS;;FFFF00;000000
+1;true;CXX;H136;136;Nibbixwoud - Oostwoud - Hoorn Station;136;;BUS;;0000FF;FFFFFF
+1;true;CXX;H139;139;Hoorn Station - Abbekerk - Opperdoes - Medemblik;139;;BUS;;CC99FF;FFFFFF
+1;true;CXX;H151;151;Alkmaar Station - Petten;151;;BUS;;CC99FF;FFFFFF
+1;true;CXX;H152;152;Schagen Station - Callantsoog;152;;BUS;;FFCC00;000000
+1;true;CXX;H156;156;Warmenhuizen - Schagen Station;156;;BUS;;FF99FF;FFFFFF
+1;true;CXX;H157;157;Alkmaar Station - Tuitjenhorn;157;;BUS;;0000FF;FFFFFF
+1;true;CXX;H160;160;Alkmaar Station - Heerhugowaard;160;;BUS;;FFFF00;000000
+1;true;CXX;H162;162;Alkmaar Station - Heerhugowaard Icaruslaan;162;;BUS;;FF0000;FFFFFF
+1;true;CXX;H163;163;Alkmaar Station - Akersloot - Uitgeest;163;;BUS;;FFCC00;000000
+1;true;CXX;H164;164;Castricum Station - Egmond Binnen - Egmond aan Zee;164;;BUS;;FF0000;FFFFFF
+1;true;CXX;H165;165;Alkmaar Station -  Egmond a/Zee;165;;BUS;;66CC33;000000
+1;true;CXX;H166;166;Bergen - Alkmaar Station;166;;BUS;;CC99FF;FFFFFF
+1;true;CXX;H167;167;Castricum Station - Alkmaar Station;167;;BUS;;FF99FF;FFFFFF
+1;true;CXX;H169;169;Alkmaar Station - Oudkarspel;169;;BUS;;FFFF00;000000
+1;true;CXX;H232;232;Hoorn Station - Blokker - Wervershoof - Andijk;232;;BUS;;CC99FF;FFFFFF
+1;true;CXX;H250;250;Middenmeer - Alkmaar Station;250;;BUS;;0000FF;FFFFFF
+1;true;CXX;H251;251;Alkmaar Station - Petten via ECN;251;;BUS;;FFCC00;000000
+1;true;CXX;H260;N60;Alkmaar Station - Heerhugowaard;60;;BUS;;FFFF00;000000
+1;true;CXX;H269;N69;Amsterdam Elandsgracht - Alkmaar Station;69;;BUS;;FF99FF;FFFFFF
+1;true;CXX;H406;406;Schagen Station - Zijdewind - Waarland;406;;BUS;;AFB4B9;000000
+1;true;CXX;H407;407;Buurtbus Heerhugowaard;407;;BUS;;AFB4B9;000000
+1;true;CXX;H408;408;Heiloo 't Loo - Egmond aan Zee;8;;BUS;;AFB4B9;000000
+1;true;CXX;H409;409;Obdam - Ursem - Heerhugowaard;409;;BUS;;AFB4B9;000000
+1;true;CXX;H410;410;Egmond aan Zee - Schoorl;10;;BUS;;AFB4B9;000000
+1;true;CXX;H411;411;Tuitjenhorn - Schagen Station;411;;BUS;;AFB4B9;000000
+1;true;CXX;H412;412;Hoorn Station - Hem - Hoogkarspel - Bovenkarspel;12;;BUS;;AFB4B9;000000
+1;true;CXX;H415;415;Medemblik - Wervershoof - Westwoud - Hoorn Station;415;;BUS;;AFB4B9;000000
+1;true;CXX;H416;416;Kreileroord - Schagen Station;416;;BUS;;AFB4B9;000000
+1;true;CXX;H417;417;Schagen Station - Obdam;17;;BUS;;AFB4B9;000000
+1;true;CXX;H438;438;Enkhuizen - Bovenkarspel - Wervershoof;438;;BUS;;AFB4B9;000000
+1;true;CXX;H606;606;Alkmaar Station - Bergen Europese School;606;;BUS;;FF0000;FFFFFF
+1;true;CXX;H612;612;Hoorn Station - Hem - Hoogkarspel - Bovenkarspel;612;;BUS;;FF99FF;FFFFFF
+1;true;CXX;H617;617;Hoogwoud - Obdam;617;;BUS;;FFCC00;000000
+1;true;CXX;H636;636;Aartswoud - Hoogwoud - Hoorn Station;636;;BUS;;FFFF00;000000
+1;true;CXX;H650;650;Lelystad - Enkhuizen - Wervershoof;650;;BUS;;FFFF00;000000
+1;true;CXX;H652;652;Den Helder Station - Schagen Station;652;;BUS;;CC99FF;FFFFFF
+1;true;CXX;H653;653;Kreileroord - Wieringerwerf - Middenmeer - Schagen;653;;BUS;;FF0000;FFFFFF
+1;true;CXX;H655;655;Medemblik Station - Kreileroord - Wieringerwerf;655;;BUS;;0000FF;FFFFFF
+1;true;CXX;H658;658;Schagen Station - Anna Paulowna Station;658;;BUS;;66CC33;000000
+1;true;CXX;H660;660;Alkmaar Station - Alkmaar Hogeschool;660;;BUS;;00CCFF;000000
+1;true;CXX;H923;FLX;Overal Flex Alkmaar;923;;BUS;;;
+1;true;CXX;H928;TXL;Texelhopper;928;;BUS;;;
+1;true;CXX;H936;FLX;Overal Flex Hoorn;936;;BUS;;;
+1;true;CXX;H952;FLX;Overal Flex Schagen;952;;BUS;;;
+1;true;CXX;H956;FLX;Overal Flex Winkel;956;;BUS;;;
+1;true;CXX;H958;FLX;Overal Flex Anna Paulowna;958;;BUS;;;
+1;true;CXX;H964;FLX;Overal Flex Castricum;964;;BUS;;;
+1;true;CXX;H967;FLX;Overal Flex Heiloo;967;;BUS;;;
+1;true;CXX;L002;2;Eindhoven Blixembosch Oost - Station;2;;BUS;;;
+1;true;CXX;L003;3;Eindhoven Blixembosch West - Station;3;;BUS;;;
+1;true;CXX;L004;4;Eindhoven Heesterakker - Station;4;;BUS;;;
+1;true;CXX;L005;5;Eindhoven 't Hofke - Station;5;;BUS;;;
+1;true;CXX;L006;6;Nuenen - Eindhoven Station;6;;BUS;;;
+1;true;CXX;L007;7;Veldhoven MMC - Eindhoven Station;7;;BUS;;;
+1;true;CXX;L008;8;Acht - Station;8;;BUS;;;
+1;true;CXX;L009;9;Best Station - Eindhoven Station;9;;BUS;;;
+1;true;CXX;L010;10;Eindhoven Airport - Eindhoven Station;10;;BUS;;;
+1;true;CXX;L011;11;Weert Station - Maarheeze - Eindhoven Station;11;;BUS;;;
+1;true;CXX;L012;12;Eindhoven Gijzenrooi - Eindhoven Station;12;;BUS;;;
+1;true;CXX;L014;14;Veldhoven Centrum - De Hurk - Eindhoven Station;14;;BUS;;;
+1;true;CXX;L015;15;Veldhoven Centrum - Eindhoven Station;15;;BUS;;;
+1;true;CXX;L016;16;Veldhoven MMC - Eindhoven Station;16;;BUS;;;
+1;true;CXX;L017;17;Eindhoven Kortonjolaan - Station;17;;BUS;;;
+1;true;CXX;L018;18;Bergeijk - Veldhoven - Eindhoven Station;18;;BUS;;;
+1;true;CXX;L019;19;Bladel - Eersel - Eindhoven Station;19;;BUS;;;
+1;true;CXX;L020;20;Veldhoven MMC - Airport - Best Station;20;;BUS;;;
+1;true;CXX;L021;21;Son en Breugel - Ekkersrijt;21;;BUS;;;
+1;true;CXX;L022;22;Son en Breugel - Ekkersrijt;22;;BUS;;;
+1;true;CXX;L023;23;Helmond Station - Boxmeer Station;23;;BUS;;;
+1;true;CXX;L024;24;Helmond Station - Mierlo - Eindhoven Station;24;;BUS;;;
+1;true;CXX;L025;25;Helmond Station - Donk - Gemert;25;;BUS;;;
+1;true;CXX;L026;26;Helmond Station - Gemert;26;;BUS;;;
+1;true;CXX;L028;28;Meijel - Deurne;28;;BUS;;;
+1;true;CXX;L051;51;Eeuwsels - Helmond Station;51;;BUS;;;
+1;true;CXX;L052;52;Rijpelberg  - Helmond Station;52;;BUS;;;
+1;true;CXX;L053;53;Helmond Straakven - Helmond Station;53;;BUS;;;
+1;true;CXX;L054;54;Brouwhuis  - Helmond Station;54;;BUS;;;
+1;true;CXX;L055;55;'t Hofke - Eindhoven Stationsweg;55;;BUS;;;
+1;true;CXX;L101;101;Best Station - Best Breeven;101;;BUS;;;
+1;true;CXX;L103;103;Veldhoven Zonderwijk - Eindhoven Station;103;;BUS;;;
+1;true;CXX;L114;114;Eindhoven Station - De Hurk;114;;BUS;;;
+1;true;CXX;L119;119;Eindhoven Station - Veldhoven ASML;119;;BUS;;;
+1;true;CXX;L123;123;Boxmeer - Gemert;123;;BUS;;;
+1;true;CXX;L150;150;Helmond Station - Dr. Klompelaan;150;;BUS;;;
+1;true;CXX;L255;255;Budel - Soerendonk - Maarheeze;255;;BUS;;;
+1;true;CXX;L256;256;Maarheeze station - Valkenswaard;256;;BUS;;;
+1;true;CXX;L257;257;Geldrop - Heeze - Valkenswaard;257;;BUS;;;
+1;true;CXX;L258;258;Weert - Maarheeze - Heeze;258;;BUS;;;
+1;true;CXX;L259;259;Nuenen - Beek en Donk;259;;BUS;;;
+1;true;CXX;L260;260;Geldrop - Son en Breugel - Best;260;;BUS;;;
+1;true;CXX;L261;261;Beek en Donk - Mariahout - Helmond;261;;BUS;;;
+1;true;CXX;L262;262;Helenaveen - Deurne;262;;BUS;;;
+1;true;CXX;L266;266;Deurne - Someren - Geldrop;266;;BUS;;;
+1;true;CXX;L268;268;Deurne - Bakel - Elsendorp;268;;BUS;;;
+1;true;CXX;L271;271;Aalst - Waalre - Veldhoven;271;;BUS;;;
+1;true;CXX;L272;272;Eersel - Weebosch - Lommel;272;;BUS;;;
+1;true;CXX;L276;276;Valkenswaard - Achel;276;;BUS;;;
+1;true;CXX;L277;277;Veldhoven - Valkenswaard;277;;BUS;;;
+1;true;CXX;L291;291;Middelbeers - Hoogeloon - Hapert - Bladel;291;;BUS;;;
+1;true;CXX;L292;292;Veldhoven - Hoogeloon;292;;BUS;;;
+1;true;CXX;L294;294;Veldhoven - Eersel - Vessem;294;;BUS;;;
+1;true;CXX;L317;317;Dommelen - Valkenswaard - Eindhoven Station;317;;BUS;;;
+1;true;CXX;L318;318;Luyksgestel - Valkenswaard - Eindhoven Station;318;;BUS;;;
+1;true;CXX;L319;319;Reusel - Eersel - Eindhoven Station;319;;BUS;;;
+1;true;CXX;L320;320;Helmond Station - Asten - Eindhoven Station;320;;BUS;;;
+1;true;CXX;L321;321;Gemert - Eindhoven Station;321;;BUS;;;
+1;true;CXX;L322;322;Uden - Gerwen - Eindhoven Station;322;;BUS;;;
+1;true;CXX;L324;324;Geldrop Coevering - Eindhoven Station;324;;BUS;;;
+1;true;CXX;L400;400;Eindhoven Airport - Eindhoven Station;400;;BUS;;;
+1;true;CXX;L401;401;Eindhoven Airport - Eindhoven Station;401;;BUS;;;
+1;true;CXX;L402;402;Veldhoven Zonderwijk - Eindhoven Station;402;;BUS;;;
+1;true;CXX;L403;403;Oerle Zuid - Eindhoven Station;403;;BUS;;;
+1;true;CXX;L404;404;Nuenen - Summa College - Eindhoven Station;404;;BUS;;;
+1;true;CXX;L405;405;Eindhoven Achtse Barrier - Station;405;;BUS;;;
+1;true;CXX;L406;406;Son - Ekkersrijt - Eindhoven Station;406;;BUS;;;
+1;true;CXX;L407;407;High Tech Campus - Eindhoven Station;407;;BUS;;;
+1;true;CXX;L408;408;Station NS - HTC - Waalre;408;;BUS;;;
+1;true;CXX;L610;610;Eindhoven Internationale school - Station;610;;BUS;;;
+1;true;CXX;L618;618;Valkenswaard - Bladel Pius X-College;618;;BUS;;;
+1;true;CXX;L656;656;Budel-Maarheeze-Valkenswaard;656;;BUS;;;
+1;true;CXX;L657;657;Sterksel-Heeze-Leende-Valkenswaard;657;;BUS;;;
+1;true;CXX;M030;N30;IJmuiden Dennekoplaan - Amsterdam Bijlmer ArenA;30;;BUS;;77216F;FFFFFF
+1;true;CXX;M047;N47;Uithoorn Busstation - Amsterdam CS via Amstelveen;47;;BUS;;FFCC00;000000
+1;true;CXX;M057;N57;Aalsmeer - Amsterdam CS IJzijde via Amstelveen;57;;BUS;;FFCC00;000000
+1;true;CXX;M090;N90;Knooppunt Noord - P30/Knooppunt ZW via Airport;90;;BUS;;0059FF;FFFFFF
+1;true;CXX;M095;N95;Amsterdam Langsom - Schiphol via Badhoevedorp;95;;BUS;;0059FF;FFFFFF
+1;true;CXX;M097;N97;Nieuw Vennep - Amsterdam CS IJzijde via Airport;97;;BUS;;FFCC00;000000
+1;true;CXX;M149;FLEX;AML-FLEX: Uithoorn - Amstelveen;149;;BUS;;;
+1;true;CXX;M160;160;Hoofddorp Station - Hoofddorp Centrum;160;;BUS;;AFB4B9;000000
+1;true;CXX;M161;161;Zwanenburg - Hoofddorp Station;161;;BUS;;AFB4B9;000000
+1;true;CXX;M162;162;Lisse - Hoofddorp Station;162;;BUS;;AFB4B9;000000
+1;true;CXX;M163;FLEX;AML-FLEX: Rijsenhout - Schiphol Rijk;163;;BUS;;;
+1;true;CXX;M164;FLEX;AML-FLEX: Buitenkaag - Nieuw Vennep;164;;BUS;;;
+1;true;CXX;M169;169;Hoofddorp Sportcomplex KWA - Hoofddorp Station;169;;BUS;;AFB4B9;000000
+1;true;CXX;M171;171;Aalsmeer - Amsterdam Bijlmer ArenA;171;;BUS;;AFB4B9;000000
+1;true;CXX;M174;174;Uithoorn - Amstelveen KLM Hoofdkantoor;174;;BUS;;AFB4B9;000000
+1;true;CXX;M180;180;Cirkellijn Schiphol [P30 - P30 via Oost & Rijk];180;;BUS;;0059FF;FFFFFF
+1;true;CXX;M181;181;Cirkellijn Schiphol [Noord - Noord via Rijk&Oost];181;;BUS;;0059FF;FFFFFF
+1;true;CXX;M185;185;Schiphol Airport - Justitieel Complex;185;;BUS;;0059FF;FFFFFF
+1;true;CXX;M186;186;Schiphol P30 - Amstelveen Busstation via KLM;186;;BUS;;0059FF;FFFFFF
+1;true;CXX;M190;190;Schiphol Knooppunt Noord - P30 via Airport;190;;BUS;;0059FF;FFFFFF
+1;true;CXX;M191;191;Schiphol Zuidoost - Schiphol;191;;BUS;;0059FF;FFFFFF
+1;true;CXX;M192;192;Hoofddorp - Schiphol Knooppunt Noord;192;;BUS;;0059FF;FFFFFF
+1;true;CXX;M194;194;Schiphol P30 - Nieuw West via Badhoevedorp;194;;BUS;;0059FF;FFFFFF
+1;true;CXX;M195;195;Schiphol P30 - A'dam Lelylaan via Badhoevedorp;195;;BUS;;0059FF;FFFFFF
+1;true;CXX;M198;198;Schiphol Beechavenue - Aalsmeer;198;;BUS;;0059FF;FFFFFF
+1;true;CXX;M199;199;Schiphol  P30 - Amstelveen Praam;199;;BUS;;0059FF;FFFFFF
+1;true;CXX;M200;200;A'dam Gaasperplas - Schiphol Airport;300;;BUS;;77216F;FFFFFF
+1;true;CXX;M242;242;Mijdrecht - Amsterdam Station Zuid via Amstelveen;142;;BUS;;AFB4B9;000000
+1;true;CXX;M244;244;Haarlem Delftplein - Amsterdam Station Zuid;244;;BUS;;AFB4B9;000000
+1;true;CXX;M255;255;Haarlem Station - Amsterdam Bijlmer ArenA;255;;BUS;;AFB4B9;000000
+1;true;CXX;M271;271;Amsterdam Gaasperplas - Aalsmeer Floraholland;71;;BUS;;AFB4B9;000000
+1;true;CXX;M274;274;Uithoorn - Amsterdam Station Zuid via Amstelveen;300;;BUS;;AFB4B9;000000
+1;true;CXX;M287;287;Schiphol Airport - Douglassingel via Beechavenue;287;;BUS;;0059FF;FFFFFF
+1;true;CXX;M300;300;Haarlem Station - A'dam Bijlmer ArenA via Airport;300;;BUS;;77216F;FFFFFF
+1;true;CXX;M340;340;Haarlem Station - Uithoorn via Hoofddorp Station;340;;BUS;;FF0000;FFFFFF
+1;true;CXX;M341;341;Spaarne Gasthuis - WTC/Zuid via Hoofddorp Station;341;;BUS;;D1EA32;000000
+1;true;CXX;M342;342;Uithoorn - Schiphol Knooppunt Noord via Airport;342;;BUS;;FF0000;FFFFFF
+1;true;CXX;M346;346;Haarlem Station - Amsterdam Station Zuid;346;;BUS;;D1EA32;000000
+1;true;CXX;M347;347;Uithoorn - Amsterdam Elandsgracht via Amstelveen;347;;BUS;;FFCC00;000000
+1;true;CXX;M348;348;Uithoorn - Amsterdam Station Zuid via Amstelveen;348;;BUS;;D1EA32;000000
+1;true;CXX;M356;356;Haarlem Station - A'dam Bijlmer ArenA via KP Noord;356;;BUS;;77216F;FFFFFF
+1;true;CXX;M357;357;Aalsmeer - Amsterdam Elandsgracht via Amstelveen;357;;BUS;;FFCC00;000000
+1;true;CXX;M358;358;Kudelstaart/Aalsmeer - A'dam Station Zuid via ASV;358;;BUS;;D1EA32;000000
+1;true;CXX;M397;397;Nieuw Vennep - Amsterdam Elandsgracht via Airport;397;;BUS;;FFCC00;000000
+1;true;CXX;M401;401;Bennebroek - Hoofddorp Station via Spaarnegasthuis;401;;BUS;;AFB4B9;000000
+1;true;CXX;M612;612;Abcoude - Amsterdam;212;;BUS;;AFB4B9;000000
+1;true;CXX;M640;640;Hoofddorp Station - Hoofddorp Kaj Munkweg;640;;BUS;;AFB4B9;000000
+1;true;CXX;M663;663;Rijsenhout - Hoofddorp Station;663;;BUS;;AFB4B9;000000
+1;true;CXX;M949;149;Uithoorn - Amstelveen;149;;BUS;;AFB4B9;000000
+1;true;CXX;M963;163;Rijsenhout - Hoofddorp Station;163;;BUS;;AFB4B9;000000
+1;true;CXX;M964;164;Buitenkaag - Nieuw Vennep;164;;BUS;;AFB4B9;000000
+1;true;CXX;N002;2;Spaarnwoude Station - Haarlem Delftplein;2;;BUS;;00CCFF;000000
+1;true;CXX;N003;3;Schalkwijk Centrum - IJmuiden;3;;BUS;;FF99FF;FFFFFF
+1;true;CXX;N004;4;Schalkwijk Centrum - Station Heemstede-Aerdenhout;4;;BUS;;66CC33;000000
+1;true;CXX;N007;7;Haarlem Stat. - Spaarne College - Haarlem Stat.;7;;BUS;;FFCC00;000000
+1;true;CXX;N008;8;Haarlem Station - Hogeschool INHOLLAND;8;;BUS;;FFCC00;000000
+1;true;CXX;N009;9;Vogelenzang Dorp - Station Heemstede-Aerdenhout;9;;BUS;;FFFF00;000000
+1;true;CXX;N014;14;Hillegom Station - Haarlemmerl. Pont Buitenhuizen;14;;BUS;;0000FF;FFFFFF
+1;true;CXX;N015;15;Haarlem Station - Waarderpolder - Spaarnwoude St.;15;;BUS;;FFFF00;000000
+1;true;CXX;N059;59;Beverwijk Station - Zaandam Station;59;;BUS;;;
+1;true;CXX;N063;63;Zaandam Station - Assendelft - Krommenie Station;63;;BUS;;;
+1;true;CXX;N064;64;Zaandijk Rooswijk - Zaandam Kogerveld;64;;BUS;;;
+1;true;CXX;N065;65;Zaandam De Vlinder - Krommenie-Assendelft Station;65;;BUS;;;
+1;true;CXX;N067;67;Wormer - Zaandam Station - Westzaan - Assendelft;67;;BUS;;;
+1;true;CXX;N069;69;Krommenie - Zaandam Station - Kalf;69;;BUS;;;
+1;true;CXX;N071;71;Beverwijk Station - Uitgeest Station;71;;BUS;;00CCFF;000000
+1;true;CXX;N072;72;Beverwijk Station - Heemskerk Centrum;72;;BUS;;FF99FF;FFFFFF
+1;true;CXX;N073;73;Schalkwijk Centrum - Uitgeest Station;73;;BUS;;CC99FF;FFFFFF
+1;true;CXX;N074;74;IJmuiden Dennekoplaan - Heemskerk Centrum;74;;BUS;;FFFF00;000000
+1;true;CXX;N076;76;Beverwijk Station - Beverwijk Bazaar;76;;BUS;;FFCC00;000000
+1;true;CXX;N078;78;Wijk aan Zee - Beverwijk Station;78;;BUS;;0000FF;FFFFFF
+1;true;CXX;N079;79;Beverwijk Station - Castricum Soomerwegh;79;;BUS;;66CC33;000000
+1;true;CXX;N080;80;Zandvoort - Amsterdam Busstation Elandsgracht;80;;BUS;;FFCC00;000000
+1;true;CXX;N081;81;Zandvoort - Haarlem Station;81;;BUS;;66CC33;000000
+1;true;CXX;N286;N80;Amsterdam Centrum - Beverwijk Station;286;;BUS;;FFCC00;000000
+1;true;CXX;N290;N90;Amsterdam - Zaandam Station;290;;BUS;;;
+1;true;CXX;N292;N92;Amsterdam Leidseplein - Zaandam Station;292;;BUS;;;
+1;true;CXX;N294;N94;Amsterdam Leidseplein - Zaandam NS;94;;BUS;;;
+1;true;CXX;N382;382;IJmuiden Seaport - Amsterdam Station Sloterdijk;382;;BUS;;FF0000;FFFFFF
+1;true;CXX;N385;385;Haarlem Station - IJmuiden;385;;BUS;;FF0000;FFFFFF
+1;true;CXX;N391;391;Amsterdam CS - Zaandijk Zaanse Schans;391;;BUS;;FF0000;FFFFFF
+1;true;CXX;N392;392;Amsterdam - Zaandam Station;392;;BUS;;FF0000;FFFFFF
+1;true;CXX;N393;393;Amsterdam CS - Zaandam ZMC;393;;BUS;;FF0000;FFFFFF
+1;true;CXX;N394;394;Amsterdam CS - Zaandam Station;394;;BUS;;FF0000;FFFFFF
+1;true;CXX;N395;395;Amsterdam Station Sloterdijk - Wormerland P+R;395;;BUS;;FF0000;FFFFFF
+1;true;CXX;N398;398;Amsterdam Riekerpolder - Zaandam ZMC;398;;BUS;;FF0000;FFFFFF
+1;true;CXX;N414;414;Krommeniedijk - Oost-Knollendam;414;;BUS;;;
+1;true;CXX;N456;456;Assendelft - Zaandam Station;56;;BUS;;;
+1;true;CXX;N481;481;Haarlem Vijver  - Haarlem Delftplein;481;;BUS;;FFFF00;000000
+1;true;CXX;N567;567;Haarlem - Cruquius Paswerk;567;;BUS;;;
+1;true;CXX;N568;568;Haarlem - Cruquius Paswerk;568;;BUS;;;
+1;true;CXX;N680;680;Zwanenburg - Heemstede;180;;BUS;;FFCC00;000000
+1;true;CXX;V102;102;Bergen op Zoom - Oude Tonge;102;;BUS;;;
+1;true;CXX;V107;107;St.Maartensdijk - Bergen op Zoom;107;;BUS;;;
+1;true;CXX;V108;108;St.Maartensdijk - Bergen op Zoom;108;;BUS;;;
+1;true;CXX;V209;209;Bergen op Zoom - St.Annaland;209;;BUS;;;
+1;true;CXX;V602;602;St.Maartensdijk - Middelharnis;602;;BUS;;;
+1;true;CXX;V603;603;St.Maartensdijk - Bergen op Zoom;603;;BUS;;;
+1;true;CXX;V618;618;Halsteren - St.Maartensdijk;618;;BUS;;;
+1;true;CXX;V619;619;St.Annaland - Tholen;619;;BUS;;;
+1;true;CXX;W091;91;Vervangend vervoer Parkshuttle;91;;BUS;;;
+1;true;CXX;X001;1;Nijmegen CS - Malden Heidezoom;1;;BUS;;;
+1;true;CXX;X002;2;St Maartenskliniek - Nijmegen CS - Lindenholt West;2;;BUS;;;
+1;true;CXX;X003;3;Oosterhout - Nijmegen CS;3;;BUS;;;
+1;true;CXX;X004;4;Nijmegen Aldenhof - Dukenburg - Lindenholt Oost;4;;BUS;;;
+1;true;CXX;X005;5;Groesbeek - Nijmegen CS - Beuningen;5;;BUS;;;
+1;true;CXX;X006;6;Nijmegen Station Dukenburg - CS - Neerbosch Oost;6;;BUS;;;
+1;true;CXX;X007;X007;Nijmegen CS - Afrikamuseum;7;;BUS;;;
+1;true;CXX;X008;8;Nijmegen Hatert - CS - Berg en Dal;8;;BUS;;;
+1;true;CXX;X009;9;Nijmegen CS - Grave Busstation;9;;BUS;;;
+1;true;CXX;X010;10;Nijmegen CS - Heyendaal - CS;10;;BUS;;;
+1;true;CXX;X011;11;Beuningen - Dukenburg - Nijmegen CS;11;;BUS;;;
+1;true;CXX;X012;12;Druten - Nijmegen CS;12;;BUS;;;
+1;true;CXX;X013;13;Lent - CS - Wijchen Noord;13;;BUS;;;
+1;true;CXX;X015;15;Lent - CS - Wijchen Zuid;15;;BUS;;;
+1;true;CXX;X042;42;Druten Busstation - Tiel Station;42;;BUS;;;
+1;true;CXX;X058;58;Kleve Bahnhof - Nijmegen CS - Heyendaal;58;;BUS;;;
+1;true;CXX;X076;76;Millingen - Groesbeek;76;;BUS;;;
+1;true;CXX;X080;80;Millingen - Ooij - Nijmegen CS;80;;BUS;;;
+1;true;CXX;X082;82;Millingen - Nijmegen CS;82;;BUS;;;
+1;true;CXX;X083;83;Nijmegen CS - Gennep - Venlo Station;83;;BUS;;;
+1;true;CXX;X085;85;Nijmegen CS - Druten Busstation;85;;BUS;;;
+1;true;CXX;X089;89;Nijmegen CS - Druten Busstation;89;;BUS;;;
+1;true;CXX;X099;99;Nijmegen CS - Grave - Uden Busstation;99;;BUS;;;
+1;true;CXX;X125;125;Ressen - Nijmegen - Ressen;125;;BUS;;;
+1;true;CXX;X561;561;Wijchen Station - Malden Schoolstraat;561;;BUS;;;
+1;true;CXX;X562;562;Beek - Groesbeek - Malden;562;;BUS;;;
+1;true;CXX;X563;563;Wijchen Mozaiek - Batenburg RK Kerk;563;;BUS;;;
+1;true;CXX;X564;564;Groesbeek Stekkenberg - Molenhoek Station;564;;BUS;;;
+1;true;CXX;X565;565;Beuningen Kerk - Wijchen Mozaiek;565;;BUS;;;
+1;true;CXX;X568;568;Wijchen Moziek - Grave Kindcentrum;568;;BUS;;;
+1;true;CXX;Y070;70;Steenwijk - Zwartsluis - Zwolle;70;;BUS;;;
+1;true;CXX;Y071;71;Zwolle - Emmeloord;71;;BUS;;;
+1;true;CXX;Y074;74;Kampen - Genemuiden - Hasselt - Zwolle;74;;BUS;;;
+1;true;CXX;Y075;75;Marknesse - Steenwijk;75;;BUS;;;
+1;true;CXX;Y076;76;Emmeloord - Marknesse - Steenwijk;76;;BUS;;;
+1;true;CXX;Y077;77;Emmeloord - Lemmer;77;;BUS;;;
+1;true;CXX;Y082;674;Staphorst - Lichtmis - Kampen;82;;BUS;;;
+1;true;CXX;Y171;171;Zwolle - Vollenhove;171;;BUS;;;
+1;true;CXX;Y679;679;Scholierenlijn,  Meppel - Vollenhove;679;;BUS;;;
+1;true;CXX;Z001;1;Oostburg - Terneuzen;1;;BUS;;;
+1;true;CXX;Z006;6;Terneuzen - Zelzate;6;;BUS;;;
+1;true;CXX;Z009;9;Terneuzen, Busstation - DOW;9;;BUS;;;
+1;true;CXX;Z010;10;Terneuzen - Hulst;10;;BUS;;;
+1;true;CXX;Z019;19;Hulst - Breda;19;;BUS;;;
+1;true;CXX;Z020;20;Hulst - Goes;20;;BUS;;;
+1;true;CXX;Z023;23;'s-Heerenhoek - Goes;23;;BUS;;;
+1;true;CXX;Z027;27;Yerseke - Goes;27;;BUS;;;
+1;true;CXX;Z031;31;Kamperland - Goes;31;;BUS;;;
+1;true;CXX;Z042;42;Brugge - Breskens;42;;BUS;;;
+1;true;CXX;Z050;50;Middelburg - Terneuzen(Gent);50;;BUS;;;
+1;true;CXX;Z052;52;Domburg - Middelburg;52;;BUS;;;
+1;true;CXX;Z053;53;Middelburg - Domburg;53;;BUS;;;
+1;true;CXX;Z056;56;Middelburg - Vlissingen;56;;BUS;;;
+1;true;CXX;Z057;57;Middelburg - Vlissingen;57;;BUS;;;
+1;true;CXX;Z058;58;Middelburg - Vlissingen;58;;BUS;;;
+1;true;CXX;Z065;65;Middelburg, Station - Podium/Scalda;65;;BUS;;;
+1;true;CXX;Z104;104;Renesse-Spijkenisse;104;;BUS;;;
+1;true;CXX;Z132;132;Goes - Zierikzee;132;;BUS;;;
+1;true;CXX;Z133;133;Middelburg - Oude Tonge;133;;BUS;;;
+1;true;CXX;Z134;134;Zierikzee - Brouwershaven - Zierikzee;134;;BUS;;;
+1;true;CXX;Z135;135;Middelharnis-Ooltgensplaat;135;;BUS;;;
+1;true;CXX;Z137;134;Middelharnis, Gemeentehuis-Binnenhof;134;;BUS;;;
+1;true;CXX;Z138;138;Herkingen-Middelharnis;138;;BUS;;;
+1;true;CXX;Z160;160;Goudswaard-Rotterdam;160;;BUS;;;
+1;true;CXX;Z163;163;Oud-Beijerland-Kralingse Zoom;163;;BUS;;;
+1;true;CXX;Z164;164;Zuid-Beijerland-Heinenoord;164;;BUS;;;
+1;true;CXX;Z166;166;Dordrecht-Rotterdam;166;;BUS;;;
+1;true;CXX;Z167;167;Strijen-Heinenoord;167;;BUS;;;
+1;true;CXX;Z168;168;'s-Gravendeel-Heinenoord;168;;BUS;;;
+1;true;CXX;Z169;169;Willemstad-Numansdorp A29;169;;BUS;;;
+1;true;CXX;Z170;170;Goudswaard-Rotterdam;170;;BUS;;;
+1;true;CXX;Z171;171;Oud Beijerland-Rotterdam;171;;BUS;;;
+1;true;CXX;Z172;172;Oud Beijerland-Rotterdam;172;;BUS;;;
+1;true;CXX;Z174;174;Numansdorp-Rotterdam;174;;BUS;;;
+1;true;CXX;Z175;175;Dordrecht-Strijen;175;;BUS;;;
+1;true;CXX;Z176;176;Dordrecht-Rotterdam;176;;BUS;;;
+1;true;CXX;Z177;177;Strijen-Rotterdam;177;;BUS;;;
+1;true;CXX;Z185;185;Goes, Station - Ziekenhuis;185;;BUS;;;
+1;true;CXX;Z186;185;Strijensas s'Gravendeel;185;;BUS;;;
+1;true;CXX;Z194;194;Zuid-Beijerland-Heinenoord;194;;BUS;;;
+1;true;CXX;Z197;197;Strijensas-Strijen;197;;BUS;;;
+1;true;CXX;Z220;220;Axel - Terneuzen;220;;BUS;;;
+1;true;CXX;Z223;223;Terneuzen - Goes;223;;BUS;;;
+1;true;CXX;Z225;225;Goes - 's-Gravenpolder - Goes;225;;BUS;;;
+1;true;CXX;Z258;258;Middelburg - Vlissingen;58;;BUS;;;
+1;true;CXX;Z263;263;Oud-Beijerland-Kralingsezoom;263;;BUS;;;
+1;true;CXX;Z264;264;Zuid-Beijerland-Heinenoord;164;;BUS;;;
+1;true;CXX;Z274;274;Numansdorp-Rotterdam;274;;BUS;;;
+1;true;CXX;Z395;395;Zierikzee - Rotterdam;395;;BUS;;;
+1;true;CXX;Z436;436;Ouddorp-Rotterdam;136;;BUS;;FF0000;FFFFFF
+1;true;CXX;Z437;437;Ouddorp-Rotterdam;139;;BUS;;FF0000;FFFFFF
+1;true;CXX;Z507;507;Axel - St.Jansteen;507;;BUS;;;
+1;true;CXX;Z511;511;Terneuzen - Sas van Gent;511;;BUS;;;
+1;true;CXX;Z513;513;Sas Van Gent - Axel;513;;BUS;;;
+1;true;CXX;Z515;515;Breskens - Biervliet;515;;BUS;;;
+1;true;CXX;Z555;555;'s Heerenhoek - Heinkenszand;555;;BUS;;;
+1;true;CXX;Z580;580;Kattendijke - Goes;580;;BUS;;;
+1;true;CXX;Z581;581;Vlissingen Oost - Middelburg;581;;BUS;;;
+1;true;CXX;Z582;582;Oud Sabbinge - Goes;582;;BUS;;;
+1;true;CXX;Z583;583;Westkapelle - Veere;583;;BUS;;;
+1;true;CXX;Z584;584;Middelburg - Veere;584;;BUS;;;
+1;true;CXX;Z585;585;Strijensas s'Gravendeel;585;;BUS;;;
+1;true;CXX;Z587;587;Strijensas-Strijen;587;;BUS;;;
+1;true;CXX;Z589;589;Ossenisse - Clinge;589;;BUS;;;
+1;true;CXX;Z591;591;Nieuwerkerk - Zierikzee via Dreischor;591;;BUS;;;
+1;true;CXX;Z592;592;Nieuwerkerk - Zierikzee via Ouwerkerk;592;;BUS;;;
+1;true;CXX;Z593;593;Kats - Kortgene;593;;BUS;;;
+1;true;CXX;Z594;594;Rilland - Kruiningen;594;;BUS;;;
+1;true;CXX;Z595;595;Goes - Hoedekenskerke;595;;BUS;;;
+1;true;CXX;Z596;596;'s Heerenhoek - Ellewoutsdijk;596;;BUS;;;
+1;true;CXX;Z597;597;'s Heerenhoek - Hoedekenskerke;597;;BUS;;;
+1;true;CXX;Z598;598;'s Heerenhoek - Heinkenszand;598;;BUS;;;
+1;true;CXX;Z599;599;Wemeldinge - Yerseke;599;;BUS;;;
+1;true;CXX;Z601;601;Oostburg - Terneuzen;601;;BUS;;;
+1;true;CXX;Z604;604;Hoofdplaat - Oostburg;604;;BUS;;;
+1;true;CXX;Z606;606;Sas van Gent - Terneuzen;606;;BUS;;;
+1;true;CXX;Z607;607;Hoek - Axel;607;;BUS;;;
+1;true;CXX;Z608;608;Sas van Gent - Hulst;608;;BUS;;;
+1;true;CXX;Z612;612;Eede - Oostburg;612;;BUS;;;
+1;true;CXX;Z614;604;Ouddorp-Brielle;104;;BUS;;;
+1;true;CXX;Z628;628;Westenschouwen - Goes;628;;BUS;;;
+1;true;CXX;Z629;629;Bruinisse - Goes;629;;BUS;;;
+1;true;CXX;Z630;630;Hellevoetsluis-Middelharnis;136;;BUS;;;
+1;true;CXX;Z631;631;Zierikzee - Middelharnis;631;;BUS;;;
+1;true;CXX;Z633;633;Vlissingen - Zierikzee;633;;BUS;;;
+1;true;CXX;Z634;634;Dreischor - Zierikzee;634;;BUS;;;
+1;true;CXX;Z635;635;Ooltgensplaat-Middelharnis;135;;BUS;;;
+1;true;CXX;Z636;639;Ouddorp-Middelharnis;136;;BUS;;;
+1;true;CXX;Z638;638;Goes Station Goes Zwembadweg;638;;BUS;;;
+1;true;CXX;Z639;639;Krabbendijke - Goes;639;;BUS;;;
+1;true;CXX;Z641;641;Middelburg - Goes;641;;BUS;;;
+1;true;CXX;Z643;643;St.Annaland - Goes;643;;BUS;;;
+1;true;CXX;Z644;644;Stavenisse - Goes;644;;BUS;;;
+1;true;CXX;Z645;645;Terneuzen - Krabbendijke;645;;BUS;;;
+1;true;CXX;Z646;646;Middelburg - Goes;646;;BUS;;;
+1;true;CXX;Z647;647;Domburg - Krabbendijke;647;;BUS;;;
+1;true;CXX;Z650;650;Middelburg - Terneuzen(Gent);650;;BUS;;;
+1;true;CXX;Z660;660;Terneuzen - Vlissingen;660;;BUS;;;
+1;true;CXX;Z662;662;Zuid-Beijerland-Oud-Beijerland;162;;BUS;;;
+1;true;CXX;Z663;663;Goudswaard-Lombardijen;163;;BUS;;;
+1;true;CXX;Z664;664;Oud-Beijerland - Numansdorp Viaduct A29;664;;BUS;;;
+1;true;CXX;Z666;666;Maasdam-Oud-Beijerland;166;;BUS;;;
+1;true;CXX;Z667;667;Strijen-Oud-Beijerland;167;;BUS;;;
+1;true;CXX;Z668;668;'s-Gravendeel-Oud-Beijerland;168;;BUS;;;
+1;true;CXX;Z669;669;Willemstad-Oud-Beijerland;169;;BUS;;;
+1;true;CXX;Z680;680;Heinenoord-Barendrecht;180;;BUS;;;
+1;true;CXX;Z711;711;Oud-Beijerland-Zuid-Beijerland;111;;BUS;;;
+1;true;CXX;Z712;712;van Zuid-Beijerland naar Oud-Beijerland;112;;BUS;;;
+1;true;CXX;Z860;860;Nachtbus;860;;BUS;;;
+1;true;CXX;Z867;867;Rotterdam CS - Numansdorp;867;;BUS;;;

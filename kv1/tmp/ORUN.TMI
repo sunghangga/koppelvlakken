@@ -1,0 +1,477 @@
+[Recordtype]|[Version number]|[Implicit/Explicit]|[DataOwnerCode]|[OrganizationalUnitCode]|[Name]|[OrganizationalUnitType]|[Description]
+ORUN|1|I|CXX|A001|Oosterbeek - Velp|LINE|
+ORUN|1|I|CXX|A002|Arnhem CS - De Laar West|LINE|
+ORUN|1|I|CXX|A003|Arnhem Burgers Zoo - Het Duifje|LINE|
+ORUN|1|I|CXX|A004|Arnhem CS - Kronenburg|LINE|
+ORUN|1|I|CXX|A005|Arnhem Schuytgraaf - Presikhaaf|LINE|
+ORUN|1|I|CXX|A006|Arnhem De Laar West - Elsweide|LINE|
+ORUN|1|I|CXX|A007|Arnhem Geitenkamp - Rijkerswoerd|LINE|
+ORUN|1|I|CXX|A008|Velp - Arnhem CS|LINE|
+ORUN|1|I|CXX|A009|Schaarsbergen - Arnhem CS|LINE|
+ORUN|1|I|CXX|A010|Arnhem CS - Papendal|LINE|
+ORUN|1|I|CXX|A011|Station Arnhem Zuid - Het Duifje|LINE|
+ORUN|1|I|CXX|A012|Arnhem CS - IJsseloord 2|LINE|
+ORUN|1|I|CXX|A013|Arnhem CS - Klarendal|LINE|
+ORUN|1|I|CXX|A014|Arnhem CS - Elst - Nijmegen Brakkenstein|LINE|
+ORUN|1|I|CXX|A026|Arnhem CS - Dieren Station|LINE|
+ORUN|1|I|CXX|A027|Arnhem CS - Doetinchem|LINE|
+ORUN|1|I|CXX|A029|Arnhem CS - Doetinchem|LINE|
+ORUN|1|I|CXX|A033|Arnhem CS - Bemmel -  Nijmegen CS|LINE|
+ORUN|1|I|CXX|A035|Bemmel - Elst - Zetten|LINE|
+ORUN|1|I|CXX|A043|Apeldoorn Station - Arnhem CS|LINE|
+ORUN|1|I|CXX|A051|Wageningen Station - Arnhem CS|LINE|
+ORUN|1|I|CXX|A054|Wageningen - Heteren|LINE|
+ORUN|1|I|CXX|A056|Wageningen Station - Arnhem CS|LINE|
+ORUN|1|I|CXX|A060|Tolkamer Lobede - Arnhem CS|LINE|
+ORUN|1|I|CXX|A061|Westervoort Station - Duiven Centerpoort Noord|LINE|
+ORUN|1|I|CXX|A062|Duiven Centerpoort Noord - Arnhem CS|LINE|
+ORUN|1|I|CXX|A066|Westervoort Station - Centerpoort Nieuwgraaf|LINE|
+ORUN|1|I|CXX|A070|Giesbeek - Rozendaal|LINE|
+ORUN|1|I|CXX|A071|Eerbeek - Rozendaal|LINE|
+ORUN|1|I|CXX|A072|Arnhem CS - Huissen Bergerden|LINE|
+ORUN|1|I|CXX|A078|Papendal - Beekdal Lyceum|LINE|
+ORUN|1|I|CXX|A300|Arnhem CS - Nijmegen Heyendaal|LINE|
+ORUN|1|I|CXX|A331|Velp Zuid - Nijmegen Weezenhof|LINE|
+ORUN|1|I|CXX|A352|Wageningen Station - Arnhem CS|LINE|
+ORUN|1|I|CXX|A524|Spankeren - Dieren Station|LINE|
+ORUN|1|I|CXX|A525|Dieren Station - Dieren West|LINE|
+ORUN|1|I|CXX|A526|Dieren Station - Dieren Noord|LINE|
+ORUN|1|I|CXX|A556|Heteren - Elst|LINE|
+ORUN|1|I|CXX|A560|Herwen - Zevenaar Ziekenhuis|LINE|
+ORUN|1|I|CXX|A566|Spijk - Zevenaar Station|LINE|
+ORUN|1|I|CXX|A589|Doorwerth De Weerd - Wolfheze Het Schild|LINE|
+ORUN|1|I|CXX|A590|Doorwerth De Weerd - Wolfheze Het Schild|LINE|
+ORUN|1|I|CXX|C144|Harderwijk - Zeewolde|LINE|
+ORUN|1|I|CXX|CXX|Connexxion|BEDR|
+ORUN|1|I|CXX|E625|Zeewolde - Amersfoort|LINE|
+ORUN|1|I|CXX|F021|Dronten stadsdienst|LINE|
+ORUN|1|I|CXX|F022|Dronten stadsdienst|LINE|
+ORUN|1|I|CXX|F032|Hilversum - Huizen|LINE|
+ORUN|1|I|CXX|F100|Bussum - Blaricum|LINE|
+ORUN|1|I|CXX|F101|Bussum - Blaricum|LINE|
+ORUN|1|I|CXX|F104|Hilversum - Nieuw Loosdrecht|LINE|
+ORUN|1|I|CXX|F105|Bussum - Hilversum|LINE|
+ORUN|1|I|CXX|F106|Weesp - Nederhorst den Berg|LINE|
+ORUN|1|I|CXX|F107|Huizen - Hilversum|LINE|
+ORUN|1|I|CXX|F108|Huizen - Hilversum|LINE|
+ORUN|1|I|CXX|F109|Bussum - Hilversum|LINE|
+ORUN|1|I|CXX|F110|Bussum - Weesp|LINE|
+ORUN|1|I|CXX|F140|Emmeloord - Lelystad|LINE|
+ORUN|1|I|CXX|F142|Nijkerk - Zeewolde - Harderwijk|LINE|
+ORUN|1|I|CXX|F143|Kampen - Dronten|LINE|
+ORUN|1|I|CXX|F145|Lelystad - Swifterbant|LINE|
+ORUN|1|I|CXX|F146|Emmeloord - Dronten|LINE|
+ORUN|1|I|CXX|F147|Harderwijk - Dronten|LINE|
+ORUN|1|I|CXX|F148|Lelystad - Harderwijk|LINE|
+ORUN|1|I|CXX|F149|Urk - Nagele|LINE|
+ORUN|1|I|CXX|F159|Almere Stad - Zeewolde - Harderwijk|LINE|
+ORUN|1|I|CXX|F160|Almere - Zeewolde|LINE|
+ORUN|1|I|CXX|F163|Lelystad - Dronten|LINE|
+ORUN|1|I|CXX|F164|Swifterbant - Lelystad via Runderweg|LINE|
+ORUN|1|I|CXX|F202|Blaricum - Amsterdam|LINE|
+ORUN|1|I|CXX|F209|Blaricum - Amsterdam|LINE|
+ORUN|1|I|CXX|F210|Bussum - Weesp|LINE|
+ORUN|1|I|CXX|F301|Hilversum Station - Kerkelanden|LINE|
+ORUN|1|I|CXX|F302|Hilversum Station - Erfgooierskwartier|LINE|
+ORUN|1|I|CXX|F303|Hilversum Station - Tergooi Ziekenhuis|LINE|
+ORUN|1|I|CXX|F320|Amsterdam - Hilversum|LINE|
+ORUN|1|I|CXX|F602|Naarden - Amsterdam|LINE|
+ORUN|1|I|CXX|F609|Blaricum - Amsterdam|LINE|
+ORUN|1|I|CXX|F663|Lelystad - Kampen Pieter Zandt|LINE|
+ORUN|1|I|CXX|G011|Kampen Station - Flevowijk - Bovenbroek|LINE|
+ORUN|1|I|CXX|G141|Kampen - Emmeloord - Urk|LINE|
+ORUN|1|I|CXX|G506|Wilsum - Kampen - Hattem|LINE|
+ORUN|1|I|CXX|G641|Zwolle - Kampen - Emmeloord - Urk|LINE|
+ORUN|1|I|CXX|G681|Urk - Emmeloord - Kampen|LINE|
+ORUN|1|I|CXX|H001|Alkmaar Station - de Hoef|LINE|
+ORUN|1|I|CXX|H002|Alkmaar Daalmeer - Station - Overdie|LINE|
+ORUN|1|I|CXX|H003|Alkmaar Station - De Mare - Daalmeer|LINE|
+ORUN|1|I|CXX|H004|Alkmaar Station - Vroonermeer - Daalmeer|LINE|
+ORUN|1|I|CXX|H008|Alkmaar Station - Bestevaerstraat|LINE|
+ORUN|1|I|CXX|H010|St. Pancras - Alkmaar Station|LINE|
+ORUN|1|I|CXX|H011|Hoorn Station - Zwaag Risdam|LINE|
+ORUN|1|I|CXX|H014|Luslijn Hoorn Station - Kersenboogerd|LINE|
+ORUN|1|I|CXX|H028|Texel Veerhaven - Den Burg - De Koog|LINE|
+ORUN|1|I|CXX|H030|Den Helder Station - Station Zuid - Julianadorp|LINE|
+ORUN|1|I|CXX|H031|Den Helder Station Zuid - Den Helder Station|LINE|
+ORUN|1|I|CXX|H033|Den Helder Station - Veerhaven|LINE|
+ORUN|1|I|CXX|H034|Den Helder Station - De Schooten|LINE|
+ORUN|1|I|CXX|H123|Alkmaar Station - De Rijp - Alkmaar Station|LINE|
+ORUN|1|I|CXX|H128|Hoorn Station - Noordbeemster|LINE|
+ORUN|1|I|CXX|H129|Alkmaar Station - Noordbeemster - P'rend Tramplein|LINE|
+ORUN|1|I|CXX|H132|Hoorn Station - Wervershoof - Andijk|LINE|
+ORUN|1|I|CXX|H133|Hoorn Station - Wognum - Opmeer - Hoogwoud|LINE|
+ORUN|1|I|CXX|H134|Hoorn Station - Abbekerk Dorp - Wieringerwerf|LINE|
+ORUN|1|I|CXX|H135|Hoorn Station - Wieringerwerf - Den Helder|LINE|
+ORUN|1|I|CXX|H136|Nibbixwoud - Oostwoud - Hoorn Station|LINE|
+ORUN|1|I|CXX|H139|Hoorn Station - Abbekerk - Opperdoes - Medemblik|LINE|
+ORUN|1|I|CXX|H151|Alkmaar Station - Petten|LINE|
+ORUN|1|I|CXX|H152|Schagen Station - Callantsoog|LINE|
+ORUN|1|I|CXX|H156|Warmenhuizen - Schagen Station|LINE|
+ORUN|1|I|CXX|H157|Alkmaar Station - Tuitjenhorn|LINE|
+ORUN|1|I|CXX|H160|Alkmaar Station - Heerhugowaard|LINE|
+ORUN|1|I|CXX|H162|Alkmaar Station - Heerhugowaard Icaruslaan|LINE|
+ORUN|1|I|CXX|H163|Alkmaar Station - Akersloot - Uitgeest|LINE|
+ORUN|1|I|CXX|H164|Castricum Station - Egmond Binnen - Egmond aan Zee|LINE|
+ORUN|1|I|CXX|H165|Alkmaar Station -  Egmond a/Zee|LINE|
+ORUN|1|I|CXX|H166|Bergen - Alkmaar Station|LINE|
+ORUN|1|I|CXX|H167|Castricum Station - Alkmaar Station|LINE|
+ORUN|1|I|CXX|H169|Alkmaar Station - Oudkarspel|LINE|
+ORUN|1|I|CXX|H232|Hoorn Station - Blokker - Wervershoof - Andijk|LINE|
+ORUN|1|I|CXX|H250|Middenmeer - Alkmaar Station|LINE|
+ORUN|1|I|CXX|H251|Alkmaar Station - Petten via ECN|LINE|
+ORUN|1|I|CXX|H260|Alkmaar Station - Heerhugowaard|LINE|
+ORUN|1|I|CXX|H269|Amsterdam Elandsgracht - Alkmaar Station|LINE|
+ORUN|1|I|CXX|H406|Schagen Station - Zijdewind - Waarland|LINE|
+ORUN|1|I|CXX|H407|Buurtbus Heerhugowaard|LINE|
+ORUN|1|I|CXX|H408|Heiloo 't Loo - Egmond aan Zee|LINE|
+ORUN|1|I|CXX|H409|Obdam - Ursem - Heerhugowaard|LINE|
+ORUN|1|I|CXX|H410|Egmond aan Zee - Schoorl|LINE|
+ORUN|1|I|CXX|H411|Tuitjenhorn - Schagen Station|LINE|
+ORUN|1|I|CXX|H412|Hoorn Station - Hem - Hoogkarspel - Bovenkarspel|LINE|
+ORUN|1|I|CXX|H415|Medemblik - Wervershoof - Westwoud - Hoorn Station|LINE|
+ORUN|1|I|CXX|H416|Kreileroord - Schagen Station|LINE|
+ORUN|1|I|CXX|H417|Schagen Station - Obdam|LINE|
+ORUN|1|I|CXX|H438|Enkhuizen - Bovenkarspel - Wervershoof|LINE|
+ORUN|1|I|CXX|H606|Alkmaar Station - Bergen Europese School|LINE|
+ORUN|1|I|CXX|H612|Hoorn Station - Hem - Hoogkarspel - Bovenkarspel|LINE|
+ORUN|1|I|CXX|H617|Hoogwoud - Obdam|LINE|
+ORUN|1|I|CXX|H636|Aartswoud - Hoogwoud - Hoorn Station|LINE|
+ORUN|1|I|CXX|H650|Lelystad - Enkhuizen - Wervershoof|LINE|
+ORUN|1|I|CXX|H652|Den Helder Station - Schagen Station|LINE|
+ORUN|1|I|CXX|H653|Kreileroord - Wieringerwerf - Middenmeer - Schagen|LINE|
+ORUN|1|I|CXX|H655|Medemblik Station - Kreileroord - Wieringerwerf|LINE|
+ORUN|1|I|CXX|H658|Schagen Station - Anna Paulowna Station|LINE|
+ORUN|1|I|CXX|H660|Alkmaar Station - Alkmaar Hogeschool|LINE|
+ORUN|1|I|CXX|H923|Overal Flex Alkmaar|LINE|
+ORUN|1|I|CXX|H928|Texelhopper|LINE|
+ORUN|1|I|CXX|H936|Overal Flex Hoorn|LINE|
+ORUN|1|I|CXX|H952|Overal Flex Schagen|LINE|
+ORUN|1|I|CXX|H956|Overal Flex Winkel|LINE|
+ORUN|1|I|CXX|H958|Overal Flex Anna Paulowna|LINE|
+ORUN|1|I|CXX|H964|Overal Flex Castricum|LINE|
+ORUN|1|I|CXX|H967|Overal Flex Heiloo|LINE|
+ORUN|1|I|CXX|L002|Eindhoven Blixembosch Oost - Station|LINE|
+ORUN|1|I|CXX|L003|Eindhoven Blixembosch West - Station|LINE|
+ORUN|1|I|CXX|L004|Eindhoven Heesterakker - Station|LINE|
+ORUN|1|I|CXX|L005|Eindhoven 't Hofke - Station|LINE|
+ORUN|1|I|CXX|L006|Nuenen - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L007|Veldhoven MMC - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L008|Acht - Station|LINE|
+ORUN|1|I|CXX|L009|Best Station - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L010|Eindhoven Airport - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L011|Weert Station - Maarheeze - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L012|Eindhoven Gijzenrooi - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L014|Veldhoven Centrum - De Hurk - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L015|Veldhoven Centrum - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L016|Veldhoven MMC - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L017|Eindhoven Kortonjolaan - Station|LINE|
+ORUN|1|I|CXX|L018|Bergeijk - Veldhoven - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L019|Bladel - Eersel - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L020|Veldhoven MMC - Airport - Best Station|LINE|
+ORUN|1|I|CXX|L021|Son en Breugel - Ekkersrijt|LINE|
+ORUN|1|I|CXX|L022|Son en Breugel - Ekkersrijt|LINE|
+ORUN|1|I|CXX|L023|Helmond Station - Boxmeer Station|LINE|
+ORUN|1|I|CXX|L024|Helmond Station - Mierlo - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L025|Helmond Station - Donk - Gemert|LINE|
+ORUN|1|I|CXX|L026|Helmond Station - Gemert|LINE|
+ORUN|1|I|CXX|L028|Meijel - Deurne|LINE|
+ORUN|1|I|CXX|L051|Eeuwsels - Helmond Station|LINE|
+ORUN|1|I|CXX|L052|Rijpelberg  - Helmond Station|LINE|
+ORUN|1|I|CXX|L053|Helmond Straakven - Helmond Station|LINE|
+ORUN|1|I|CXX|L054|Brouwhuis  - Helmond Station|LINE|
+ORUN|1|I|CXX|L055|'t Hofke - Eindhoven Stationsweg|LINE|
+ORUN|1|I|CXX|L101|Best Station - Best Breeven|LINE|
+ORUN|1|I|CXX|L103|Veldhoven Zonderwijk - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L114|Eindhoven Station - De Hurk|LINE|
+ORUN|1|I|CXX|L119|Eindhoven Station - Veldhoven ASML|LINE|
+ORUN|1|I|CXX|L123|Boxmeer - Gemert|LINE|
+ORUN|1|I|CXX|L150|Helmond Station - Dr. Klompelaan|LINE|
+ORUN|1|I|CXX|L255|Budel - Soerendonk - Maarheeze|LINE|
+ORUN|1|I|CXX|L256|Maarheeze station - Valkenswaard|LINE|
+ORUN|1|I|CXX|L257|Geldrop - Heeze - Valkenswaard|LINE|
+ORUN|1|I|CXX|L258|Weert - Maarheeze - Heeze|LINE|
+ORUN|1|I|CXX|L259|Nuenen - Beek en Donk|LINE|
+ORUN|1|I|CXX|L260|Geldrop - Son en Breugel - Best|LINE|
+ORUN|1|I|CXX|L261|Beek en Donk - Mariahout - Helmond|LINE|
+ORUN|1|I|CXX|L262|Helenaveen - Deurne|LINE|
+ORUN|1|I|CXX|L266|Deurne - Someren - Geldrop|LINE|
+ORUN|1|I|CXX|L268|Deurne - Bakel - Elsendorp|LINE|
+ORUN|1|I|CXX|L271|Aalst - Waalre - Veldhoven|LINE|
+ORUN|1|I|CXX|L272|Eersel - Weebosch - Lommel|LINE|
+ORUN|1|I|CXX|L276|Valkenswaard - Achel|LINE|
+ORUN|1|I|CXX|L277|Veldhoven - Valkenswaard|LINE|
+ORUN|1|I|CXX|L291|Middelbeers - Hoogeloon - Hapert - Bladel|LINE|
+ORUN|1|I|CXX|L292|Veldhoven - Hoogeloon|LINE|
+ORUN|1|I|CXX|L294|Veldhoven - Eersel - Vessem|LINE|
+ORUN|1|I|CXX|L317|Dommelen - Valkenswaard - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L318|Luyksgestel - Valkenswaard - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L319|Reusel - Eersel - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L320|Helmond Station - Asten - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L321|Gemert - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L322|Uden - Gerwen - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L324|Geldrop Coevering - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L400|Eindhoven Airport - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L401|Eindhoven Airport - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L402|Veldhoven Zonderwijk - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L403|Oerle Zuid - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L404|Nuenen - Summa College - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L405|Eindhoven Achtse Barrier - Station|LINE|
+ORUN|1|I|CXX|L406|Son - Ekkersrijt - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L407|High Tech Campus - Eindhoven Station|LINE|
+ORUN|1|I|CXX|L408|Station NS - HTC - Waalre|LINE|
+ORUN|1|I|CXX|L610|Eindhoven Internationale school - Station|LINE|
+ORUN|1|I|CXX|L618|Valkenswaard - Bladel Pius X-College|LINE|
+ORUN|1|I|CXX|L656|Budel-Maarheeze-Valkenswaard|LINE|
+ORUN|1|I|CXX|L657|Sterksel-Heeze-Leende-Valkenswaard|LINE|
+ORUN|1|I|CXX|M030|IJmuiden Dennekoplaan - Amsterdam Bijlmer ArenA|LINE|
+ORUN|1|I|CXX|M047|Uithoorn Busstation - Amsterdam CS via Amstelveen|LINE|
+ORUN|1|I|CXX|M057|Aalsmeer - Amsterdam CS IJzijde via Amstelveen|LINE|
+ORUN|1|I|CXX|M090|Knooppunt Noord - P30/Knooppunt ZW via Airport|LINE|
+ORUN|1|I|CXX|M095|Amsterdam Langsom - Schiphol via Badhoevedorp|LINE|
+ORUN|1|I|CXX|M097|Nieuw Vennep - Amsterdam CS IJzijde via Airport|LINE|
+ORUN|1|I|CXX|M149|AML-FLEX: Uithoorn - Amstelveen|LINE|
+ORUN|1|I|CXX|M160|Hoofddorp Station - Hoofddorp Centrum|LINE|
+ORUN|1|I|CXX|M161|Zwanenburg - Hoofddorp Station|LINE|
+ORUN|1|I|CXX|M162|Lisse - Hoofddorp Station|LINE|
+ORUN|1|I|CXX|M163|AML-FLEX: Rijsenhout - Schiphol Rijk|LINE|
+ORUN|1|I|CXX|M164|AML-FLEX: Buitenkaag - Nieuw Vennep|LINE|
+ORUN|1|I|CXX|M169|Hoofddorp Sportcomplex KWA - Hoofddorp Station|LINE|
+ORUN|1|I|CXX|M171|Aalsmeer - Amsterdam Bijlmer ArenA|LINE|
+ORUN|1|I|CXX|M174|Uithoorn - Amstelveen KLM Hoofdkantoor|LINE|
+ORUN|1|I|CXX|M180|Cirkellijn Schiphol [P30 - P30 via Oost & Rijk]|LINE|
+ORUN|1|I|CXX|M181|Cirkellijn Schiphol [Noord - Noord via Rijk&Oost]|LINE|
+ORUN|1|I|CXX|M185|Schiphol Airport - Justitieel Complex|LINE|
+ORUN|1|I|CXX|M186|Schiphol P30 - Amstelveen Busstation via KLM|LINE|
+ORUN|1|I|CXX|M190|Schiphol Knooppunt Noord - P30 via Airport|LINE|
+ORUN|1|I|CXX|M191|Schiphol Zuidoost - Schiphol|LINE|
+ORUN|1|I|CXX|M192|Hoofddorp - Schiphol Knooppunt Noord|LINE|
+ORUN|1|I|CXX|M194|Schiphol P30 - Nieuw West via Badhoevedorp|LINE|
+ORUN|1|I|CXX|M195|Schiphol P30 - A'dam Lelylaan via Badhoevedorp|LINE|
+ORUN|1|I|CXX|M198|Schiphol Beechavenue - Aalsmeer|LINE|
+ORUN|1|I|CXX|M199|Schiphol  P30 - Amstelveen Praam|LINE|
+ORUN|1|I|CXX|M200|A'dam Gaasperplas - Schiphol Airport|LINE|
+ORUN|1|I|CXX|M242|Mijdrecht - Amsterdam Station Zuid via Amstelveen|LINE|
+ORUN|1|I|CXX|M244|Haarlem Delftplein - Amsterdam Station Zuid|LINE|
+ORUN|1|I|CXX|M255|Haarlem Station - Amsterdam Bijlmer ArenA|LINE|
+ORUN|1|I|CXX|M271|Amsterdam Gaasperplas - Aalsmeer Floraholland|LINE|
+ORUN|1|I|CXX|M274|Uithoorn - Amsterdam Station Zuid via Amstelveen|LINE|
+ORUN|1|I|CXX|M287|Schiphol Airport - Douglassingel via Beechavenue|LINE|
+ORUN|1|I|CXX|M300|Haarlem Station - A'dam Bijlmer ArenA via Airport|LINE|
+ORUN|1|I|CXX|M340|Haarlem Station - Uithoorn via Hoofddorp Station|LINE|
+ORUN|1|I|CXX|M341|Spaarne Gasthuis - WTC/Zuid via Hoofddorp Station|LINE|
+ORUN|1|I|CXX|M342|Uithoorn - Schiphol Knooppunt Noord via Airport|LINE|
+ORUN|1|I|CXX|M346|Haarlem Station - Amsterdam Station Zuid|LINE|
+ORUN|1|I|CXX|M347|Uithoorn - Amsterdam Elandsgracht via Amstelveen|LINE|
+ORUN|1|I|CXX|M348|Uithoorn - Amsterdam Station Zuid via Amstelveen|LINE|
+ORUN|1|I|CXX|M356|Haarlem Station - A'dam Bijlmer ArenA via KP Noord|LINE|
+ORUN|1|I|CXX|M357|Aalsmeer - Amsterdam Elandsgracht via Amstelveen|LINE|
+ORUN|1|I|CXX|M358|Kudelstaart/Aalsmeer - A'dam Station Zuid via ASV|LINE|
+ORUN|1|I|CXX|M397|Nieuw Vennep - Amsterdam Elandsgracht via Airport|LINE|
+ORUN|1|I|CXX|M401|Bennebroek - Hoofddorp Station via Spaarnegasthuis|LINE|
+ORUN|1|I|CXX|M612|Abcoude - Amsterdam|LINE|
+ORUN|1|I|CXX|M640|Hoofddorp Station - Hoofddorp Kaj Munkweg|LINE|
+ORUN|1|I|CXX|M663|Rijsenhout - Hoofddorp Station|LINE|
+ORUN|1|I|CXX|M949|Uithoorn - Amstelveen|LINE|
+ORUN|1|I|CXX|M963|Rijsenhout - Hoofddorp Station|LINE|
+ORUN|1|I|CXX|M964|Buitenkaag - Nieuw Vennep|LINE|
+ORUN|1|I|CXX|N002|Spaarnwoude Station - Haarlem Delftplein|LINE|
+ORUN|1|I|CXX|N003|Schalkwijk Centrum - IJmuiden|LINE|
+ORUN|1|I|CXX|N004|Schalkwijk Centrum - Station Heemstede-Aerdenhout|LINE|
+ORUN|1|I|CXX|N007|Haarlem Stat. - Spaarne College - Haarlem Stat.|LINE|
+ORUN|1|I|CXX|N008|Haarlem Station - Hogeschool INHOLLAND|LINE|
+ORUN|1|I|CXX|N009|Vogelenzang Dorp - Station Heemstede-Aerdenhout|LINE|
+ORUN|1|I|CXX|N014|Hillegom Station - Haarlemmerl. Pont Buitenhuizen|LINE|
+ORUN|1|I|CXX|N015|Haarlem Station - Waarderpolder - Spaarnwoude St.|LINE|
+ORUN|1|I|CXX|N059|Beverwijk Station - Zaandam Station|LINE|
+ORUN|1|I|CXX|N063|Zaandam Station - Assendelft - Krommenie Station|LINE|
+ORUN|1|I|CXX|N064|Zaandijk Rooswijk - Zaandam Kogerveld|LINE|
+ORUN|1|I|CXX|N065|Zaandam De Vlinder - Krommenie-Assendelft Station|LINE|
+ORUN|1|I|CXX|N067|Wormer - Zaandam Station - Westzaan - Assendelft|LINE|
+ORUN|1|I|CXX|N069|Krommenie - Zaandam Station - Kalf|LINE|
+ORUN|1|I|CXX|N071|Beverwijk Station - Uitgeest Station|LINE|
+ORUN|1|I|CXX|N072|Beverwijk Station - Heemskerk Centrum|LINE|
+ORUN|1|I|CXX|N073|Schalkwijk Centrum - Uitgeest Station|LINE|
+ORUN|1|I|CXX|N074|IJmuiden Dennekoplaan - Heemskerk Centrum|LINE|
+ORUN|1|I|CXX|N076|Beverwijk Station - Beverwijk Bazaar|LINE|
+ORUN|1|I|CXX|N078|Wijk aan Zee - Beverwijk Station|LINE|
+ORUN|1|I|CXX|N079|Beverwijk Station - Castricum Soomerwegh|LINE|
+ORUN|1|I|CXX|N080|Zandvoort - Amsterdam Busstation Elandsgracht|LINE|
+ORUN|1|I|CXX|N081|Zandvoort - Haarlem Station|LINE|
+ORUN|1|I|CXX|N286|Amsterdam Centrum - Beverwijk Station|LINE|
+ORUN|1|I|CXX|N290|Amsterdam - Zaandam Station|LINE|
+ORUN|1|I|CXX|N292|Amsterdam Leidseplein - Zaandam Station|LINE|
+ORUN|1|I|CXX|N294|Amsterdam Leidseplein - Zaandam NS|LINE|
+ORUN|1|I|CXX|N382|IJmuiden Seaport - Amsterdam Station Sloterdijk|LINE|
+ORUN|1|I|CXX|N385|Haarlem Station - IJmuiden|LINE|
+ORUN|1|I|CXX|N391|Amsterdam CS - Zaandijk Zaanse Schans|LINE|
+ORUN|1|I|CXX|N392|Amsterdam - Zaandam Station|LINE|
+ORUN|1|I|CXX|N393|Amsterdam CS - Zaandam ZMC|LINE|
+ORUN|1|I|CXX|N394|Amsterdam CS - Zaandam Station|LINE|
+ORUN|1|I|CXX|N395|Amsterdam Station Sloterdijk - Wormerland P+R|LINE|
+ORUN|1|I|CXX|N398|Amsterdam Riekerpolder - Zaandam ZMC|LINE|
+ORUN|1|I|CXX|N414|Krommeniedijk - Oost-Knollendam|LINE|
+ORUN|1|I|CXX|N456|Assendelft - Zaandam Station|LINE|
+ORUN|1|I|CXX|N481|Haarlem Vijver  - Haarlem Delftplein|LINE|
+ORUN|1|I|CXX|N567|Haarlem - Cruquius Paswerk|LINE|
+ORUN|1|I|CXX|N568|Haarlem - Cruquius Paswerk|LINE|
+ORUN|1|I|CXX|N680|Zwanenburg - Heemstede|LINE|
+ORUN|1|I|CXX|V102|Bergen op Zoom - Oude Tonge|LINE|
+ORUN|1|I|CXX|V107|St.Maartensdijk - Bergen op Zoom|LINE|
+ORUN|1|I|CXX|V108|St.Maartensdijk - Bergen op Zoom|LINE|
+ORUN|1|I|CXX|V209|Bergen op Zoom - St.Annaland|LINE|
+ORUN|1|I|CXX|V602|St.Maartensdijk - Middelharnis|LINE|
+ORUN|1|I|CXX|V603|St.Maartensdijk - Bergen op Zoom|LINE|
+ORUN|1|I|CXX|V618|Halsteren - St.Maartensdijk|LINE|
+ORUN|1|I|CXX|V619|St.Annaland - Tholen|LINE|
+ORUN|1|I|CXX|W091|Vervangend vervoer Parkshuttle|LINE|
+ORUN|1|I|CXX|X001|Nijmegen CS - Malden Heidezoom|LINE|
+ORUN|1|I|CXX|X002|St Maartenskliniek - Nijmegen CS - Lindenholt West|LINE|
+ORUN|1|I|CXX|X003|Oosterhout - Nijmegen CS|LINE|
+ORUN|1|I|CXX|X004|Nijmegen Aldenhof - Dukenburg - Lindenholt Oost|LINE|
+ORUN|1|I|CXX|X005|Groesbeek - Nijmegen CS - Beuningen|LINE|
+ORUN|1|I|CXX|X006|Nijmegen Station Dukenburg - CS - Neerbosch Oost|LINE|
+ORUN|1|I|CXX|X007|Nijmegen CS - Afrikamuseum|LINE|
+ORUN|1|I|CXX|X008|Nijmegen Hatert - CS - Berg en Dal|LINE|
+ORUN|1|I|CXX|X009|Nijmegen CS - Grave Busstation|LINE|
+ORUN|1|I|CXX|X010|Nijmegen CS - Heyendaal - CS|LINE|
+ORUN|1|I|CXX|X011|Beuningen - Dukenburg - Nijmegen CS|LINE|
+ORUN|1|I|CXX|X012|Druten - Nijmegen CS|LINE|
+ORUN|1|I|CXX|X013|Lent - CS - Wijchen Noord|LINE|
+ORUN|1|I|CXX|X015|Lent - CS - Wijchen Zuid|LINE|
+ORUN|1|I|CXX|X042|Druten Busstation - Tiel Station|LINE|
+ORUN|1|I|CXX|X058|Kleve Bahnhof - Nijmegen CS - Heyendaal|LINE|
+ORUN|1|I|CXX|X076|Millingen - Groesbeek|LINE|
+ORUN|1|I|CXX|X080|Millingen - Ooij - Nijmegen CS|LINE|
+ORUN|1|I|CXX|X082|Millingen - Nijmegen CS|LINE|
+ORUN|1|I|CXX|X083|Nijmegen CS - Gennep - Venlo Station|LINE|
+ORUN|1|I|CXX|X085|Nijmegen CS - Druten Busstation|LINE|
+ORUN|1|I|CXX|X089|Nijmegen CS - Druten Busstation|LINE|
+ORUN|1|I|CXX|X099|Nijmegen CS - Grave - Uden Busstation|LINE|
+ORUN|1|I|CXX|X125|Ressen - Nijmegen - Ressen|LINE|
+ORUN|1|I|CXX|X561|Wijchen Station - Malden Schoolstraat|LINE|
+ORUN|1|I|CXX|X562|Beek - Groesbeek - Malden|LINE|
+ORUN|1|I|CXX|X563|Wijchen Mozaiek - Batenburg RK Kerk|LINE|
+ORUN|1|I|CXX|X564|Groesbeek Stekkenberg - Molenhoek Station|LINE|
+ORUN|1|I|CXX|X565|Beuningen Kerk - Wijchen Mozaiek|LINE|
+ORUN|1|I|CXX|X568|Wijchen Moziek - Grave Kindcentrum|LINE|
+ORUN|1|I|CXX|Y070|Steenwijk - Zwartsluis - Zwolle|LINE|
+ORUN|1|I|CXX|Y071|Zwolle - Emmeloord|LINE|
+ORUN|1|I|CXX|Y074|Kampen - Genemuiden - Hasselt - Zwolle|LINE|
+ORUN|1|I|CXX|Y075|Marknesse - Steenwijk|LINE|
+ORUN|1|I|CXX|Y076|Emmeloord - Marknesse - Steenwijk|LINE|
+ORUN|1|I|CXX|Y077|Emmeloord - Lemmer|LINE|
+ORUN|1|I|CXX|Y082|Staphorst - Lichtmis - Kampen|LINE|
+ORUN|1|I|CXX|Y171|Zwolle - Vollenhove|LINE|
+ORUN|1|I|CXX|Y679|Scholierenlijn,  Meppel - Vollenhove|LINE|
+ORUN|1|I|CXX|Z001|Oostburg - Terneuzen|LINE|
+ORUN|1|I|CXX|Z006|Terneuzen - Zelzate|LINE|
+ORUN|1|I|CXX|Z009|Terneuzen, Busstation - DOW|LINE|
+ORUN|1|I|CXX|Z010|Terneuzen - Hulst|LINE|
+ORUN|1|I|CXX|Z019|Hulst - Breda|LINE|
+ORUN|1|I|CXX|Z020|Hulst - Goes|LINE|
+ORUN|1|I|CXX|Z023|'s-Heerenhoek - Goes|LINE|
+ORUN|1|I|CXX|Z027|Yerseke - Goes|LINE|
+ORUN|1|I|CXX|Z031|Kamperland - Goes|LINE|
+ORUN|1|I|CXX|Z042|Brugge - Breskens|LINE|
+ORUN|1|I|CXX|Z050|Middelburg - Terneuzen(Gent)|LINE|
+ORUN|1|I|CXX|Z052|Domburg - Middelburg|LINE|
+ORUN|1|I|CXX|Z053|Middelburg - Domburg|LINE|
+ORUN|1|I|CXX|Z056|Middelburg - Vlissingen|LINE|
+ORUN|1|I|CXX|Z057|Middelburg - Vlissingen|LINE|
+ORUN|1|I|CXX|Z058|Middelburg - Vlissingen|LINE|
+ORUN|1|I|CXX|Z065|Middelburg, Station - Podium/Scalda|LINE|
+ORUN|1|I|CXX|Z104|Renesse-Spijkenisse|LINE|
+ORUN|1|I|CXX|Z132|Goes - Zierikzee|LINE|
+ORUN|1|I|CXX|Z133|Middelburg - Oude Tonge|LINE|
+ORUN|1|I|CXX|Z134|Zierikzee - Brouwershaven - Zierikzee|LINE|
+ORUN|1|I|CXX|Z135|Middelharnis-Ooltgensplaat|LINE|
+ORUN|1|I|CXX|Z137|Middelharnis, Gemeentehuis-Binnenhof|LINE|
+ORUN|1|I|CXX|Z138|Herkingen-Middelharnis|LINE|
+ORUN|1|I|CXX|Z160|Goudswaard-Rotterdam|LINE|
+ORUN|1|I|CXX|Z163|Oud-Beijerland-Kralingse Zoom|LINE|
+ORUN|1|I|CXX|Z164|Zuid-Beijerland-Heinenoord|LINE|
+ORUN|1|I|CXX|Z166|Dordrecht-Rotterdam|LINE|
+ORUN|1|I|CXX|Z167|Strijen-Heinenoord|LINE|
+ORUN|1|I|CXX|Z168|'s-Gravendeel-Heinenoord|LINE|
+ORUN|1|I|CXX|Z169|Willemstad-Numansdorp A29|LINE|
+ORUN|1|I|CXX|Z170|Goudswaard-Rotterdam|LINE|
+ORUN|1|I|CXX|Z171|Oud Beijerland-Rotterdam|LINE|
+ORUN|1|I|CXX|Z172|Oud Beijerland-Rotterdam|LINE|
+ORUN|1|I|CXX|Z174|Numansdorp-Rotterdam|LINE|
+ORUN|1|I|CXX|Z175|Dordrecht-Strijen|LINE|
+ORUN|1|I|CXX|Z176|Dordrecht-Rotterdam|LINE|
+ORUN|1|I|CXX|Z177|Strijen-Rotterdam|LINE|
+ORUN|1|I|CXX|Z185|Goes, Station - Ziekenhuis|LINE|
+ORUN|1|I|CXX|Z186|Strijensas s'Gravendeel|LINE|
+ORUN|1|I|CXX|Z194|Zuid-Beijerland-Heinenoord|LINE|
+ORUN|1|I|CXX|Z197|Strijensas-Strijen|LINE|
+ORUN|1|I|CXX|Z220|Axel - Terneuzen|LINE|
+ORUN|1|I|CXX|Z223|Terneuzen - Goes|LINE|
+ORUN|1|I|CXX|Z225|Goes - 's-Gravenpolder - Goes|LINE|
+ORUN|1|I|CXX|Z258|Middelburg - Vlissingen|LINE|
+ORUN|1|I|CXX|Z263|Oud-Beijerland-Kralingsezoom|LINE|
+ORUN|1|I|CXX|Z264|Zuid-Beijerland-Heinenoord|LINE|
+ORUN|1|I|CXX|Z274|Numansdorp-Rotterdam|LINE|
+ORUN|1|I|CXX|Z395|Zierikzee - Rotterdam|LINE|
+ORUN|1|I|CXX|Z436|Ouddorp-Rotterdam|LINE|
+ORUN|1|I|CXX|Z437|Ouddorp-Rotterdam|LINE|
+ORUN|1|I|CXX|Z507|Axel - St.Jansteen|LINE|
+ORUN|1|I|CXX|Z511|Terneuzen - Sas van Gent|LINE|
+ORUN|1|I|CXX|Z513|Sas Van Gent - Axel|LINE|
+ORUN|1|I|CXX|Z515|Breskens - Biervliet|LINE|
+ORUN|1|I|CXX|Z555|'s Heerenhoek - Heinkenszand|LINE|
+ORUN|1|I|CXX|Z580|Kattendijke - Goes|LINE|
+ORUN|1|I|CXX|Z581|Vlissingen Oost - Middelburg|LINE|
+ORUN|1|I|CXX|Z582|Oud Sabbinge - Goes|LINE|
+ORUN|1|I|CXX|Z583|Westkapelle - Veere|LINE|
+ORUN|1|I|CXX|Z584|Middelburg - Veere|LINE|
+ORUN|1|I|CXX|Z585|Strijensas s'Gravendeel|LINE|
+ORUN|1|I|CXX|Z587|Strijensas-Strijen|LINE|
+ORUN|1|I|CXX|Z589|Ossenisse - Clinge|LINE|
+ORUN|1|I|CXX|Z591|Nieuwerkerk - Zierikzee via Dreischor|LINE|
+ORUN|1|I|CXX|Z592|Nieuwerkerk - Zierikzee via Ouwerkerk|LINE|
+ORUN|1|I|CXX|Z593|Kats - Kortgene|LINE|
+ORUN|1|I|CXX|Z594|Rilland - Kruiningen|LINE|
+ORUN|1|I|CXX|Z595|Goes - Hoedekenskerke|LINE|
+ORUN|1|I|CXX|Z596|'s Heerenhoek - Ellewoutsdijk|LINE|
+ORUN|1|I|CXX|Z597|'s Heerenhoek - Hoedekenskerke|LINE|
+ORUN|1|I|CXX|Z598|'s Heerenhoek - Heinkenszand|LINE|
+ORUN|1|I|CXX|Z599|Wemeldinge - Yerseke|LINE|
+ORUN|1|I|CXX|Z601|Oostburg - Terneuzen|LINE|
+ORUN|1|I|CXX|Z604|Hoofdplaat - Oostburg|LINE|
+ORUN|1|I|CXX|Z606|Sas van Gent - Terneuzen|LINE|
+ORUN|1|I|CXX|Z607|Hoek - Axel|LINE|
+ORUN|1|I|CXX|Z608|Sas van Gent - Hulst|LINE|
+ORUN|1|I|CXX|Z612|Eede - Oostburg|LINE|
+ORUN|1|I|CXX|Z614|Ouddorp-Brielle|LINE|
+ORUN|1|I|CXX|Z628|Westenschouwen - Goes|LINE|
+ORUN|1|I|CXX|Z629|Bruinisse - Goes|LINE|
+ORUN|1|I|CXX|Z630|Hellevoetsluis-Middelharnis|LINE|
+ORUN|1|I|CXX|Z631|Zierikzee - Middelharnis|LINE|
+ORUN|1|I|CXX|Z633|Vlissingen - Zierikzee|LINE|
+ORUN|1|I|CXX|Z634|Dreischor - Zierikzee|LINE|
+ORUN|1|I|CXX|Z635|Ooltgensplaat-Middelharnis|LINE|
+ORUN|1|I|CXX|Z636|Ouddorp-Middelharnis|LINE|
+ORUN|1|I|CXX|Z638|Goes Station Goes Zwembadweg|LINE|
+ORUN|1|I|CXX|Z639|Krabbendijke - Goes|LINE|
+ORUN|1|I|CXX|Z641|Middelburg - Goes|LINE|
+ORUN|1|I|CXX|Z643|St.Annaland - Goes|LINE|
+ORUN|1|I|CXX|Z644|Stavenisse - Goes|LINE|
+ORUN|1|I|CXX|Z645|Terneuzen - Krabbendijke|LINE|
+ORUN|1|I|CXX|Z646|Middelburg - Goes|LINE|
+ORUN|1|I|CXX|Z647|Domburg - Krabbendijke|LINE|
+ORUN|1|I|CXX|Z650|Middelburg - Terneuzen(Gent)|LINE|
+ORUN|1|I|CXX|Z660|Terneuzen - Vlissingen|LINE|
+ORUN|1|I|CXX|Z662|Zuid-Beijerland-Oud-Beijerland|LINE|
+ORUN|1|I|CXX|Z663|Goudswaard-Lombardijen|LINE|
+ORUN|1|I|CXX|Z664|Oud-Beijerland - Numansdorp Viaduct A29|LINE|
+ORUN|1|I|CXX|Z666|Maasdam-Oud-Beijerland|LINE|
+ORUN|1|I|CXX|Z667|Strijen-Oud-Beijerland|LINE|
+ORUN|1|I|CXX|Z668|'s-Gravendeel-Oud-Beijerland|LINE|
+ORUN|1|I|CXX|Z669|Willemstad-Oud-Beijerland|LINE|
+ORUN|1|I|CXX|Z680|Heinenoord-Barendrecht|LINE|
+ORUN|1|I|CXX|Z711|Oud-Beijerland-Zuid-Beijerland|LINE|
+ORUN|1|I|CXX|Z712|van Zuid-Beijerland naar Oud-Beijerland|LINE|
+ORUN|1|I|CXX|Z860|Nachtbus|LINE|
+ORUN|1|I|CXX|Z867|Rotterdam CS - Numansdorp|LINE|

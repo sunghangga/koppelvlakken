@@ -1,0 +1,20 @@
+[Recordtype]|[Version number]|[Implicit/Explicit]|[DataOwnerCode]|[ConcessionAreaCode]|[Description]
+CONAREA|1|I|CXX|AML_2018|Amstelland-Meerlanden 2018
+CONAREA|1|I|CXX|AR-AHK-RIV|Arriva Achterhoek en Rivierenland
+CONAREA|1|I|CXX|ARR|Gereden voor Arriva
+CONAREA|1|I|CXX|FL-YS-2014|Flevoland-IJsselmond 2014
+CONAREA|1|I|CXX|GOOI_2011|Gooi en Vechtstreek 2011
+CONAREA|1|I|CXX|HLM-IJM_17|Haarlem IJmond 2017
+CONAREA|1|I|CXX|HWGO_2016|Hoeksche Waard Goeree-Overflakkee
+CONAREA|1|I|CXX|LYN|Gereden voor De Lijn
+CONAREA|1|I|CXX|NB-OOST|Noord Brabant - Oost
+CONAREA|1|I|CXX|NHN_2018|Noord-Holland Noord 2018
+CONAREA|1|I|CXX|NIAG-DU|NIAG in Duitsland
+CONAREA|1|I|CXX|NIAG|NIAG in NL
+CONAREA|1|I|CXX|OV-YS-2014|Overijssel-IJsselmond 2014
+CONAREA|1|I|CXX|PARKSHUT|Parkshuttle Rivium
+CONAREA|1|I|CXX|SAN-2012|Stadsregio Arnhem Nijmegen
+CONAREA|1|I|CXX|SYN-VEL|Syntus Veluwe
+CONAREA|1|I|CXX|ZAAN_2010|Zaanstreek 2010
+CONAREA|1|I|CXX|ZLD-2014|Provincie Zeeland 2015 - 2024
+CONAREA|1|I|CXX|ZOB|Zuid Oost Brabant

@@ -1,0 +1,17 @@
+Binnen deze repository worden de BISON Koppelvlakken uit het Nederlandse Openbaar Vervoer geimplementeerd. Momenteel hebben we binnen het project openOV de beschikking over KV1 data van Arriva en Connexxion. In samenwerking met Calendar42 en Connexxion ontwikkelen we ook de KV6, KV15 en KV17 koppelvlakken voor actuele reisinformatie.
+
+kv1  - versie 8.1.1.0; Dienstregeling
+kv6  - versie 8.1.1.0; Actuele Punctualiteit
+kv15 - versie 8.1.0.0; Vrije teksten
+kv17 - versie 8.1.0.0; Mutaties op Operationeel Proces
+kv55                 ; Bus Mobiel
+
+KV1;  python tmi.py << bestand uit KV1 levering / ZIP-bestand >>
+KV6;  uwsgi --http 0.0.0.0:3006 -w kv6-receiver-uwsgi-db
+KV15; uwsgi --http 0.0.0.0:3015 -w kv15-receiver
+KV17; uwsgi --http 0.0.0.0:3017 -w kv17-receiver
+KV55; uwsgi --http 127.0.0.1:8080 -w kv55_client_zmq (ontvanger publiek)
+      uwsgi --http 127.0.0.1:8181 -w kv55_receiver_zmq (ontvanger privaat, pubsub)
+      python kv55_request_zmq.py (cache)
+      python zmq_arriva.py (arriva backend)
+      testen: curl -H "Expect: " -X POST -T kv55.xml http://127.0.0.1:8181

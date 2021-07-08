@@ -1,0 +1,3287 @@
+[Recordtype]|[Version number]|[Implicit/Explicit]|[DataOwnerCode]|[UserStopAreaCode]|[Name]|[Town]|[Deprecated]|[Deprecated]|[Description]
+USRSTAR|1|I|CXX|aagrab|Aagtekerke, Burg.Bosselaarstraat|Aagtekerke|||
+USRSTAR|1|I|CXX|aalekr|Aalst, Eeckenrode|Aalst|||
+USRSTAR|1|I|CXX|aalgrl|Aalst, Gorlooplaan|Aalst|||
+USRSTAR|1|I|CXX|aalhcl|Aalst, Hyacintlaan|Aalst|||
+USRSTAR|1|I|CXX|aalmts|Aalst (NB), Maarten Trompstraat|Onbekend|||
+USRSTAR|1|I|CXX|aalrhs|Aalst, Raadhuisstraat|Aalst|||
+USRSTAR|1|I|CXX|aalsop|Aalst, Sophiastraat|Aalst|||
+USRSTAR|1|I|CXX|aalsps|Aalst, Sophiastraat|Aalst|||
+USRSTAR|1|I|CXX|aalsrl|Aalst, Spirealaan|Aalst|||
+USRSTAR|1|I|CXX|aalvbl|Aalst, Voorbeeklaan|Aalst|||
+USRSTAR|1|I|CXX|aarkwb|Aarle Rixtel, Kouwenberg|Aarle Rixtel|||
+USRSTAR|1|I|CXX|aarlbw|Aarle Rixtel, Bosscheweg|Aarle Rixtel|||
+USRSTAR|1|I|CXX|aarlds|Aarle Rixtel, Dorpsstraat|Aarle Rixtel|||
+USRSTAR|1|I|CXX|aarmar|Aardenburg, Markt|Aardenburg|||
+USRSTAR|1|I|CXX|abchoo|Abcoude, Hoogstraat|Abcoude|||
+USRSTAR|1|I|CXX|abckvn|Abcoude, Koningsvaren|Abcoude|||
+USRSTAR|1|I|CXX|abcvia|Abcoude, Viaduct A2|Abcoude|||
+USRSTAR|1|I|CXX|abczwb|Abcoude, Ruwelspad|Abcoude|||
+USRSTAR|1|I|CXX|abkbus|Abbekerk, Busstation|Abbekerk|||
+USRSTAR|1|I|CXX|abkdor|Abbekerk, Dorpsstraat|Abbekerk|||
+USRSTAR|1|I|CXX|abkgmh|Abbekerk, Oude Gemeentehuis|Abbekerk|||
+USRSTAR|1|I|CXX|abna44|Abbenes, Viaduct A44|Abbenes|||
+USRSTAR|1|I|CXX|abnhbr|Abbenes, Doctor Heijebrug|Abbenes|||
+USRSTAR|1|I|CXX|abnlan|Abbenes, Langerak|Abbenes|||
+USRSTAR|1|I|CXX|absdvk|Absdale, Derde Verkorting|Absdale|||
+USRSTAR|1|I|CXX|acbkrk|Achel, Kerk|Achel|||
+USRSTAR|1|I|CXX|acbnkk|Achel, Nieuwe Kerk|Achel|||
+USRSTAR|1|I|CXX|achdor|Achthuizen, Dorp|Achthuizen|||
+USRSTAR|1|I|CXX|adtmon|Andelst, Monument|Andelst|||
+USRSTAR|1|I|CXX|adtwil|Andelst, Wilhelminastraat|Andelst|||
+USRSTAR|1|I|CXX|aerbrw|Aerdenhout, Boekenroodeweg|Aerdenhout|||
+USRSTAR|1|I|CXX|aerheu|Aerdt, Heuvelhoek|Aerdt|||
+USRSTAR|1|I|CXX|aerker|Aerdt, Kerkweg|Aerdt|||
+USRSTAR|1|I|CXX|aersch|Aerdt, Schoolstraat|Aerdt|||
+USRSTAR|1|I|CXX|aervsg|Aerdenhout, Viersprong|Aerdenhout|||
+USRSTAR|1|I|CXX|affevs|Afferden, Veer naar Sambeek|Afferden|||
+USRSTAR|1|I|CXX|affpas|Afferden, Pas|Afferden|||
+USRSTAR|1|I|CXX|agdbln|Aagtdorp, Bickerslaan|Aagtdorp|||
+USRSTAR|1|I|CXX|agdgln|Aagtdorp, Gerbrandslaan|Aagtdorp|||
+USRSTAR|1|I|CXX|agdwth|Aagtdorp, Poelenburgh|Aagtdorp|||
+USRSTAR|1|I|CXX|agngel|Angeren, Geldersch Oord|Angeren|||
+USRSTAR|1|I|CXX|agnkam|Angeren, Kamervoort|Angeren|||
+USRSTAR|1|I|CXX|agntra|Angeren, Molenstraat|Angeren|||
+USRSTAR|1|I|CXX|ahmahm|Arnhem, Arnhemse Allee|Arnhem|||
+USRSTAR|1|I|CXX|ahmair|Arnhem, Airborneplein|Arnhem|||
+USRSTAR|1|I|CXX|ahmalt|Arnhem, Alteveer|Arnhem|||
+USRSTAR|1|I|CXX|ahmbdl|Arnhem, Beekdal Lyceum|Arnhem|||
+USRSTAR|1|I|CXX|ahmbey|Arnhem, Bruningweg|Arnhem|||
+USRSTAR|1|I|CXX|ahmbhl|Arnhem, Beethovenlaan|Arnhem|||
+USRSTAR|1|I|CXX|ahmbln|Arnhem, Bernhardlaan|Arnhem|||
+USRSTAR|1|I|CXX|ahmbpa|Arnhem, Arnhems Buiten|Arnhem|||
+USRSTAR|1|I|CXX|ahmbra|Arnhem, Brabantweg|Arnhem|||
+USRSTAR|1|I|CXX|ahmbre|Arnhem, Brekelenkampstraat|Arnhem|||
+USRSTAR|1|I|CXX|ahmcen|Arnhem, Centraalspoor|Arnhem|||
+USRSTAR|1|I|CXX|ahmcio|Arnhem, CIOS|Arnhem|||
+USRSTAR|1|I|CXX|ahmcro|Arnhem, Croydonplein|Arnhem|||
+USRSTAR|1|I|CXX|ahmdel|Arnhem, Poli Zuid|Arnhem|||
+USRSTAR|1|I|CXX|ahmdlw|Arnhem, De Laar West|Arnhem|||
+USRSTAR|1|I|CXX|ahmdmo|Arnhem, De Monchyplein|Arnhem|||
+USRSTAR|1|I|CXX|ahmdrp|Arnhem, Het Dorp|Arnhem|||
+USRSTAR|1|I|CXX|ahmduk|Arnhem, Grote Durk|Arnhem|||
+USRSTAR|1|I|CXX|ahmdzs|Arnhem, De Zeis|Arnhem|||
+USRSTAR|1|I|CXX|ahmeld|Arnhem, Elderveld|Arnhem|||
+USRSTAR|1|I|CXX|ahmels|Arnhem, Elsweide/HAN|Arnhem|||
+USRSTAR|1|I|CXX|ahmfls|Arnhem, Frieslandsingel|Arnhem|||
+USRSTAR|1|I|CXX|ahmfon|Arnhem, Fonteinkruidstraat|Arnhem|||
+USRSTAR|1|I|CXX|ahmgas|Arnhem, De Drie Gasthuizen|Arnhem|||
+USRSTAR|1|I|CXX|ahmgei|Arnhem, Geitenkamp|Arnhem|||
+USRSTAR|1|I|CXX|ahmgel|Arnhem, Gelredome|Arnhem|||
+USRSTAR|1|I|CXX|ahmger|Arnhem, Germanenveld|Arnhem|||
+USRSTAR|1|I|CXX|ahmglp|Arnhem, Gelderse Poort|Arnhem|||
+USRSTAR|1|I|CXX|ahmgmm|Arnhem, Museum Arnhem|Arnhem|||
+USRSTAR|1|I|CXX|ahmgop|Arnhem, Graaf Ottoplein|Arnhem|||
+USRSTAR|1|I|CXX|ahmgvp|Arnhem, Gr. van Prinstererstraat|Arnhem|||
+USRSTAR|1|I|CXX|ahmhdu|Arnhem, Het Duifje|Arnhem|||
+USRSTAR|1|I|CXX|ahmhof|Arnhem, Hoflaan|Arnhem|||
+USRSTAR|1|I|CXX|ahmhol|Arnhem, Holthuizen|Arnhem|||
+USRSTAR|1|I|CXX|ahmhoo|Arnhem, Schelmseweg|Arnhem|||
+USRSTAR|1|I|CXX|ahmhts|Arnhem, Zuilesteinlaan/HTS|Arnhem|||
+USRSTAR|1|I|CXX|ahmjrw|Arnhem, Openluchtmuseum Oost|Arnhem|||
+USRSTAR|1|I|CXX|ahmkam|Arnhem, Presikhaaf|Arnhem|||
+USRSTAR|1|I|CXX|ahmkaz|Arnhem, Kazernestraat|Arnhem|||
+USRSTAR|1|I|CXX|ahmkdw|Arnhem, Klarendalseweg|Arnhem|||
+USRSTAR|1|I|CXX|ahmkeu|Arnhem, Keulse Slag|Arnhem|||
+USRSTAR|1|I|CXX|ahmklw|Arnhem, Kleefse Waard|Arnhem|||
+USRSTAR|1|I|CXX|ahmkon|Arnhem, Koningskers|Arnhem|||
+USRSTAR|1|I|CXX|ahmkro|Arnhem, Winkelcentrum Kronenburg|Arnhem|||
+USRSTAR|1|I|CXX|ahmlak|Arnhem, Lange Akkers/Limburgsngl|Arnhem|||
+USRSTAR|1|I|CXX|ahmmar|Arnhem, Marktplein|Arnhem|||
+USRSTAR|1|I|CXX|ahmmma|Arnhem, Metamorfosenallee|Arnhem|||
+USRSTAR|1|I|CXX|ahmmoo|Arnhem, Mooieweg|Arnhem|||
+USRSTAR|1|I|CXX|ahmmos|Arnhem, Moscowa|Arnhem|||
+USRSTAR|1|I|CXX|ahmmro|Arnhem, Mr. Oudsingel|Arnhem|||
+USRSTAR|1|I|CXX|ahmnsp|Arnhem, Sportcentrum Papendal|Arnhem|||
+USRSTAR|1|I|CXX|ahmodl|Arnhem, Onder de Linden|Arnhem|||
+USRSTAR|1|I|CXX|ahmomu|Arnhem, Openluchtmuseum West|Arnhem|||
+USRSTAR|1|I|CXX|ahmora|Arnhem, Oranjestraat|Arnhem|||
+USRSTAR|1|I|CXX|ahmorp|Arnhem, Oremusplein|Arnhem|||
+USRSTAR|1|I|CXX|ahmpca|Arnhem, P. Calandweg|Arnhem|||
+USRSTAR|1|I|CXX|ahmpet|Arnhem, Peter van Anrooylaan|Arnhem|||
+USRSTAR|1|I|CXX|ahmprs|Arnhem, Station Presikhaaf|Arnhem|||
+USRSTAR|1|I|CXX|ahmraa|Arnhem, Raapopseweg|Arnhem|||
+USRSTAR|1|I|CXX|ahmrhl|Arnhem, De Grote Koppel|Arnhem|||
+USRSTAR|1|I|CXX|ahmrie|Arnhem, Rietgrachtstraat|Arnhem|||
+USRSTAR|1|I|CXX|ahmrns|Arnhem, Rijnstraat|Arnhem|||
+USRSTAR|1|I|CXX|ahmroz|Arnhem, Rozet|Arnhem|||
+USRSTAR|1|I|CXX|ahmrpo|Arnhem, Rijnpoort|Arnhem|||
+USRSTAR|1|I|CXX|ahmryw|Arnhem, Rijkerswoerd|Arnhem|||
+USRSTAR|1|I|CXX|ahmsbs|Arnhem, Centraal Station|Arnhem|||
+USRSTAR|1|I|CXX|ahmscb|Arnhem, Stadstheater Arnhem|Arnhem|||
+USRSTAR|1|I|CXX|ahmsks|Arnhem, Speenkruidstraat|Arnhem|||
+USRSTAR|1|I|CXX|ahmslw|Arnhem, Slochterenweg|Arnhem|||
+USRSTAR|1|I|CXX|ahmsns|Arnhem, Centraal Stat.(Sonsbeek)|Arnhem|||
+USRSTAR|1|I|CXX|ahmson|Arnhem, Sonsbeek|Arnhem|||
+USRSTAR|1|I|CXX|ahmsta|Arnhem, Stadskantoor|Arnhem|||
+USRSTAR|1|I|CXX|ahmstr|Arnhem, Centraal Station|Arnhem|||
+USRSTAR|1|I|CXX|ahmstz|Arnhem, Station Arnhem Zuid|Arnhem|||
+USRSTAR|1|I|CXX|ahmswg|Arnhem, Schelmseweg|Arnhem|||
+USRSTAR|1|I|CXX|ahmswl|Arnhem, Stadswaardenlaan|Arnhem|||
+USRSTAR|1|I|CXX|ahmter|Arnhem, Terneuzenstraat|Arnhem|||
+USRSTAR|1|I|CXX|ahmtor|Arnhem, Tormentilstraat|Arnhem|||
+USRSTAR|1|I|CXX|ahmtra|Arnhem, Transferium|Arnhem|||
+USRSTAR|1|I|CXX|ahmtve|Arnhem, het Venster|Arnhem|||
+USRSTAR|1|I|CXX|ahmvkw|Arnhem, Viaduct Kroonse Wal|Arnhem|||
+USRSTAR|1|I|CXX|ahmvns|Arnhem, Station Velperpoort|Arnhem|||
+USRSTAR|1|I|CXX|ahmvon|Arnhem, Vondellaan|Arnhem|||
+USRSTAR|1|I|CXX|ahmvos|Arnhem, v. Oldenbarneveldtstraat|Arnhem|||
+USRSTAR|1|I|CXX|ahmvre|Arnhem, Winkelcentrum Vredenburg|Arnhem|||
+USRSTAR|1|I|CXX|ahmvrs|Arnhem, van Ruisdaelstraat|Arnhem|||
+USRSTAR|1|I|CXX|ahmvvd|Arnhem, Velperplein|Arnhem|||
+USRSTAR|1|I|CXX|ahmvwd|Arnhem, Pachterwaard|Arnhem|||
+USRSTAR|1|I|CXX|ahmwce|Arnhem, Winkelcentrum Elderhof|Arnhem|||
+USRSTAR|1|I|CXX|ahmwes|Arnhem, v. d. Valk Hotel Arnhem|Arnhem|||
+USRSTAR|1|I|CXX|ahmwgl|Arnhem, Wilgenlaan|Arnhem|||
+USRSTAR|1|I|CXX|ahmwil|Arnhem, Willemsplein|Arnhem|||
+USRSTAR|1|I|CXX|ahmys1|Arnhem, IJsseloord 1|Arnhem|||
+USRSTAR|1|I|CXX|ahmys2|Arnhem, IJsseloord 2|Arnhem|||
+USRSTAR|1|I|CXX|ahmysv|Arnhem, tunnel IJsseloord|Arnhem|||
+USRSTAR|1|I|CXX|ahmzas|Arnhem, Zaslaan|Arnhem|||
+USRSTAR|1|I|CXX|ahmzel|Arnhem, Zeelandsingel|Arnhem|||
+USRSTAR|1|I|CXX|ahmzie|Arnhem, Ziekenhuis Rijnstate|Arnhem|||
+USRSTAR|1|I|CXX|ahmzoo|Arnhem, Burgers' Zoo|Arnhem|||
+USRSTAR|1|I|CXX|aijead|Aijen, Aijerdijk|Aijen|||
+USRSTAR|1|I|CXX|aksbkl|Akersloot, Boekel|Akersloot|||
+USRSTAR|1|I|CXX|akschp|Akersloot, Churchillplein|Akersloot|||
+USRSTAR|1|I|CXX|aksrhw|Akersloot, Raadhuisweg|Akersloot|||
+USRSTAR|1|I|CXX|aksslb|Akersloot, Sluisbuurt|Akersloot|||
+USRSTAR|1|I|CXX|alhkem|Almere Hout, De Kemphaan|Almere Hout|||
+USRSTAR|1|I|CXX|alhnac|Almere Hout, Nachtegaallaan|Almere Hout|||
+USRSTAR|1|I|CXX|alhpar|Almere Hout, Paradijsvogelweg|Almere Hout|||
+USRSTAR|1|I|CXX|alhsti|Almere Hout, Stichtse Brug|Almere Hout|||
+USRSTAR|1|I|CXX|alhvlw|Almere Hout, Vogelweg|Almere Hout|||
+USRSTAR|1|I|CXX|alscs|Almere Stad, Station Centrum|Almere Stad|||
+USRSTAR|1|I|CXX|alsfle|Almere Stad, Flevoziekenhuis|Almere Stad|||
+USRSTAR|1|I|CXX|alsggb|Almere Stad, Greta Garboplantsoen|Almere Stad|||
+USRSTAR|1|I|CXX|alsoor|Almere Stad, Busstation 't Oor|Almere Stad|||
+USRSTAR|1|I|CXX|alspas|Almere Stad, Passage|Almere Stad|||
+USRSTAR|1|I|CXX|alsrsw|Almere Stad, Romy Schneiderweg|Almere Stad|||
+USRSTAR|1|I|CXX|alsstp|Almere Stad, Stadhuisplein|Almere Stad|||
+USRSTAR|1|I|CXX|alsstz|Almere Stad, Stedenwijk Zuid|Almere Stad|||
+USRSTAR|1|I|CXX|alsvlk|Almere Stad, Veluwsekant|Almere Stad|||
+USRSTAR|1|I|CXX|alswdi|Almere Stad, Walt Disneyplantsoen|Almere Stad|||
+USRSTAR|1|I|CXX|amfgsa|Amersfoort, GSG Arnhemseweg|Amersfoort|||
+USRSTAR|1|I|CXX|amfgsg|Amersfoort, GSG Paladijnenweg|Amersfoort|||
+USRSTAR|1|I|CXX|amhamk|Amstelhoek, Amstelkade|Amstelhoek|||
+USRSTAR|1|I|CXX|amhtbw|Amstelhoek, Tienboerenweg|Amstelhoek|||
+USRSTAR|1|I|CXX|amrads|Alkmaar, Ardennenstraat|Alkmaar|||
+USRSTAR|1|I|CXX|amrasl|Alkmaar, Asselijnstraat|Alkmaar|||
+USRSTAR|1|I|CXX|amrbes|Alkmaar, Bestevaerstraat|Alkmaar|||
+USRSTAR|1|I|CXX|amrbev|Alkmaar, Herenweg/Beverkoog|Alkmaar|||
+USRSTAR|1|I|CXX|amrbgw|Alkmaar, Bregwaard|Alkmaar|||
+USRSTAR|1|I|CXX|amrbmw|Akersloot, Kanaalweg|Akersloot|||
+USRSTAR|1|I|CXX|amrbrw|Alkmaar, Bergerweg|Alkmaar|||
+USRSTAR|1|I|CXX|amrdap|Alkmaar, Daalmeerpad|Alkmaar|||
+USRSTAR|1|I|CXX|amreur|Alkmaar, Europaboulevard|Alkmaar|||
+USRSTAR|1|I|CXX|amrfak|Alkmaar, Faktorij|Alkmaar|||
+USRSTAR|1|I|CXX|amrggb|Alkmaar, Gerechtsgebouw|Alkmaar|||
+USRSTAR|1|I|CXX|amrgro|Alkmaar, Groeneweg|Alkmaar|||
+USRSTAR|1|I|CXX|amrhoe|Alkmaar, Vincent van Goghlaan|Alkmaar|||
+USRSTAR|1|I|CXX|amrhts|Alkmaar, Hogeschool Alkmaar|Alkmaar|||
+USRSTAR|1|I|CXX|amrigs|Alkmaar, Ida Gerhardtstraat|Alkmaar|||
+USRSTAR|1|I|CXX|amrjhs|Alkmaar, Johan Huizingastraat|Alkmaar|||
+USRSTAR|1|I|CXX|amrjls|Alkmaar, Jan Ligthartstraat|Alkmaar|||
+USRSTAR|1|I|CXX|amrkan|Alkmaar, Kanaalkade|Alkmaar|||
+USRSTAR|1|I|CXX|amrkee|Alkmaar, Kees Boekestraat|Alkmaar|||
+USRSTAR|1|I|CXX|amrker|Alkmaar, Kerkplein|Alkmaar|||
+USRSTAR|1|I|CXX|amrkln|Alkmaar, Koelmalaan|Alkmaar|||
+USRSTAR|1|I|CXX|amrkml|Alkmaar, Kooimeerlaan|Alkmaar|||
+USRSTAR|1|I|CXX|amrkoo|Alkmaar, Louise Henriettestraat|Alkmaar|||
+USRSTAR|1|I|CXX|amrlbw|Alkmaar, Laan van Brussel|Alkmaar|||
+USRSTAR|1|I|CXX|amrlvb|Alkmaar, Laan van Bath|Alkmaar|||
+USRSTAR|1|I|CXX|amrlvk|Alkmaar, Laan van Keulen|Alkmaar|||
+USRSTAR|1|I|CXX|amrlvp|Alkmaar, Laan van Parijs|Alkmaar|||
+USRSTAR|1|I|CXX|amrlvs|Alkmaar, Laan van Straatsburg|Alkmaar|||
+USRSTAR|1|I|CXX|amrlvt|Alkmaar, Laan van Troyes|Alkmaar|||
+USRSTAR|1|I|CXX|amrmca|Alkmaar, Noordwest Ziekenhuisgroep|Alkmaar|||
+USRSTAR|1|I|CXX|amrmee|Alkmaar, Sportpark De Meent|Alkmaar|||
+USRSTAR|1|I|CXX|amrmet|Alkmaar, Metiusgracht|Alkmaar|||
+USRSTAR|1|I|CXX|amrnas|Alkmaar, Nassaulaan|Alkmaar|||
+USRSTAR|1|I|CXX|amrnbe|Alkmaar, Nicolaas Beetskade|Alkmaar|||
+USRSTAR|1|I|CXX|amrnrd|Alkmaar, Station Noord|Alkmaar|||
+USRSTAR|1|I|CXX|amrns|Alkmaar, Station|Alkmaar|||
+USRSTAR|1|I|CXX|amrodd|Alkmaar, Oudorperdijkje|Alkmaar|||
+USRSTAR|1|I|CXX|amrom|Alkmaar, Omval|Alkmaar|||
+USRSTAR|1|I|CXX|amrpet|Alkmaar, Pettemerstraat|Alkmaar|||
+USRSTAR|1|I|CXX|amrpie|Alkmaar, N.G. Piersonstraat|Alkmaar|||
+USRSTAR|1|I|CXX|amrrek|Alkmaar, Wijkwaard|Alkmaar|||
+USRSTAR|1|I|CXX|amrrew|Alkmaar, Rijnstraat|Alkmaar|||
+USRSTAR|1|I|CXX|amrrfl|Alkmaar, Rhijnvis Feithlaan|Alkmaar|||
+USRSTAR|1|I|CXX|amrrhe|Alkmaar, Rode Hert|Alkmaar|||
+USRSTAR|1|I|CXX|amrrie|Alkmaar, Rietschoot|Alkmaar|||
+USRSTAR|1|I|CXX|amrrit|Alkmaar, Ritsevoort|Alkmaar|||
+USRSTAR|1|I|CXX|amrsch|Alkmaar, Doctor Schaepmanplein|Alkmaar|||
+USRSTAR|1|I|CXX|amrscw|Alkmaar, Nieuwe Schermerweg|Alkmaar|||
+USRSTAR|1|I|CXX|amrspr|Alkmaar, Saturnusstraat P+R|Alkmaar|||
+USRSTAR|1|I|CXX|amrtes|Alkmaar, Tesselsebrug|Alkmaar|||
+USRSTAR|1|I|CXX|amrtop|Alkmaar, Topaasweg|Alkmaar|||
+USRSTAR|1|I|CXX|amrtow|Alkmaar, Tochtwaard|Alkmaar|||
+USRSTAR|1|I|CXX|amrvas|Alkmaar, Vasalisstraat|Alkmaar|||
+USRSTAR|1|I|CXX|amrvaw|Alkmaar, Albatrosweg|Alkmaar|||
+USRSTAR|1|I|CXX|amrvel|Alkmaar, Troostlaan|Alkmaar|||
+USRSTAR|1|I|CXX|amrves|Alkmaar, Schoumanlaan|Alkmaar|||
+USRSTAR|1|I|CXX|amrvie|Alkmaar, Vierstaten|Alkmaar|||
+USRSTAR|1|I|CXX|amrvlb|Alkmaar, Vlielandbrug|Alkmaar|||
+USRSTAR|1|I|CXX|amrvli|Alkmaar, Vlietwaard|Alkmaar|||
+USRSTAR|1|I|CXX|amrvol|Alkmaar, Voltastraat|Alkmaar|||
+USRSTAR|1|I|CXX|amrwho|Alkmaar, Winkelcentrum de Hoef|Alkmaar|||
+USRSTAR|1|I|CXX|amrwmw|Alkmaar, Schinkelwaard|Alkmaar|||
+USRSTAR|1|I|CXX|amrzes|Alkmaar, Zeswielen|Alkmaar|||
+USRSTAR|1|I|CXX|andbej|Andijk, Sorghvliet|Andijk|||
+USRSTAR|1|I|CXX|anddou|Andijk, Burg. Doumastraat|Andijk|||
+USRSTAR|1|I|CXX|andglw|Andijk, Gedeputeerde Laanweg|Andijk|||
+USRSTAR|1|I|CXX|andhkw|Andijk, Hoekweg|Andijk|||
+USRSTAR|1|I|CXX|andklg|Andijk, Kleingouw|Andijk|||
+USRSTAR|1|I|CXX|andklw|Andijk, Klamptweid 70|Andijk|||
+USRSTAR|1|I|CXX|andkui|Andijk, Kuin|Andijk|||
+USRSTAR|1|I|CXX|andmid|Andijk, Middenweg|Andijk|||
+USRSTAR|1|I|CXX|andmkl|Andijk, Molenweg|Andijk|||
+USRSTAR|1|I|CXX|ankwip|Ankeveen, Stichts End|Ankeveen|||
+USRSTAR|1|I|CXX|anpns|Anna Paulowna, Station|Anna Paulowna|||
+USRSTAR|1|I|CXX|anthal|Antwerpen, Metrostation Halewijnlaan|Antwerpen|||
+USRSTAR|1|I|CXX|apdach|Apeldoorn, Laan van Malkenschoten|Apeldoorn|||
+USRSTAR|1|I|CXX|apdalu|Apeldoorn, Aluminiumweg|Apeldoorn|||
+USRSTAR|1|I|CXX|apdbus|Apeldoorn, Busstation|Apeldoorn|||
+USRSTAR|1|I|CXX|apdceb|Apeldoorn, Amaliapark|Apeldoorn|||
+USRSTAR|1|I|CXX|apdcho|Apeldoorn, Chopinlaan|Apeldoorn|||
+USRSTAR|1|I|CXX|apdeen|Apeldoorn, Eendrachtstraat|Apeldoorn|||
+USRSTAR|1|I|CXX|apdhoo|Apeldoorn, Hoofdstraat|Apeldoorn|||
+USRSTAR|1|I|CXX|apdseb|Apeldoorn, Sebastiaanplein|Apeldoorn|||
+USRSTAR|1|I|CXX|apdtno|Apeldoorn, Laan van Westenenk|Apeldoorn|||
+USRSTAR|1|I|CXX|apdzic|Apeldoorn, Zichtweg|Apeldoorn|||
+USRSTAR|1|I|CXX|arckvt|Arcen, Thermaalbad|Arcen|||
+USRSTAR|1|I|CXX|arcmsl|Arcen, Laakweg|Arcen|||
+USRSTAR|1|I|CXX|armakk|Arnemuiden, Akkerlaan|Arnemuiden|||
+USRSTAR|1|I|CXX|armcla|Arnemuiden, Clasinastraat|Arnemuiden|||
+USRSTAR|1|I|CXX|armger|Arnemuiden, Gerstakker|Arnemuiden|||
+USRSTAR|1|I|CXX|asdahe|Amsterdam, Adm. Helfrichstraat|Amsterdam|||
+USRSTAR|1|I|CXX|asdams|Amsterdam, Amstelstation|Amsterdam|||
+USRSTAR|1|I|CXX|asdant|Amsterdam, Antwerpenbaan|Amsterdam|||
+USRSTAR|1|I|CXX|asdbar|Amsterdam, Barndegat|Amsterdam|||
+USRSTAR|1|I|CXX|asdbel|Amsterdam, Busstation Elandsgracht|Amsterdam|||
+USRSTAR|1|I|CXX|asdblo|Amsterdam, Bos en Lommerplein|Amsterdam|||
+USRSTAR|1|I|CXX|asdblw|Amsterdam, Bos en Lommerweg|Amsterdam|||
+USRSTAR|1|I|CXX|asdboe|Amsterdam, VU Medisch Centrum|Amsterdam|||
+USRSTAR|1|I|CXX|asdbos|Amsterdam, Van Boshuizenstraat|Amsterdam|||
+USRSTAR|1|I|CXX|asdbri|Amsterdam, Brinkstraat|Amsterdam|||
+USRSTAR|1|I|CXX|asdbs|Amsterdam, Station Bijlmer ArenA|Amsterdam|||
+USRSTAR|1|I|CXX|asdbvl|Amsterdam, Jan Zwanenburghof|Amsterdam|||
+USRSTAR|1|I|CXX|asdbvu|Amsterdam, De Boelelaan/VU|Amsterdam|||
+USRSTAR|1|I|CXX|asdbyl|Amsterdam, Foppingadreef|Amsterdam-ZO|||
+USRSTAR|1|I|CXX|asdcdb|Amsterdam, Ch. de Bourbonstraat|Amsterdam|||
+USRSTAR|1|I|CXX|asdcsy|Amsterdam, Centraal Station IJzijde|Amsterdam|||
+USRSTAR|1|I|CXX|asddrz|Amsterdam, Bijlmerplein|Amsterdam|||
+USRSTAR|1|I|CXX|asddtm|Amsterdam, Dortmuiden|Amsterdam|||
+USRSTAR|1|I|CXX|asdeek|Amsterdam, Eekholt|Amsterdam|||
+USRSTAR|1|I|CXX|asdelg|Amsterdam, Elandsgracht|Amsterdam|||
+USRSTAR|1|I|CXX|asdent|Amsterdam, De Entree|Amsterdam|||
+USRSTAR|1|I|CXX|asdfop|Amsterdam, Foppingadreef|Amsterdam|||
+USRSTAR|1|I|CXX|asdgan|Amsterdam, Station Ganzenhoef|Amsterdam|||
+USRSTAR|1|I|CXX|asdgpl|Amsterdam, Station Gaasperplas|Amsterdam|||
+USRSTAR|1|I|CXX|asdhbw|Amsterdam, Holterbergweg|Amsterdam|||
+USRSTAR|1|I|CXX|asdhgl|Amsterdam, Hageland|Amsterdam|||
+USRSTAR|1|I|CXX|asdhgp|Amsterdam, G.v. Ledenberchstraat|Amsterdam|||
+USRSTAR|1|I|CXX|asdhly|Amsterdam, Gerrit v.d. Veenstraat|Amsterdam|||
+USRSTAR|1|I|CXX|asdhrh|Amsterdam, Hornhaven|Amsterdam|||
+USRSTAR|1|I|CXX|asdhs|Amsterdam, Haarlemmermeerstation|Amsterdam|||
+USRSTAR|1|I|CXX|asdhvr|Amsterdam, Hugo de Vrieslaan|Amsterdam|||
+USRSTAR|1|I|CXX|asdibm|Amsterdam, IBM|Amsterdam|||
+USRSTAR|1|I|CXX|asdjhl|Amsterdam, Johan Huizingalaan|Amsterdam|||
+USRSTAR|1|I|CXX|asdkal|Amsterdam, Kalfjeslaan|Amsterdam|||
+USRSTAR|1|I|CXX|asdkas|Amsterdam, Kastrupstraat|Amsterdam|||
+USRSTAR|1|I|CXX|asdkkp|Amsterdam, Keerkringpark|Amsterdam|||
+USRSTAR|1|I|CXX|asdklb|Amstelveen, Uilenstede|Amstelveen|||
+USRSTAR|1|I|CXX|asdkra|Amsterdam, Kraaienneststation|Amsterdam|||
+USRSTAR|1|I|CXX|asdkru|Amsterdam, Kruislaan|Amsterdam|||
+USRSTAR|1|I|CXX|asdksw|Amsterdam, Kaapstadweg|Amsterdam|||
+USRSTAR|1|I|CXX|asdlan|Amsterdam, Langsom|Amsterdam|||
+USRSTAR|1|I|CXX|asdlel|Amsterdam, Station Lelylaan|Amsterdam|||
+USRSTAR|1|I|CXX|asdlpl|Amsterdam, Leidseplein|Amsterdam|||
+USRSTAR|1|I|CXX|asdlww|Amsterdam, Louwesweg|Amsterdam|||
+USRSTAR|1|I|CXX|asdmat|Amsterdam, Matterhorn|Amsterdam|||
+USRSTAR|1|I|CXX|asdmer|Amsterdam, Mercatorplein|Amsterdam|||
+USRSTAR|1|I|CXX|asdmid|Amsterdam, Middenweg|Amsterdam|||
+USRSTAR|1|I|CXX|asdmol|Amsterdam, Molenaarsweg|Amsterdam|||
+USRSTAR|1|I|CXX|asdmos|Amsterdam, Mosplein|Amsterdam|||
+USRSTAR|1|I|CXX|asdmrx|Amsterdam, Marnixstraat|Amsterdam|||
+USRSTAR|1|I|CXX|asdmus|Amsterdam, Museumplein|Amsterdam|||
+USRSTAR|1|I|CXX|asdodw|Amsterdam, Oderweg|Amsterdam|||
+USRSTAR|1|I|CXX|asdool|Amsterdam, Oosterlengte|Amsterdam|||
+USRSTAR|1|I|CXX|asdphk|Amsterdam, Prins Hendrikkade|Amsterdam|||
+USRSTAR|1|I|CXX|asdpl4|Amsterdam, Plein '40-45|Amsterdam|||
+USRSTAR|1|I|CXX|asdpro|Amsterdam, Provincialeweg|Amsterdam|||
+USRSTAR|1|I|CXX|asdroz|Amsterdam, Rozengracht|Amsterdam|||
+USRSTAR|1|I|CXX|asdsav|Amsterdam, Amstelveenseweg|Amsterdam|||
+USRSTAR|1|I|CXX|asdsfb|Amsterdam, Einsteinweg/Basisweg|Amsterdam|||
+USRSTAR|1|I|CXX|asdsld|Amsterdam, Station Sloterdijk|Amsterdam|||
+USRSTAR|1|I|CXX|asdste|Amsterdam, Vorticellaweg|Amsterdam|||
+USRSTAR|1|I|CXX|asdstl|Amsterdam, Leidseplein|Amsterdam|||
+USRSTAR|1|I|CXX|asdstn|Amsterdam, Station Noord|Amsterdam|||
+USRSTAR|1|I|CXX|asdstv|Amsterdam, Stat. De Vlugtlaan|Amsterdam|||
+USRSTAR|1|I|CXX|asdsvw|Amsterdam, Henk Sneevlietweg|Amsterdam|||
+USRSTAR|1|I|CXX|asdvos|Amsterdam, Vossius Gymnasium|Amsterdam|||
+USRSTAR|1|I|CXX|asdvtw|Amsterdam, Ventweg|Amsterdam|||
+USRSTAR|1|I|CXX|asdvuz| Amsterdam, VUmc Hoofdingang|Amsterdam|||
+USRSTAR|1|I|CXX|asdwpw|Amsterdam, Westpoortweg|Amsterdam|||
+USRSTAR|1|I|CXX|asdwtc|Amsterdam, Station Zuid|Amsterdam|||
+USRSTAR|1|I|CXX|asdzde|Amsterdam, Zuideinde 319|Amsterdam|||
+USRSTAR|1|I|CXX|asmamw|Aalsmeer, Aalsmeerderweg 481|Aalsmeer|||
+USRSTAR|1|I|CXX|asmbl3|Aalsmeer, FloraHolland West|Aalsmeer|||
+USRSTAR|1|I|CXX|asmblv|Aalsmeer, FloraHolland Hoofdingang|Aalsmeer|||
+USRSTAR|1|I|CXX|asmcab|Aalsmeer, Camping A'damse Bos|Aalsmeer|||
+USRSTAR|1|I|CXX|asmdkp|Aalsmeer, Drie Kolommenplein|Aalsmeer|||
+USRSTAR|1|I|CXX|asmdor|Aalsmeer, Dorpsstraat|Aalsmeer|||
+USRSTAR|1|I|CXX|asmhpl|Aalsmeer, Hortensiaplein|Aalsmeer|||
+USRSTAR|1|I|CXX|asmmac|Aalsmeer, Machineweg|Aalsmeer|||
+USRSTAR|1|I|CXX|asmmen|Aalsmeer, Mendelstraat|Aalsmeer|||
+USRSTAR|1|I|CXX|asmmzl|Aalsmeer, Mozartlaan|Aalsmeer|||
+USRSTAR|1|I|CXX|asmoos|Amstelveen, Nieuw Oosteinde|Amstelveen|||
+USRSTAR|1|I|CXX|asmrow|Aalsmeer, Rietwijkeroordweg|Aalsmeer|||
+USRSTAR|1|I|CXX|asmtvs|Aalsmeer, Van Cleeffkade|Aalsmeer|||
+USRSTAR|1|I|CXX|asmzwn|Aalsmeer, Zwarteweg/Dreef|Aalsmeer|||
+USRSTAR|1|I|CXX|asmzww|Aalsmeer, Zwarteweg|Aalsmeer|||
+USRSTAR|1|I|CXX|assbvs|Assendelft, S. de Beauvoirstraat|Assendelft|||
+USRSTAR|1|I|CXX|assfle|Assendelft, Festina Lente|Assendelft|||
+USRSTAR|1|I|CXX|assgmh|Assendelft, Gemeentehuis|Assendelft|||
+USRSTAR|1|I|CXX|assmar|Assendelft, Marathon|Assendelft|||
+USRSTAR|1|I|CXX|assnvw|Assendelft, Noorderveenweg|Assendelft|||
+USRSTAR|1|I|CXX|assrkk|Assendelft, RK Kerk|Assendelft|||
+USRSTAR|1|I|CXX|assvln|Assendelft, Vuurlinie|Assendelft|||
+USRSTAR|1|I|CXX|asswtt|Assendelft, Watertoren|Assendelft|||
+USRSTAR|1|I|CXX|asszdw|Assendelft, Zaandammerweg|Assendelft|||
+USRSTAR|1|I|CXX|asszui|Assendelft, Zuideinde|Assendelft|||
+USRSTAR|1|I|CXX|astefp|Asten, Floraplein|Asten|||
+USRSTAR|1|I|CXX|asteha|Asten, Heesakkerweg|Asten|||
+USRSTAR|1|I|CXX|asteks|Asten, Kerkstraat|Asten|||
+USRSTAR|1|I|CXX|asteps|Asten, Plutostraat|Asten|||
+USRSTAR|1|I|CXX|asvalb|Amstelveen, Graaf Aelbrechtlaan|Amstelveen|||
+USRSTAR|1|I|CXX|asvban|Amstelveen, Bankrashof|Amstelveen|||
+USRSTAR|1|I|CXX|asvbin|Amstelveen, Binnenhof|Amstelveen|||
+USRSTAR|1|I|CXX|asvbov|Amstelveen, Bovenkerkerweg|Amstelveen|||
+USRSTAR|1|I|CXX|asvbus|Amstelveen, Busstation|Amstelveen|||
+USRSTAR|1|I|CXX|asvbvs|Amstelveen, Bertha von Suttnerlaan|Amstelveen|||
+USRSTAR|1|I|CXX|asvdor|Amstelveen, Raadhuis/Dorpsstraat|Amstelveen|||
+USRSTAR|1|I|CXX|asvgfl|Amstelveen, Graaf Florislaan|Amstelveen|||
+USRSTAR|1|I|CXX|asvgrh|Amstelveen, Groenhof|Amstelveen|||
+USRSTAR|1|I|CXX|asvgvp|Amstelveen, Gr. v. Prinstererlaan|Amstelveen|||
+USRSTAR|1|I|CXX|asvhan|Amstelveen, Handweg|Amstelveen|||
+USRSTAR|1|I|CXX|asvhks|Amstelveen, Hammarskjoldsingel|Amstelveen|||
+USRSTAR|1|I|CXX|asvhwc|Amstelveen, Startbaan|Amstelveen|||
+USRSTAR|1|I|CXX|asvjul|Amstelveen, Julianapark|Amstelveen|||
+USRSTAR|1|I|CXX|asvklm|Amstelveen, KLM Hoofdkantoor|Amstelveen|||
+USRSTAR|1|I|CXX|asvlan|Amstelveen, Langerhuize|Amstelveen|||
+USRSTAR|1|I|CXX|asvlog|Amstelveen, Logger|Amstelveen|||
+USRSTAR|1|I|CXX|asvmid|Amstelveen, Middenhoven/Brink|Amstelveen|||
+USRSTAR|1|I|CXX|asvmld|Amstelveen, Maalderij|Amstelveen|||
+USRSTAR|1|I|CXX|asvndw|Amstelveen, Noorddammerweg|Amstelveen|||
+USRSTAR|1|I|CXX|asvnes|Amstelveen, Nesserlaan|Amstelveen|||
+USRSTAR|1|I|CXX|asvokl|Amstelveen, Ouderkerkerlaan|Amstelveen|||
+USRSTAR|1|I|CXX|asvora|Amstelveen, Oranjebaan|Amstelveen|||
+USRSTAR|1|I|CXX|asvpoo|Amstelveen, Poortwachter|Amstelveen|||
+USRSTAR|1|I|CXX|asvpra|Amstelveen, Praam|Amstelveen|||
+USRSTAR|1|I|CXX|asvpun|Amstelveen, Punter|Amstelveen|||
+USRSTAR|1|I|CXX|asvraa|Amstelveen, Raadhuis|Amstelveen|||
+USRSTAR|1|I|CXX|asvsac|Amstelveen, Sacharovlaan|Amstelveen|||
+USRSTAR|1|I|CXX|asvsei|Amstelveen, Seine|Amstelveen|||
+USRSTAR|1|I|CXX|asvspl|Amstelveen, Sportlaan|Amstelveen|||
+USRSTAR|1|I|CXX|asvstb|Amstelveen, Salamander|Amstelveen|||
+USRSTAR|1|I|CXX|asvwlm|Amstelveen, Weldam|Amstelveen|||
+USRSTAR|1|I|CXX|asvwwk|Amstelveen, Westwijkplein|Amstelveen|||
+USRSTAR|1|I|CXX|asvzag|Amstelveen, Zagerij|Amstelveen|||
+USRSTAR|1|I|CXX|asvzhh|Amstelveen, Ziekenhuis Hoofdingang|Amstelveen|||
+USRSTAR|1|I|CXX|asvzkh|Amstelveen, Ziekenhuis|Amstelveen|||
+USRSTAR|1|I|CXX|asvzst|Amstelveen, Zonnestein|Amstelveen|||
+USRSTAR|1|I|CXX|avhhoo|Avenhorn, Het Hoog|Avenhorn|||
+USRSTAR|1|I|CXX|avhjul|Avenhorn, Julianastraat|Avenhorn|||
+USRSTAR|1|I|CXX|avhkol|Avenhorn, Kolblei|Avenhorn|||
+USRSTAR|1|I|CXX|avnhav|Alverna, Havenweg|Alverna|||
+USRSTAR|1|I|CXX|avnhmw|Alverna, Heumenseweg|Alverna|||
+USRSTAR|1|I|CXX|axebyl|Axel, Bijlokestraat|Axel|||
+USRSTAR|1|I|CXX|axecry|Axel, Crijnssenstraat|Axel|||
+USRSTAR|1|I|CXX|axedri|Axel, Drieschouwen|Axel|||
+USRSTAR|1|I|CXX|axehei|Axel, De Sterrenpracht|Axel|||
+USRSTAR|1|I|CXX|axekan|Axel, Kanaalkade|Axel|||
+USRSTAR|1|I|CXX|axenas|Axel, Nassaustraat|Axel|||
+USRSTAR|1|I|CXX|axepol|Axel, Politiebureau|Axel|||
+USRSTAR|1|I|CXX|axesta|Axel, Stationsstraat|Axel|||
+USRSTAR|1|I|CXX|baabak|Baarland, Bakendorpseweg|Baarland|||
+USRSTAR|1|I|CXX|baasch|Baarland, Schansstraat|Baarland|||
+USRSTAR|1|I|CXX|badbhl|Badhoevedorp, Badhoevelaan|Badhoevedorp|||
+USRSTAR|1|I|CXX|badhvs|Badhoevedorp, Havikstraat|Badhoevedorp|||
+USRSTAR|1|I|CXX|badlor|Badhoevedorp, Lorentzplein|Badhoevedorp|||
+USRSTAR|1|I|CXX|badmew|Badhoevedorp, De Meerwende|Badhoevedorp|||
+USRSTAR|1|I|CXX|badpml|Badhoevedorp, Prins Mauritslaan|Badhoevedorp|||
+USRSTAR|1|I|CXX|badrkk|Badhoevedorp, RK Kerk|Badhoevedorp|||
+USRSTAR|1|I|CXX|badshv|Badhoevedorp, Schuilhoeve|Badhoevedorp|||
+USRSTAR|1|I|CXX|badvkl|Badhoevedorp, Badhoevedorp Oost|Badhoevedorp|||
+USRSTAR|1|I|CXX|bahbla|Barsingerhorn, Mieldijk|Barsingerhorn|||
+USRSTAR|1|I|CXX|bahdfo|Barsingerhorn, De Fortuin|Barsingerhorn|||
+USRSTAR|1|I|CXX|bahlkw|Barsingerhorn, Leekerweg|Barsingerhorn|||
+USRSTAR|1|I|CXX|bahlww|Barsingerhorn, Lutjewallerweg|Barsingerhorn|||
+USRSTAR|1|I|CXX|bakecm|Bakel, Centrum|Bakel|||
+USRSTAR|1|I|CXX|bakejh|Bakel, Sint Jozefsheil|Bakel|||
+USRSTAR|1|I|CXX|bakhms|Bakel, Helmondsestraat|Bakel|||
+USRSTAR|1|I|CXX|baklpn|Bakkum, Landpad Noord|Bakkum|||
+USRSTAR|1|I|CXX|bakvbe|Bakkum, Van Bergenlaan|Bakkum|||
+USRSTAR|1|I|CXX|bakwou|Bakkum, Wouterland|Bakkum|||
+USRSTAR|1|I|CXX|bakzwg|Bakkum, Zeeweg|Bakkum|||
+USRSTAR|1|I|CXX|bbkdvr|Benningbroek, Dr. de Vriesstraat|Benningbroek|||
+USRSTAR|1|I|CXX|bbkgfw|Benningbroek, A.C. de Graafweg|Benningbroek|||
+USRSTAR|1|I|CXX|bbkmol|Benningbroek, Molenbuurt|Benningbroek|||
+USRSTAR|1|I|CXX|bbrrab|Babberich, Dorpstraat|Babberich|||
+USRSTAR|1|I|CXX|bdaafr|Berg en Dal, Afrika Museum|Berg en Dal|||
+USRSTAR|1|I|CXX|bdagbd|Berg en Dal, Groot Berg en Dal|Berg en Dal|||
+USRSTAR|1|I|CXX|bdaham|Berg en Dal, Hamerlaan|Berg en Dal|||
+USRSTAR|1|I|CXX|bdkdal|Blesdijke, Dalhoeve|Blesdijke|||
+USRSTAR|1|I|CXX|bdklbw|Blesdijke, Lagebroekweg|Blesdijke|||
+USRSTAR|1|I|CXX|bdlams|Budel, Anton Meurkensstraat|Budel|||
+USRSTAR|1|I|CXX|bdldbs|Budel, Deken van Baarsstraat|Budel|||
+USRSTAR|1|I|CXX|bdlnie|Budel, Nieuwstraat|Budel|||
+USRSTAR|1|I|CXX|bdlrub|Budel, Rubenslaan|Budel|||
+USRSTAR|1|I|CXX|bdpsjp|Budel-Dorplein, Sint Josephplein|Budel-Dorplein|||
+USRSTAR|1|I|CXX|bdsvog|Budel-Schoot, Vogelsplein|Budel-Schoot|||
+USRSTAR|1|I|CXX|bdwkrk|Breedeweg, Kerkplein|Breedeweg|||
+USRSTAR|1|I|CXX|bebdor|Beekbergen, Kerkweg|Beekbergen|||
+USRSTAR|1|I|CXX|bebhag|Beekbergen, Hagenbrug|Beekbergen|||
+USRSTAR|1|I|CXX|bedbdo|Beek en Donk, Piet van Thielplein|Beek en Donk|||
+USRSTAR|1|I|CXX|bedgmh|Beek en Donk, Gemeentehuis|Beek en Donk|||
+USRSTAR|1|I|CXX|bedlhw|Beek en Donk, Lieshoutseweg|Beek en Donk|||
+USRSTAR|1|I|CXX|bedotw|Beek en Donk, Otterweg|Beek en Donk|||
+USRSTAR|1|I|CXX|beekka|Beek, Kalorama|Beek|||
+USRSTAR|1|I|CXX|beekkh|Beek, Kulturhus|Beek|||
+USRSTAR|1|I|CXX|beekks|Beek, Kwartelstraat|Beek|||
+USRSTAR|1|I|CXX|beekms|Beek, Meidoornstraat|Beek|||
+USRSTAR|1|I|CXX|beekrw|Beek, Sint Hubertusweg|Beek|||
+USRSTAR|1|I|CXX|beekvw|Beek, Verbindingsweg|Beek|||
+USRSTAR|1|I|CXX|benanp|Bennebroek, Anemonenplein|Bennebroek|||
+USRSTAR|1|I|CXX|benhtb|Bennebroek, Huis te Bennebroek|Bennebroek|||
+USRSTAR|1|I|CXX|benlio|Bennebroek, Linnaeushof-oost|Bennebroek|||
+USRSTAR|1|I|CXX|bensch|Bennebroek, Schoollaan|Bennebroek|||
+USRSTAR|1|I|CXX|benzww|Bennebroek, Zwarteweg|Bennebroek|||
+USRSTAR|1|I|CXX|bereie|Bergeijk, Eijkereind|Bergeijk|||
+USRSTAR|1|I|CXX|bergcl|Bergeijk, Churchilllaan|Bergeijk|||
+USRSTAR|1|I|CXX|bergfr|Bergeijk, Frater Romboutsstraat|Bergeijk|||
+USRSTAR|1|I|CXX|bergkd|Bergeijk, Kennedylaan|Bergeijk|||
+USRSTAR|1|I|CXX|berglo|Bergeijk, Loo|Bergeijk|||
+USRSTAR|1|I|CXX|bergpd|Bergeijk, De Paaldreef|Bergeijk|||
+USRSTAR|1|I|CXX|bergth|Bergeijk, Hof|Bergeijk|||
+USRSTAR|1|I|CXX|beufgr|Beuningen, Forelgracht|Beuningen|||
+USRSTAR|1|I|CXX|beuker|Beuningen, Kerk|Beuningen|||
+USRSTAR|1|I|CXX|beunav|Beuningen, Aalsterveld|Beuningen|||
+USRSTAR|1|I|CXX|beunbg|Beuningen, Centrum|Beuningen|||
+USRSTAR|1|I|CXX|beusno|Beuningen, Snoekgracht|Beuningen|||
+USRSTAR|1|I|CXX|beutib|Beuningen, Tiberiuslaan|Beuningen|||
+USRSTAR|1|I|CXX|beuwil|Beuningen, Wilgenoord|Beuningen|||
+USRSTAR|1|I|CXX|bevbaz|Beverwijk, De Bazaar|Beverwijk|||
+USRSTAR|1|I|CXX|bevbev|Beverwijk, Beveland|Beverwijk|||
+USRSTAR|1|I|CXX|bevbhf|Beverwijk, Beverhof|Beverwijk|||
+USRSTAR|1|I|CXX|bevbns|Beverwijk, Borneostraat|Beverwijk|||
+USRSTAR|1|I|CXX|bevcbl|Beverwijk, Creutzberglaan|Beverwijk|||
+USRSTAR|1|I|CXX|bevcit|Heemskerk, Citadel|Heemskerk|||
+USRSTAR|1|I|CXX|bevhil|Beverwijk, Hilbersplein|Beverwijk|||
+USRSTAR|1|I|CXX|bevitl|Beverwijk,  Italielaan|Beverwijk|||
+USRSTAR|1|I|CXX|bevldl|Beverwijk, Louis Davidslaan|Beverwijk|||
+USRSTAR|1|I|CXX|bevns|Beverwijk, Station|Beverwijk|||
+USRSTAR|1|I|CXX|bevobl|Beverwijk, Overboslaan|Beverwijk|||
+USRSTAR|1|I|CXX|bevoos|Beverwijk, Oosterse Markt|Beverwijk|||
+USRSTAR|1|I|CXX|bevpla|Beverwijk, Plantage|Beverwijk|||
+USRSTAR|1|I|CXX|bevrba|Beverwijk, Randweg/Bev. Bazaar|Beverwijk|||
+USRSTAR|1|I|CXX|bevrkz|Beverwijk, Rode Kruis Ziekenhuis|Beverwijk|||
+USRSTAR|1|I|CXX|bevsch|Beverwijk, Schans|Beverwijk|||
+USRSTAR|1|I|CXX|bevstk|Beverwijk, wkc Wijkerbaan|Beverwijk|||
+USRSTAR|1|I|CXX|bevvrl|Beverwijk, Van Riemsdijklaan|Beverwijk|||
+USRSTAR|1|I|CXX|bevwhp|Beverwijk, Westerhoutplein|Beverwijk|||
+USRSTAR|1|I|CXX|bgghav|Brugge, Haven|Brugge|||
+USRSTAR|1|I|CXX|bggsta|Brugge, Station|Brugge|||
+USRSTAR|1|I|CXX|bggzan|Brugge, 't Zand|Brugge|||
+USRSTAR|1|I|CXX|bgzbus|Bergen aan Zee, Strand|Bergen aan Zee|||
+USRSTAR|1|I|CXX|bgzezl|Bergen aan Zee, Elzenlaan|Bergen aan Zee|||
+USRSTAR|1|I|CXX|bgzvsw|Bergen aan Zee, Verspijckweg|Bergen aan Zee|||
+USRSTAR|1|I|CXX|bhabha|Blauwe Hand, Blauwe Hand|Blauwe Hand|||
+USRSTAR|1|I|CXX|bhahgi|Giethoorn, Giethoorn Zuid|Giethoorn|||
+USRSTAR|1|I|CXX|bhrwyk|Bergharen, De Weem|Bergharen|||
+USRSTAR|1|I|CXX|bhtcon|Berkhout, Concordia|Berkhout|||
+USRSTAR|1|I|CXX|bhtdbt|Berkhout, De Burg|Berkhout|||
+USRSTAR|1|I|CXX|bhtsla|Berkhout, Slagterslaan|Berkhout|||
+USRSTAR|1|I|CXX|bhtwgb|Berkhout, Wilgenhof Beuling|Berkhout|||
+USRSTAR|1|I|CXX|bhtwte|Berkhout, Westeinde|Berkhout|||
+USRSTAR|1|I|CXX|bidali|Biddinghuizen, Alikruikweg|Biddinghuizen|||
+USRSTAR|1|I|CXX|bidbre|Biddinghuizen, Bremerbergweg|Biddinghuizen|||
+USRSTAR|1|I|CXX|biddre|Biddinghuizen, Dreef|Biddinghuizen|||
+USRSTAR|1|I|CXX|bidple|Biddinghuizen, Plein|Biddinghuizen|||
+USRSTAR|1|I|CXX|bidpwg|Biddinghuizen, Palingweg|Biddinghuizen|||
+USRSTAR|1|I|CXX|biebra|Biervliet, Braakman|Biervliet|||
+USRSTAR|1|I|CXX|biebu|Biervliet, Busstation|Biervliet|||
+USRSTAR|1|I|CXX|biedri|Biervliet, Driewegen|Biervliet|||
+USRSTAR|1|I|CXX|bigdor|Biggekerke, Dorpsstraat|Biggekerke|||
+USRSTAR|1|I|CXX|bigker|Biggekerke, Herv. Kerk|Biggekerke|||
+USRSTAR|1|I|CXX|bizcai|Biezelinge, Caisson|Biezelinge|||
+USRSTAR|1|I|CXX|bizjag|Biezelinge, Nieuwe Kerkstraat|Biezelinge|||
+USRSTAR|1|I|CXX|bizroo|Biezelinge, Hoofdstraat|Biezelinge|||
+USRSTAR|1|I|CXX|bkeslu|Beukers, Sluis|Beukers|||
+USRSTAR|1|I|CXX|bklmkp|Borkel, Mgr. Kuypersplein|Borkel|||
+USRSTAR|1|I|CXX|bksbej|Breskens, Sportlaan|Breskens|||
+USRSTAR|1|I|CXX|bksbou|Breskens, Boulevard|Breskens|||
+USRSTAR|1|I|CXX|bkshav|Breskens, Veerhaven|Breskens|||
+USRSTAR|1|I|CXX|bkslan|Breskens, Langeweg|Breskens|||
+USRSTAR|1|I|CXX|bkssck|Breskens, Scheldekade|Breskens|||
+USRSTAR|1|I|CXX|bksvog|Breskens, Vogelenzang|Breskens|||
+USRSTAR|1|I|CXX|blabus|Bladel, Busstation Bladel|Bladel|||
+USRSTAR|1|I|CXX|bladoo|Bladel, Doolandweg|Bladel|||
+USRSTAR|1|I|CXX|blaflo|Bladel, Floriaan|Bladel|||
+USRSTAR|1|I|CXX|blahle|Bladel, Helleneind|Bladel|||
+USRSTAR|1|I|CXX|blamar|Bladel, Markt|Bladel|||
+USRSTAR|1|I|CXX|blapcl|Bladel, Pius X-College|Bladel|||
+USRSTAR|1|I|CXX|blasln|Bladel, Sniederslaan|Bladel|||
+USRSTAR|1|I|CXX|blccar|Blaricum, Carpoolplaats|Blaricum|||
+USRSTAR|1|I|CXX|blcdam|Blaricum, De Dam|Blaricum|||
+USRSTAR|1|I|CXX|blcdor|Blaricum, Dorp|Blaricum|||
+USRSTAR|1|I|CXX|blchhg|Blaricum, Huizerhoogt|Blaricum|||
+USRSTAR|1|I|CXX|blcmat|Blaricum, de Maten|Blaricum|||
+USRSTAR|1|I|CXX|blczkh|Blaricum, Ziekenhuis Tergooi|Blaricum|||
+USRSTAR|1|I|CXX|blddlk|Bloemendaal, De Lakens|Bloemendaal|||
+USRSTAR|1|I|CXX|bldknd|Bloemendaal, Kennemerduinen|Bloemendaal|||
+USRSTAR|1|I|CXX|bldkpl|Bloemendaal, Kerkplein|Bloemendaal|||
+USRSTAR|1|I|CXX|bldns|Bloemendaal, Station|Bloemendaal|||
+USRSTAR|1|I|CXX|bldrhs|Overveen, Gemeentehuis|Overveen|||
+USRSTAR|1|I|CXX|bldstr|Bloemendaal, Strand|Bloemendaal|||
+USRSTAR|1|I|CXX|blefvw|De Blesse, Friese Veldweg|De Blesse|||
+USRSTAR|1|I|CXX|blenoo|De Blesse, Noord|De Blesse|||
+USRSTAR|1|I|CXX|blespi|De Blesse, Spin|De Blesse|||
+USRSTAR|1|I|CXX|blwmol|Boven Leeuwen, Molenstraat|Boven-Leeuwen|||
+USRSTAR|1|I|CXX|blzbus|Blokzijl, Busstation|Blokzijl|||
+USRSTAR|1|I|CXX|bmldps|Bemmel, Dorpsstraat|Bemmel|||
+USRSTAR|1|I|CXX|bmlgle|Bemmel, Gemeentehuis|Bemmel|||
+USRSTAR|1|I|CXX|bmlkro|Bemmel, Klein Rome|Bemmel|||
+USRSTAR|1|I|CXX|bmlloo|Bemmel, Loostraat|Bemmel|||
+USRSTAR|1|I|CXX|bmloos|Bemmel, Oostervelden|Bemmel|||
+USRSTAR|1|I|CXX|bmlpap|Bemmel, Papenstraat|Bemmel|||
+USRSTAR|1|I|CXX|bmltes|Bemmel, Vossenhol|Bemmel|||
+USRSTAR|1|I|CXX|bnlaks|Beneden Leeuwen, Akkerstraat|Beneden-Leeuwen|||
+USRSTAR|1|I|CXX|bnlpwa|Beneden Leeuwen, PWA Brug|Beneden-Leeuwen|||
+USRSTAR|1|I|CXX|boekks|Boekel, Kerkstraat|Boekel|||
+USRSTAR|1|I|CXX|bokflo|Bovenkarspel, Florasingel|Bovenkarspel|||
+USRSTAR|1|I|CXX|bokhfd|Bovenkarspel, R.K. Kerk|Bovenkarspel|||
+USRSTAR|1|I|CXX|bokns|Bovenkarspel, Station|Bovenkarspel|||
+USRSTAR|1|I|CXX|bolbve|Broek op Langedijk, Museumweg|Broek op Langedijk|||
+USRSTAR|1|I|CXX|bolgem|Zuid-Scharwoude, Vroedschap|Zuid-Scharwoude|||
+USRSTAR|1|I|CXX|bollns|Broek op Langedijk, Laansloot|Broek op Langedijk|||
+USRSTAR|1|I|CXX|bolpph|Broek op Langedijk, Papenhorn|Broek op Langedijk|||
+USRSTAR|1|I|CXX|bolscr|Broek op Langedijk, Schoener|Broek op Langedijk|||
+USRSTAR|1|I|CXX|bolwkc|Broek op Langedijk, wkc Broekerveiling|Broek op Langedijk|||
+USRSTAR|1|I|CXX|boroos|Borssele, Oostsingel|Borssele|||
+USRSTAR|1|I|CXX|borwes|Borssele, Weststraat|Borssele|||
+USRSTAR|1|I|CXX|borwie|Borssele, Wielingenstraat|Borssele|||
+USRSTAR|1|I|CXX|bozbur|Bergen op Zoom, Burgerhout|Bergen op Zoom|||
+USRSTAR|1|I|CXX|bozns|Bergen op Zoom, Station|Bergen op Zoom|||
+USRSTAR|1|I|CXX|bozsta|Bergen op Zoom, Asselbergsstraat|Bergen op Zoom|||
+USRSTAR|1|I|CXX|bozstu|Bergen op Zoom, B.Stulemeijerln|Bergen op Zoom|||
+USRSTAR|1|I|CXX|brdbrd|Barendrecht, 2e Barendrechtseweg|Barendrecht|||
+USRSTAR|1|I|CXX|brdkil|Barendrecht, Zichtwei|Barendrecht|||
+USRSTAR|1|I|CXX|brdmdd|Barendrecht, Middeldijk|Barendrecht|||
+USRSTAR|1|I|CXX|brdpos|Barendrecht, Postkantoor|Barendrecht|||
+USRSTAR|1|I|CXX|breire|Breda, Irenestraat|Breda|||
+USRSTAR|1|I|CXX|brekar|Breda, Centrum|Breda|||
+USRSTAR|1|I|CXX|brens|Breda, Station|Breda|||
+USRSTAR|1|I|CXX|brgagt|Bergen, Natteweg|Bergen|||
+USRSTAR|1|I|CXX|brgch|Bergen, Europese School|Bergen|||
+USRSTAR|1|I|CXX|brgdfr|Bergen, De Franschman|Bergen|||
+USRSTAR|1|I|CXX|brgdre|Bergen, De Rekere|Bergen|||
+USRSTAR|1|I|CXX|brgkdk|Bergen, Kerkedijk|Bergen|||
+USRSTAR|1|I|CXX|brgkom|Bergen, Komlaan|Bergen|||
+USRSTAR|1|I|CXX|brgmbk|Bergen, Middenblink|Bergen|||
+USRSTAR|1|I|CXX|brgnat|Bergen, Natteweg|Bergen|||
+USRSTAR|1|I|CXX|brgnes|Bergen, Nesdijk|Bergen|||
+USRSTAR|1|I|CXX|brgnln|Bergen, Noordlaan|Bergen|||
+USRSTAR|1|I|CXX|brgobh|Bergen, Luiveland|Bergen|||
+USRSTAR|1|I|CXX|brgobw|Bergen, Oude Bergerweg|Bergen|||
+USRSTAR|1|I|CXX|brgple|Bergen, Plein|Bergen|||
+USRSTAR|1|I|CXX|brgplp|Breugel, Pallaspad|Breugel|||
+USRSTAR|1|I|CXX|brgtoh|Bergen, Mosselenbuurt|Bergen|||
+USRSTAR|1|I|CXX|brgtwd|Bergen, 't Woud|Bergen|||
+USRSTAR|1|I|CXX|brgvbw|Bergen, van Blaaderenweg|Bergen|||
+USRSTAR|1|I|CXX|brgvhs|Bergen, Blooming|Bergen|||
+USRSTAR|1|I|CXX|brlpbp|Breugel, Pieter Brueghelplein|Breugel|||
+USRSTAR|1|I|CXX|brltho|Breugel, Thorbeckelaan|Breugel|||
+USRSTAR|1|I|CXX|brnoam|Baarn, Oude A'damsestraatw.|Baarn|||
+USRSTAR|1|I|CXX|brnznd|Baarn, Zandheuvelweg|Baarn|||
+USRSTAR|1|I|CXX|bropoo|Brouwershaven, Poortdijkstraat|Brouwershaven|||
+USRSTAR|1|I|CXX|brozui|Brouwershaven, Zuidwal|Brouwershaven|||
+USRSTAR|1|I|CXX|brudor|Bruinisse, Dorp|Bruinisse|||
+USRSTAR|1|I|CXX|brydor|Brijdorpe, Dorp|Brijdorpe|||
+USRSTAR|1|I|CXX|brzrkk|Breezand, R.K. Kerk|Breezand|||
+USRSTAR|1|I|CXX|bslywg|Boesingheliede, IJweg|Boesingheliede|||
+USRSTAR|1|I|CXX|bsmbos|Bussum, Boslaan|Bussum|||
+USRSTAR|1|I|CXX|bsmgou|Bussum, Goudenregenstraat|Bussum|||
+USRSTAR|1|I|CXX|bsmkam|Bussum, Kamerlingh Onnesweg|Bussum|||
+USRSTAR|1|I|CXX|bsmkos|Bussum, Keizer Ottostraat|Bussum|||
+USRSTAR|1|I|CXX|bsmkpk|Bussum, Kolonel Palmkazerne|Bussum|||
+USRSTAR|1|I|CXX|bsmns|Bussum, Station|Bussum|||
+USRSTAR|1|I|CXX|bsmpot|Bussum, Potgieterlaan|Bussum|||
+USRSTAR|1|I|CXX|bsmstz|Bussum, Station Zuid|Bussum|||
+USRSTAR|1|I|CXX|bssbel|Belt Schutsloot, Belterweg|Belt Schutsloot|||
+USRSTAR|1|I|CXX|bssstr|Belt Schutsloot, Strandje|Belt Schutsloot|||
+USRSTAR|1|I|CXX|bstbrm|Best, Brem|Best|||
+USRSTAR|1|I|CXX|bstbvl|Best, Museum Bevr. Vleugels|Best|||
+USRSTAR|1|I|CXX|bstddz|Best, De Dieze|Best|||
+USRSTAR|1|I|CXX|bstdms|Best, De Maas|Best|||
+USRSTAR|1|I|CXX|bstns|Best, Station|Best|||
+USRSTAR|1|I|CXX|bstnzs|Best, Nazarethstraat|Best|||
+USRSTAR|1|I|CXX|bstraa|Best, Raadhuisplein|Best|||
+USRSTAR|1|I|CXX|bstrdh|Best, Rendierhei|Best|||
+USRSTAR|1|I|CXX|bstwil|Best, Wilhelminaplein|Best|||
+USRSTAR|1|I|CXX|btbmol|Batenburg, RK Kerk|Batenburg|||
+USRSTAR|1|I|CXX|btkapo|Buitenkaag, Kaagpont|Buitenkaag|||
+USRSTAR|1|I|CXX|bubbrw|Burgerbrug, Burgerweg/Zwanenplein|Burgerbrug|||
+USRSTAR|1|I|CXX|bubmbw|Burgerbrug, Meester Bollplein|Burgerbrug|||
+USRSTAR|1|I|CXX|burbey|Burgh, J.M.Beijelaan|Burgh|||
+USRSTAR|1|I|CXX|burbur|Burgh, Burghseweg|Burgh|||
+USRSTAR|1|I|CXX|butdor|Buttinge, Dorp|Buttinge|||
+USRSTAR|1|I|CXX|bvdspe|Aerdenhout, Spechtlaan|Aerdenhout|||
+USRSTAR|1|I|CXX|bvdwdw|Bentveld, Westerduinweg|Bentveld|||
+USRSTAR|1|I|CXX|bvkpbr|Amstelveen, Pastoor Brouwerslaan|Amstelveen|||
+USRSTAR|1|I|CXX|bvkstb|Amstelveen, Schinkeldijkje|Amstelveen|||
+USRSTAR|1|I|CXX|bxmns|Boxmeer, Station|Boxmeer|||
+USRSTAR|1|I|CXX|caddor|Cadzand-Dorp, Mariastraat|Onbekend|||
+USRSTAR|1|I|CXX|cadmol|Cadzand-Dorp, Molen|Onbekend|||
+USRSTAR|1|I|CXX|casbea|Castricum, Prinses Beatrixstraat|Castricum|||
+USRSTAR|1|I|CXX|casbrw|Castricum, De Bloemen|Castricum|||
+USRSTAR|1|I|CXX|casdsa|Castricum, De Santmark|Castricum|||
+USRSTAR|1|I|CXX|cashan|Castricum, Händelstraat|Castricum|||
+USRSTAR|1|I|CXX|casjhs|Castricum, Jachthuis|Castricum|||
+USRSTAR|1|I|CXX|casns|Castricum, Station|Castricum|||
+USRSTAR|1|I|CXX|casrhp|Castricum, De Loet|Castricum|||
+USRSTAR|1|I|CXX|cassoo|Castricum, Soomerwegh|Castricum|||
+USRSTAR|1|I|CXX|casspo|Castricum, Sportpark|Castricum|||
+USRSTAR|1|I|CXX|cligra|Clinge, 's-Gravenstraat|Clinge|||
+USRSTAR|1|I|CXX|climol|Clinge, Molenstraat|Clinge|||
+USRSTAR|1|I|CXX|cliste|Clinge, De Sterre|Clinge|||
+USRSTAR|1|I|CXX|cliwoe|Clinge, Woestijnestraat|Clinge|||
+USRSTAR|1|I|CXX|clizee|Clinge, Zeegat|Clinge|||
+USRSTAR|1|I|CXX|clobuz|Callantsoog, Buitenzorg|Callantsoog|||
+USRSTAR|1|I|CXX|clogrk|Callantsoog, Groote Keeten|Callantsoog|||
+USRSTAR|1|I|CXX|clostu|Callantsoog, Stuyvezandeweg|Callantsoog|||
+USRSTAR|1|I|CXX|clovvv|Callantsoog, Jewelweg|Callantsoog|||
+USRSTAR|1|I|CXX|clovyv|Callantsoog, Dubbelduin|Callantsoog|||
+USRSTAR|1|I|CXX|clowij|Callantsoog, Zeeweg|Callantsoog|||
+USRSTAR|1|I|CXX|clozwa|Callantsoog, Zwanenwater|Callantsoog|||
+USRSTAR|1|I|CXX|colhav|Colijnsplaat, Havelaarstraat|Colijnsplaat|||
+USRSTAR|1|I|CXX|colzee|Colijnsplaat, Zeelandbrug|Colijnsplaat|||
+USRSTAR|1|I|CXX|cpdhbw|Camperduin, Hondsbosscheweg|Camperduin|||
+USRSTAR|1|I|CXX|cpdhtd|Camperduin, Houtendijk|Camperduin|||
+USRSTAR|1|I|CXX|cpdmun|Camperduin, Munnikenweg|Camperduin|||
+USRSTAR|1|I|CXX|cpdsta|Camperduin, Strandafslag|Camperduin|||
+USRSTAR|1|I|CXX|cplbou|Capelle a/d IJssel, Rivium Boulevard|Capelle a/d IJssel|||
+USRSTAR|1|I|CXX|cplfas|Capelle a/d IJssel, Fascinatio|Capelle a/d IJssel|||
+USRSTAR|1|I|CXX|cplr2|Capelle a/d IJssel, Rivium 2e Straat|Capelle a/d IJssel|||
+USRSTAR|1|I|CXX|cplri1|Capelle a/d IJssel, Rivium 1e Straat|Capelle a/d IJssel|||
+USRSTAR|1|I|CXX|cplri3|Capelle a/d IJssel, Rivium 3e straat|Capelle a/d IJssel|||
+USRSTAR|1|I|CXX|cplrip|Capelle a/d IJssel, Rivium 4e straat|Capelle a/d IJssel|||
+USRSTAR|1|I|CXX|crecre|Creil, Creil|Creil|||
+USRSTAR|1|I|CXX|crqpwk|Cruquius, Paswerk|Cruquius|||
+USRSTAR|1|I|CXX|crqspg|Cruquius, Spieringweg|Cruquius|||
+USRSTAR|1|I|CXX|crqspw|Cruquius, Spieringweg|Cruquius|||
+USRSTAR|1|I|CXX|ctrker|Casteren, Kerkstraat|Casteren|||
+USRSTAR|1|I|CXX|dbgang|Doesburg, tunnel Angerlo|Doesburg|||
+USRSTAR|1|I|CXX|dbgbei|Doesburg, Beinum|Doesburg|||
+USRSTAR|1|I|CXX|dbgbeu|Doesburg, Beumerskamp|Doesburg|||
+USRSTAR|1|I|CXX|dbggod|Doesburg, Gouden Regenstraat|Doesburg|||
+USRSTAR|1|I|CXX|dbghav|Doesburg, Haven|Doesburg|||
+USRSTAR|1|I|CXX|dbgkdo|Doesburg, Karel Doormansingel|Doesburg|||
+USRSTAR|1|I|CXX|dbgkoe|Doesburg, Koepoortwal|Doesburg|||
+USRSTAR|1|I|CXX|dbgkop|Doesburg, Koppelweg|Doesburg|||
+USRSTAR|1|I|CXX|dbgkra|Doesburg, Kraakselaan|Doesburg|||
+USRSTAR|1|I|CXX|dbgmpt|Doesburg, Meipoort|Doesburg|||
+USRSTAR|1|I|CXX|dbobom|Den Bommel, Bommelstee|Den Bommel|||
+USRSTAR|1|I|CXX|dbokad|Den Bommel, Boven Oostdijk|Den Bommel|||
+USRSTAR|1|I|CXX|dbuele|Den Burg, Elemert/Centrum|Den Burg|||
+USRSTAR|1|I|CXX|dbutxl|Den Burg, Texelhopper|Den Burg|||
+USRSTAR|1|I|CXX|dbuvvv|Den Burg, VVV Texel|Den Burg|||
+USRSTAR|1|I|CXX|dcotxl|De Cocksdorp, Texelhopper|De Cocksdorp|||
+USRSTAR|1|I|CXX|dcotxs|De Cocksdorp, Texelhopper S|De Cocksdorp|||
+USRSTAR|1|I|CXX|dcotxv|De Cocksdorp, Texelhopper V|De Cocksdorp|||
+USRSTAR|1|I|CXX|ddtcs|Dordrecht, Centraal Station|Dordrecht|||
+USRSTAR|1|I|CXX|ddtlee|Dordrecht, Leerpark|Dordrecht|||
+USRSTAR|1|I|CXX|ddttun|Dordrecht, Kiltunnel|Dordrecht|||
+USRSTAR|1|I|CXX|ddtzhd|Dordrecht, Ziekenhuis Dordwijk|Dordrecht|||
+USRSTAR|1|I|CXX|deklem|De Klem, De Klem|De Klem|||
+USRSTAR|1|I|CXX|desbra|De Steeg, Brantsenpark|De Steeg|||
+USRSTAR|1|I|CXX|deuhzh|Deurne, Hoofding. Ziekenhuis|Deurne|||
+USRSTAR|1|I|CXX|deupco|Deurne, Peelland College|Deurne|||
+USRSTAR|1|I|CXX|deurbl|Deurne, Beethovenlaan|Deurne|||
+USRSTAR|1|I|CXX|deurha|Deurne, Heiakker|Deurne|||
+USRSTAR|1|I|CXX|deurhw|Deurne, Hogeweg|Deurne|||
+USRSTAR|1|I|CXX|deurns|Deurne, Station|Deurne|||
+USRSTAR|1|I|CXX|deursl|Deurne, Swinkelslaan|Deurne|||
+USRSTAR|1|I|CXX|devklo|De Velde, Kloosterziel|De Velde|||
+USRSTAR|1|I|CXX|dgocbt|De Goorn, Eetcafe 70|De Goorn|||
+USRSTAR|1|I|CXX|dgognw|De Goorn, Goorneweg|De Goorn|||
+USRSTAR|1|I|CXX|dgozsp|De Goorn, Zuid Spierdijkerweg|De Goorn|||
+USRSTAR|1|I|CXX|dhealb|Den Helder, Marsdiepplein|Den Helder|||
+USRSTAR|1|I|CXX|dheamb|Den Helder, Ambachtsweg|Den Helder|||
+USRSTAR|1|I|CXX|dhebal|Den Helder, Baljuwstraat|Den Helder|||
+USRSTAR|1|I|CXX|dhecap|Den Helder, Marinemuseum|Den Helder|||
+USRSTAR|1|I|CXX|dhedgv|Den Helder, Doggersvaart|Den Helder|||
+USRSTAR|1|I|CXX|dhedir|Den Helder, Dirk Abbesteelaan|Den Helder|||
+USRSTAR|1|I|CXX|dhedko|Den Helder, Drs. Bijlweg|Den Helder|||
+USRSTAR|1|I|CXX|dhedli|Den Helder, De Lichtboei|Den Helder|||
+USRSTAR|1|I|CXX|dhegem|Den Helder, Noordwest Ziekenhuisgroep|Den Helder|||
+USRSTAR|1|I|CXX|dhegpb|Den Helder, G.P. Blankmanstraat|Den Helder|||
+USRSTAR|1|I|CXX|dhehbw|Den Helder, Hendrik Baskeweg|Den Helder|||
+USRSTAR|1|I|CXX|dheinw|Den Helder, Quelderduin|Den Helder|||
+USRSTAR|1|I|CXX|dhekar|Den Helder, Karveelstraat|Den Helder|||
+USRSTAR|1|I|CXX|dheln9|Den Helder, Luchthaven Den Helder|Den Helder|||
+USRSTAR|1|I|CXX|dhemap|Den Helder, Marinapark|Den Helder|||
+USRSTAR|1|I|CXX|dhemid|Den Helder, Middenweg|Den Helder|||
+USRSTAR|1|I|CXX|dhens|Den Helder, Station|Den Helder|||
+USRSTAR|1|I|CXX|dhepkw|Den Helder, Pastoor Koopmanweg|Den Helder|||
+USRSTAR|1|I|CXX|dhesch|Den Helder, Scheldestraat|Den Helder|||
+USRSTAR|1|I|CXX|dhesco|Den Helder, Het Heersdiep|Den Helder|||
+USRSTAR|1|I|CXX|dhespe|Den Helder, Sperwerstraat|Den Helder|||
+USRSTAR|1|I|CXX|dheste|Den Helder, Steiger TESO|Den Helder|||
+USRSTAR|1|I|CXX|dhesth|Den Helder, IJsselmeerstraat|Den Helder|||
+USRSTAR|1|I|CXX|dhetor|Den Helder, Torplaan|Den Helder|||
+USRSTAR|1|I|CXX|dhetui|Den Helder, Tuinstraat|Den Helder|||
+USRSTAR|1|I|CXX|dhewal|Den Helder, Walvisvaardersweg|Den Helder|||
+USRSTAR|1|I|CXX|dhezkw|Den Helder, Duinroosstraat|Den Helder|||
+USRSTAR|1|I|CXX|dhezuw|Den Helder, Station Zuid Westzijde|Den Helder|||
+USRSTAR|1|I|CXX|dhka4|Hoofddorp, De Hoek|De Hoek|||
+USRSTAR|1|I|CXX|dhncho|Dirkshorn, Raadhuisstraat|Dirkshorn|||
+USRSTAR|1|I|CXX|dhnhor|Dirkshorn, Hornhoeve|Dirkshorn|||
+USRSTAR|1|I|CXX|dhotxl|Den Hoorn, Texelhopper|Den Hoorn|||
+USRSTAR|1|I|CXX|dhskrk|De Horst, Kerk|De Horst|||
+USRSTAR|1|I|CXX|dhthbs|De Hutten, Heibloemstraat|De Hutten|||
+USRSTAR|1|I|CXX|diedie|Diemen, Diemerknoop|Diemen|||
+USRSTAR|1|I|CXX|diesta|Diemen, Stammerkamp|Diemen|||
+USRSTAR|1|I|CXX|dievin|Diemen, Vinkenbrug|Diemen|||
+USRSTAR|1|I|CXX|dirsch|Dirksland, Dorp|Dirksland|||
+USRSTAR|1|I|CXX|dirstw|Dirksland, Staakweg|Dirksland|||
+USRSTAR|1|I|CXX|dirzkh|Dirksland, Ziekenhuis|Dirksland|||
+USRSTAR|1|I|CXX|dkobad|De Koog, Badweg|De Koog|||
+USRSTAR|1|I|CXX|dkodps|De Koog, Dorpsstraat|De Koog|||
+USRSTAR|1|I|CXX|dkomaa|De Koog, Maartenhuis|De Koog|||
+USRSTAR|1|I|CXX|dkonik|De Koog, Nikadel|De Koog|||
+USRSTAR|1|I|CXX|dkotxe|De Koog, Texelhopper E|De Koog|||
+USRSTAR|1|I|CXX|dkotxl|De Koog, Texelhopper|De Koog|||
+USRSTAR|1|I|CXX|dmlber|Dommelen, Bergstraat|Dommelen|||
+USRSTAR|1|I|CXX|dmlbpl|Dommelen, Brouwerijplein|Dommelen|||
+USRSTAR|1|I|CXX|dmldam|Dommelen, Damianusdreef|Dommelen|||
+USRSTAR|1|I|CXX|dnbkol|Doornenburg, Van Kol|Doornenburg|||
+USRSTAR|1|I|CXX|dnkhnv|Doornik, Het Nevelveld|Doornik|||
+USRSTAR|1|I|CXX|domgem|Domburg, Markt|Domburg|||
+USRSTAR|1|I|CXX|dommol|Domburg, Molen|Domburg|||
+USRSTAR|1|I|CXX|domsch|Domburg, Schuitvlotstraat|Domburg|||
+USRSTAR|1|I|CXX|domscp|Domburg, Schelpweg|Domburg|||
+USRSTAR|1|I|CXX|domsin|Domburg, Singel|Domburg|||
+USRSTAR|1|I|CXX|domvil|Domburg, Villapark|Domburg|||
+USRSTAR|1|I|CXX|domvos|Domburg, K.de Vosweg|Domburg|||
+USRSTAR|1|I|CXX|donkir|Donsbruggen, Kirche|Donsbrüggen|||
+USRSTAR|1|I|CXX|drbdrw|Draaibrug, Draaibrugseweg|Draaibrug|||
+USRSTAR|1|I|CXX|dredeb|Drempt, de Braamberg|Drempt|||
+USRSTAR|1|I|CXX|dredor|Dreischor, Dorp|Dreischor|||
+USRSTAR|1|I|CXX|drhvvl|Driehuis, van den Vondellaan|Driehuis|||
+USRSTAR|1|I|CXX|drhwln|Driehuis, Waterloolaan|Driehuis|||
+USRSTAR|1|I|CXX|drhwsv|Driehuis, Westerveld|Driehuis|||
+USRSTAR|1|I|CXX|drlass|Driel, Ausemsstraat|Driel|||
+USRSTAR|1|I|CXX|drlbrs|Driel, Broeksingel|Driel|||
+USRSTAR|1|I|CXX|drlcrs|Driel, Cremerstraat|Driel|||
+USRSTAR|1|I|CXX|drldmk|Driel, De Meikers|Driel|||
+USRSTAR|1|I|CXX|drlgrb|Driel, Grote Breeken|Driel|||
+USRSTAR|1|I|CXX|drlkst|Driel, Polenplein|Driel|||
+USRSTAR|1|I|CXX|drnabl|Dieren, Abelenlaan|Dieren|||
+USRSTAR|1|I|CXX|drnbus|Dieren, Station Dieren|Dieren|||
+USRSTAR|1|I|CXX|drncal|Dieren, Callunaplein|Dieren|||
+USRSTAR|1|I|CXX|drnced|Dieren, Cederlaan|Dieren|||
+USRSTAR|1|I|CXX|drncrd|Dieren, Crematorium Domeinlaan|Dieren|||
+USRSTAR|1|I|CXX|drncre|Dieren, Crematorium|Dieren|||
+USRSTAR|1|I|CXX|drndbd|Dieren, Doesburgse Dijk|Dieren|||
+USRSTAR|1|I|CXX|drnjrl|Dieren, Julius Rontgenlaan|Dieren|||
+USRSTAR|1|I|CXX|drnspw|Dieren, Spankerenseweg|Dieren|||
+USRSTAR|1|I|CXX|drnvps|Dieren, Vogelplantsoen|Dieren|||
+USRSTAR|1|I|CXX|droark|Dronten, De Ark|Dronten|||
+USRSTAR|1|I|CXX|drobar|Dronten, De Barrage|Dronten|||
+USRSTAR|1|I|CXX|drobus|Dronten, Centrum|Dronten|||
+USRSTAR|1|I|CXX|drocen|Dronten, Centrum|Dronten|||
+USRSTAR|1|I|CXX|drodri|Dronten, Aeres Hogeschool|Dronten|||
+USRSTAR|1|I|CXX|droduc|Dronten, Dukaat|Dronten|||
+USRSTAR|1|I|CXX|drogwg|Dronten, Garnaalweg|Dronten|||
+USRSTAR|1|I|CXX|drohaf|Dronten, De Haflinger|Dronten|||
+USRSTAR|1|I|CXX|droket|Dronten, De Ketting|Dronten|||
+USRSTAR|1|I|CXX|drolis|Dronten, Lisdoddeweg|Dronten|||
+USRSTAR|1|I|CXX|droman|Dronten, Manege|Dronten|||
+USRSTAR|1|I|CXX|dromel|Dronten, Melisse|Dronten|||
+USRSTAR|1|I|CXX|droren|Dronten, Rendierweg|Dronten|||
+USRSTAR|1|I|CXX|drorie|Dronten, Rietweg|Dronten|||
+USRSTAR|1|I|CXX|drospa|Dronten, Het Spaarne|Dronten|||
+USRSTAR|1|I|CXX|drost|Dronten, Station|Dronten|||
+USRSTAR|1|I|CXX|drubus|Druten, Busstation|Druten|||
+USRSTAR|1|I|CXX|druthg|Druten, Hermes garage|Druten|||
+USRSTAR|1|I|CXX|drutmt|Druten, Markt|Druten|||
+USRSTAR|1|I|CXX|drwkas|Doorwerth, Kasteelweg|Doorwerth|||
+USRSTAR|1|I|CXX|drwkie|Doorwerth, Kievitsdel|Heelsum|||
+USRSTAR|1|I|CXX|drwwdw|Doorwerth, Winkelcentrum de Weerd|Doorwerth|||
+USRSTAR|1|I|CXX|dstgts|Deest, Grotestraat|Deest|||
+USRSTAR|1|I|CXX|dtccen|Doetinchem, Centrum|Doetinchem|||
+USRSTAR|1|I|CXX|dtcgem|Doetinchem, Gemeentehuis|Doetinchem|||
+USRSTAR|1|I|CXX|dtcns|Doetinchem, Station|Doetinchem|||
+USRSTAR|1|I|CXX|dtnpcc|Druten, Pax Christi College|Druten|||
+USRSTAR|1|I|CXX|dtnsrb|Druten, Scharenburg/N322|Druten|||
+USRSTAR|1|I|CXX|duddor|Dudzele, Dorp|Dudzele|||
+USRSTAR|1|I|CXX|duzsmi|Duizel, Smitseind|Duizel|||
+USRSTAR|1|I|CXX|duzwol|Duizel, Wolverstraat|Duizel|||
+USRSTAR|1|I|CXX|dvnall|Duiven, Alliander|Duiven|||
+USRSTAR|1|I|CXX|dvncpn|Duiven, Centerpoort Noord|Duiven|||
+USRSTAR|1|I|CXX|dvndor|Duiven, Dorp|Duiven|||
+USRSTAR|1|I|CXX|dvneng|Duiven, van Goyenstraat|Duiven|||
+USRSTAR|1|I|CXX|dvnepl|Duiven, Eilandplein|Duiven|||
+USRSTAR|1|I|CXX|dvngkl|Duiven, Grasklokje|Duiven|||
+USRSTAR|1|I|CXX|dvnike|Duiven, Ikea|Duiven|||
+USRSTAR|1|I|CXX|dvnns|Duiven, Station Duiven|Duiven|||
+USRSTAR|1|I|CXX|dvnopl|Duiven, Opaal|Duiven|||
+USRSTAR|1|I|CXX|dvnsch|Duiven, Schapenweide|Duiven|||
+USRSTAR|1|I|CXX|dvntgr|Duiven, Typograaf|Duiven|||
+USRSTAR|1|I|CXX|dvnver|Duiven, Vergertlaan|Duiven|||
+USRSTAR|1|I|CXX|dwgsmi|Driewegen, Smitswg|Driewegen|||
+USRSTAR|1|I|CXX|dwrrkk|De Weere, De Hooge Weere|De Weere|||
+USRSTAR|1|I|CXX|dwrzzs|Aartswoud, Zuiderzeestraat|Aartswoud|||
+USRSTAR|1|I|CXX|ebkcen|Eerbeek, Centrum|Eerbeek|||
+USRSTAR|1|I|CXX|ebkcld|Eerbeek, Coldenhovenseweg|Eerbeek|||
+USRSTAR|1|I|CXX|ebkoff|Eerbeek, Offenbachstraat|Eerbeek|||
+USRSTAR|1|I|CXX|ebkrin|Eerbeek, Ringlaan|Eerbeek|||
+USRSTAR|1|I|CXX|ednbri|Elden, De Brink|Elden|||
+USRSTAR|1|I|CXX|eedrij|Eede, Rijksweg/Brieversstraat|Eede|||
+USRSTAR|1|I|CXX|eedzwa|Eede, Zwaanstraat|Eede|||
+USRSTAR|1|I|CXX|eerbos|Eersel, Bospoort|Eersel|||
+USRSTAR|1|I|CXX|eerbus|Eersel, Busstation Eersel|Eersel|||
+USRSTAR|1|I|CXX|eere3s|Eersel, E3-strand|Eersel|||
+USRSTAR|1|I|CXX|eerkap|Eersel, Kapelweg|Eersel|||
+USRSTAR|1|I|CXX|eerkkb|Eersel, Kerkebogten|Eersel|||
+USRSTAR|1|I|CXX|eermar|Eersel, Markt|Eersel|||
+USRSTAR|1|I|CXX|eerpos|Eersel, Postelseweg|Eersel|||
+USRSTAR|1|I|CXX|ehvaga|Eindhoven, Agaat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvapl|Eindhoven, Andromedaplaats|Eindhoven|||
+USRSTAR|1|I|CXX|ehvapt|Eindhoven, Airport|Eindhoven|||
+USRSTAR|1|I|CXX|ehvars|Eindhoven, Rijnstraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvatl|Eindhoven, Artoislaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvatw|Eindhoven, Autowijk|Eindhoven|||
+USRSTAR|1|I|CXX|ehvawn|Eindhoven, Achtseweg Noord|Eindhoven|||
+USRSTAR|1|I|CXX|ehvbaw|Eindhoven, Broekakkerseweg|Eindhoven|||
+USRSTAR|1|I|CXX|ehvbbw|Eindhoven, Braambesweg|Eindhoven|||
+USRSTAR|1|I|CXX|ehvbes|Eindhoven, Beemdstraat/Hurksestraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvbgp|Eindhoven, Belgieplein|Eindhoven|||
+USRSTAR|1|I|CXX|ehvbic|Eindhoven, BIC|Eindhoven|||
+USRSTAR|1|I|CXX|ehvbrz|Eindhoven, Bronziet|Eindhoven|||
+USRSTAR|1|I|CXX|ehvbst|Eindhoven, Station|Eindhoven|||
+USRSTAR|1|I|CXX|ehvchs|Eindhoven, Camphuysenstraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvcll|Eindhoven, Calaislaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvcrd|Eindhoven, Cranendonck|Eindhoven|||
+USRSTAR|1|I|CXX|ehvcry|Eindhoven, Croy|Eindhoven|||
+USRSTAR|1|I|CXX|ehvctl|Eindhoven, Castilielaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvcvl|Eindhoven, Citroenvlinderlaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvczz|Eindhoven, Catharina Zh Zuid|Eindhoven|||
+USRSTAR|1|I|CXX|ehvdhk|Eindhoven, Hurksestraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvdhu|Eindhoven, ERGON/De Hurk|Eindhoven|||
+USRSTAR|1|I|CXX|ehvdvs|Eindhoven, Zernikestraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvdzl|Eindhoven, Donizettilaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvefl|Eindhoven, Estafettelaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvekd|Eindhoven, Eckartdal|Eindhoven|||
+USRSTAR|1|I|CXX|ehveln|Eindhoven, Europalaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvevo|Eindhoven, Evoluon|Eindhoven|||
+USRSTAR|1|I|CXX|ehvflf|Eindhoven, Flight Forum|Eindhoven|||
+USRSTAR|1|I|CXX|ehvflo|Eindhoven, Floraplein|Eindhoven|||
+USRSTAR|1|I|CXX|ehvgab|Eindhoven, Gagelbosch|Eindhoven|||
+USRSTAR|1|I|CXX|ehvgbl|Eindhoven, Grebbeberglaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvgcl|Eindhoven, Generaal Coenderslaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvgeh|Eindhoven, Genderhof|Eindhoven|||
+USRSTAR|1|I|CXX|ehvgll|Eindhoven, Glaspoort|Eindhoven|||
+USRSTAR|1|I|CXX|ehvgln|Eindhoven, Gildelaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvgnp|Eindhoven, Genneper Parken|Eindhoven|||
+USRSTAR|1|I|CXX|ehvgrb|Eindhoven, De Grote Beek|Eindhoven|||
+USRSTAR|1|I|CXX|ehvgwe|Eindhoven, Geldropseweg|Eindhoven|||
+USRSTAR|1|I|CXX|ehvhas|Eindhoven, Hastelweg|Eindhoven|||
+USRSTAR|1|I|CXX|ehvhbb|Eindhoven, HTC/Berkenbos|Eindhoven|||
+USRSTAR|1|I|CXX|ehvhdd|Eindhoven, HTC/Dommeldal|Eindhoven|||
+USRSTAR|1|I|CXX|ehvher|Eindhoven, Hermes-remise|Eindhoven|||
+USRSTAR|1|I|CXX|ehvhhd|Eindhoven, HTC/Heide|Eindhoven|||
+USRSTAR|1|I|CXX|ehvhhk|Eindhoven, Heilig Hartkerk|Eindhoven|||
+USRSTAR|1|I|CXX|ehvhon|Eindhoven, Hondsruglaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvhsp|Eindhoven, Hertensprong|Eindhoven|||
+USRSTAR|1|I|CXX|ehvhts|Eindhoven, HTC/The Strip|Eindhoven|||
+USRSTAR|1|I|CXX|ehvhvg|Eindhoven, Dommelstraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvhvv|Eindhoven, HTC/Vijver|Eindhoven|||
+USRSTAR|1|I|CXX|ehvise|Eindhoven, Internationale School|Eindhoven|||
+USRSTAR|1|I|CXX|ehvjew|Eindhoven, Jozef Eliasweg|Eindhoven|||
+USRSTAR|1|I|CXX|ehvjvg|Eindhoven, Jan van Eyckgracht|Eindhoven|||
+USRSTAR|1|I|CXX|ehvkav|Eindhoven, Kanunnikensven|Eindhoven|||
+USRSTAR|1|I|CXX|ehvklo|Eindhoven, Kloosterdreef|Eindhoven|||
+USRSTAR|1|I|CXX|ehvkoh|Eindhoven, Koudenhoven|Eindhoven|||
+USRSTAR|1|I|CXX|ehvkor|Eindhoven, Kortonjolaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvkpb|Eindhoven, Boschdijk/Steenoven|Eindhoven|||
+USRSTAR|1|I|CXX|ehvkpl|Eindhoven, Kastelenplein|Eindhoven|||
+USRSTAR|1|I|CXX|ehvkrb|Eindhoven, Kruburg|Eindhoven|||
+USRSTAR|1|I|CXX|ehvkst|Eindhoven, Korianderstraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvkzg|Eindhoven, Keizersgracht|Eindhoven|||
+USRSTAR|1|I|CXX|ehvlfr|Eindhoven, Landforum|Eindhoven|||
+USRSTAR|1|I|CXX|ehvlkl|Eindhoven, Leemkuil|Eindhoven|||
+USRSTAR|1|I|CXX|ehvloo|Eindhoven, Fontys Rachelsmolen|Eindhoven|||
+USRSTAR|1|I|CXX|ehvlvd|Eindhoven, Leo van Dorstpad|Eindhoven|||
+USRSTAR|1|I|CXX|ehvmar|Eindhoven, Marathonloop|Eindhoven|||
+USRSTAR|1|I|CXX|ehvmaw|Eindhoven, Meerenakkerweg|Eindhoven|||
+USRSTAR|1|I|CXX|ehvmbs|Eindhoven, Mecklenburgstraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvmbv|Eindhoven, Meerbergsven|Eindhoven|||
+USRSTAR|1|I|CXX|ehvmcl|Eindhoven, Mercuriuslaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvmhs|Eindhoven, Mispelhoefstr/De Schakel|Eindhoven|||
+USRSTAR|1|I|CXX|ehvmhv|Eindhoven, P+R Meerhoven|Eindhoven|||
+USRSTAR|1|I|CXX|ehvmls|Eindhoven, Molijnstraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvmmc|Eindhoven, MMC Eindhoven|Eindhoven|||
+USRSTAR|1|I|CXX|ehvmpl|Eindhoven, Minckelersplein|Eindhoven|||
+USRSTAR|1|I|CXX|ehvnhf|Eindhoven, Nicehof|Eindhoven|||
+USRSTAR|1|I|CXX|ehvnls|Eindhoven, Nicolaistraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvnzl|Eindhoven, Noordzeelaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvope|Eindhoven, Opera|Eindhoven|||
+USRSTAR|1|I|CXX|ehvotb|Eindhoven, Sportpark Eindhoven Nrd|Eindhoven|||
+USRSTAR|1|I|CXX|ehvovw|Eindhoven, Otto Veniusweg|Eindhoven|||
+USRSTAR|1|I|CXX|ehvpal|Eindhoven, Pagelaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvpas|Eindhoven, Palestrinastraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvpch|Eindhoven, P.C. Hooftlaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvpeh|Eindhoven, Pieter Eiffhuis|Eindhoven|||
+USRSTAR|1|I|CXX|ehvpia|Eindhoven, Piazza|Eindhoven|||
+USRSTAR|1|I|CXX|ehvpnl|Eindhoven, Philips Nederland|Eindhoven|||
+USRSTAR|1|I|CXX|ehvppr|Eindhoven, Peppelrode|Eindhoven|||
+USRSTAR|1|I|CXX|ehvpth|Eindhoven, Parktheater|Eindhoven|||
+USRSTAR|1|I|CXX|ehvram|Eindhoven, TU Eindhoven|Eindhoven|||
+USRSTAR|1|I|CXX|ehvrbp|Eindhoven, Rembrandtplein|Eindhoven|||
+USRSTAR|1|I|CXX|ehvrsl|Eindhoven, Rijssellaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvrus|Eindhoven, Rubensstraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvrvs|Eindhoven, Rivierstraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvsep|Eindhoven, 18 Septemberplein|Eindhoven|||
+USRSTAR|1|I|CXX|ehvshv|Eindhoven, Steenoven|Eindhoven|||
+USRSTAR|1|I|CXX|ehvsil|Eindhoven, Sibeliuslaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvsja|Eindhoven, Sint Jansweg|Eindhoven|||
+USRSTAR|1|I|CXX|ehvslw|Eindhoven, Solmsweg|Eindhoven|||
+USRSTAR|1|I|CXX|ehvspk|Eindhoven, Sint Petruskerk|Eindhoven|||
+USRSTAR|1|I|CXX|ehvsta|Eindhoven, Stadhuisplein|Eindhoven|||
+USRSTAR|1|I|CXX|ehvsti|Eindhoven, Stiffelio|Eindhoven|||
+USRSTAR|1|I|CXX|ehvstl|Eindhoven, Sterrenlaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvsts|Eindhoven, Strijp S|Eindhoven|||
+USRSTAR|1|I|CXX|ehvstt|Eindhoven, Strijp-T|Eindhoven|||
+USRSTAR|1|I|CXX|ehvsuc|Eindhoven, Summa College Sterrenln|Eindhoven|||
+USRSTAR|1|I|CXX|ehvtko|Eindhoven, Fontys Theo Koomenlaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvtrs|Eindhoven, De Schakel/Truckstop 8|Eindhoven|||
+USRSTAR|1|I|CXX|ehvtwl|Eindhoven, Tarwelaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvulp|Eindhoven, Ulenpas|Eindhoven|||
+USRSTAR|1|I|CXX|ehvval|Eindhoven, P+R Genneper Parken|Eindhoven|||
+USRSTAR|1|I|CXX|ehvvns|Eindhoven, Venetiestraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvvrs|Eindhoven, Vrijstraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvwas|Eindhoven, Waalstraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvwcg|Eindhoven, WoensXL/Genovevalaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvwcv|Eindhoven, WC Vaartbroek|Eindhoven|||
+USRSTAR|1|I|CXX|ehvwdr|Eindhoven, Willem de Rijkelaan|Eindhoven|||
+USRSTAR|1|I|CXX|ehvwgh|Eindhoven, Wilgenhof|Eindhoven|||
+USRSTAR|1|I|CXX|ehvwhg|Eindhoven, Zwemcentrum Tongelreep|Eindhoven|||
+USRSTAR|1|I|CXX|ehvwpl|Eindhoven, Wilhelminaplein|Eindhoven|||
+USRSTAR|1|I|CXX|ehvwps|Eindhoven, Wijnpeerstraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvwst|Eindhoven, Winkelstraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvwtd|Eindhoven, Witte Dame|Eindhoven|||
+USRSTAR|1|I|CXX|ehvwts|Eindhoven, Wattstraat|Eindhoven|||
+USRSTAR|1|I|CXX|ehvwxl|Eindhoven, WoensXL/ZH Catharina|Eindhoven|||
+USRSTAR|1|I|CXX|ehvzdr|Eindhoven, Zandrijk|Eindhoven|||
+USRSTAR|1|I|CXX|ehvzpd|Eindhoven, Zijpendaal|Eindhoven|||
+USRSTAR|1|I|CXX|ekzflo|Enkhuizen, Flosbeugel|Enkhuizen|||
+USRSTAR|1|I|CXX|ekzkad|Enkhuizen, Kadijken|Enkhuizen|||
+USRSTAR|1|I|CXX|ekzkas|Enkhuizen, Kastanjelaan|Enkhuizen|||
+USRSTAR|1|I|CXX|ekzkvs|Enkhuizen, Kievitstraat|Enkhuizen|||
+USRSTAR|1|I|CXX|ekzmee|Enkhuizen, Meeuwenlaan|Enkhuizen|||
+USRSTAR|1|I|CXX|ekzns|Enkhuizen, Station|Enkhuizen|||
+USRSTAR|1|I|CXX|ekzpoo|Enkhuizen, Poortland|Enkhuizen|||
+USRSTAR|1|I|CXX|ekztoe|Enkhuizen, Kweekwal|Enkhuizen|||
+USRSTAR|1|I|CXX|ekzvbl|Enkhuizen, Van Bleiswijkstraat|Enkhuizen|||
+USRSTAR|1|I|CXX|ekzwes|Enkhuizen, Gezondheidscentr.Molenweg|Enkhuizen|||
+USRSTAR|1|I|CXX|elcdor|Ellecom, Dorp|Ellecom|||
+USRSTAR|1|I|CXX|eldedw|Elsendorp, Elsendorpseweg|Elsendorp|||
+USRSTAR|1|I|CXX|eldrab|Elsendorp, Medisch Centrum|Elsendorp|||
+USRSTAR|1|I|CXX|elldor|Ellemeet, Dorp|Ellemeet|||
+USRSTAR|1|I|CXX|elsbrs|Elst, Brahmsstraat|Elst|||
+USRSTAR|1|I|CXX|elsdgr|Elst, De Griend|Elst|||
+USRSTAR|1|I|CXX|elsepl|Elst, Europaplein|Elst|||
+USRSTAR|1|I|CXX|elsgms|Elst, Grote Molenstraat|Elst|||
+USRSTAR|1|I|CXX|elsgri|Elst, Griegstraat|Elst|||
+USRSTAR|1|I|CXX|elsker|Elst, Kerkeakkers|Elst|||
+USRSTAR|1|I|CXX|elskle|Elst, Kleipeer|Elst|||
+USRSTAR|1|I|CXX|elsns|Elst, Station Elst|Elst|||
+USRSTAR|1|I|CXX|elspla|Elst, Platinaweg|Elst|||
+USRSTAR|1|I|CXX|elssms|Elst, Sint Maartenstraat|Elst|||
+USRSTAR|1|I|CXX|elswil|Elst, Lange Dreef/Willemsstraat|Elst|||
+USRSTAR|1|I|CXX|elswin|Elst, Prinsenhof|Elst|||
+USRSTAR|1|I|CXX|eltmar|Elten, Markt|Elten|||
+USRSTAR|1|I|CXX|elwfor|Ellewoutsdijk, Fort|Ellewoutsdijk|||
+USRSTAR|1|I|CXX|elwgri|Ellewoutsdijk, Grindweg|Ellewoutsdijk|||
+USRSTAR|1|I|CXX|elwmar|Ellewoutsdijk, Markt|Ellewoutsdijk|||
+USRSTAR|1|I|CXX|elzelk|Elkerzee, Elkerzeeseweg|Elkerzee|||
+USRSTAR|1|I|CXX|embabd|Egmond-Binnen, Abdij|Onbekend|||
+USRSTAR|1|I|CXX|embker|Egmond-Binnen, Kerklaan|Onbekend|||
+USRSTAR|1|I|CXX|emblvr|Egmond-Binnen, Laan van Rozen|Onbekend|||
+USRSTAR|1|I|CXX|embran|Egmond-Binnen, Randweg|Onbekend|||
+USRSTAR|1|I|CXX|embrgl|Egmond-Binnen, Rinnegommerlaan|Onbekend|||
+USRSTAR|1|I|CXX|embshs|Egmond-Binnen, Dorpshuis|Egmond Binnen|||
+USRSTAR|1|I|CXX|embstl|Egmond-Binnen, St. Liobastichting|Onbekend|||
+USRSTAR|1|I|CXX|emhdhz|Egmond a/d Hoef, Driehuizerweg|Egmond a/d Hoef|||
+USRSTAR|1|I|CXX|emhegm|Egmond a/d Hoef, Egmonderstraatweg|Egmond a/d Hoef|||
+USRSTAR|1|I|CXX|emhhwg|Egmond a/d Hoef, Herenweg/R.K.Kerk|Egmond a/d Hoef|||
+USRSTAR|1|I|CXX|emhkar|Egmond a/d Hoef, Karmel|Egmond a/d Hoef|||
+USRSTAR|1|I|CXX|emhkhv|Egmond a/d Hoef, Klompenhoeve|Egmond a/d Hoef|||
+USRSTAR|1|I|CXX|emhpbe|Egmond a/d Hoef, Prinses Beatrixlaan|Egmond a/d Hoef|||
+USRSTAR|1|I|CXX|emhwcd|Egmond a/d Hoef, Wkc de Driehoeck|Egmond a/d Hoef|||
+USRSTAR|1|I|CXX|emmbeg|Emmeloord, Begraafplaats|Emmeloord|||
+USRSTAR|1|I|CXX|emmbhf|Emmerich, Emm Bahnhof|Emmerich|||
+USRSTAR|1|I|CXX|emmbus|Emmeloord, Busstation|Emmeloord|||
+USRSTAR|1|I|CXX|emmbwg|Emmeloord, Bomenweg|Emmeloord|||
+USRSTAR|1|I|CXX|emmdie|Emmeloord, Diemenlaan|Emmeloord|||
+USRSTAR|1|I|CXX|emmesp|Emmeloord, Espelerweg|Emmeloord|||
+USRSTAR|1|I|CXX|emmhsn|Emmeloord, Schaftweg/Nagelerweg|Emmeloord|||
+USRSTAR|1|I|CXX|emmlou|Emmeloord, H.D. Louwes Hoeve|Emmeloord|||
+USRSTAR|1|I|CXX|emmond|Emmeloord, Ondernemersweg|Emmeloord|||
+USRSTAR|1|I|CXX|emmoos|Emmeloord, Emmeloord - Oost|Emmeloord|||
+USRSTAR|1|I|CXX|emmtol|Tollebeek, Sint Hubertusplaats|Tollebeek|||
+USRSTAR|1|I|CXX|emmu18|Emmeloord, Urkerweg 18|Emmeloord|||
+USRSTAR|1|I|CXX|emmver|Emmeloord, Dr. W.M. Verhaarlaan|Emmeloord|||
+USRSTAR|1|I|CXX|emmwes|Emmeloord, Antonius Ziekenhuis|Emmeloord|||
+USRSTAR|1|I|CXX|emmzie|Emmeloord, Medisch Centrum|Emmeloord|||
+USRSTAR|1|I|CXX|emmzuy|Emmeloord, Zuyderzee college|Emmeloord|||
+USRSTAR|1|I|CXX|emsaav|Eemnes, Aartseveen|Eemnes|||
+USRSTAR|1|I|CXX|emsbel|Eemnes, BEL kantoor|Eemnes|||
+USRSTAR|1|I|CXX|emsbra|Eemnes, Braadkamp|Eemnes|||
+USRSTAR|1|I|CXX|emspat|Eemnes, Patrijzenhof|Eemnes|||
+USRSTAR|1|I|CXX|emssim|Eemnes, Simonsveen|Eemnes|||
+USRSTAR|1|I|CXX|emstak|Eemnes, Tak|Eemnes|||
+USRSTAR|1|I|CXX|emszui|Eemnes, Zuidersingel|Eemnes|||
+USRSTAR|1|I|CXX|emszwa|Eemnes, 't Zwaantje|Eemnes|||
+USRSTAR|1|I|CXX|emzbir|Egmond aan Zee, Boulevard Ir. de Vassy|Egmond aan Zee|||
+USRSTAR|1|I|CXX|emzblv|Egmond aan Zee, Boulevard Noord|Egmond aan Zee|||
+USRSTAR|1|I|CXX|emzbus|Egmond aan Zee, Busstation|Egmond aan Zee|||
+USRSTAR|1|I|CXX|emzbzu|Egmond aan Zee, Boulevard Zuid|Egmond aan Zee|||
+USRSTAR|1|I|CXX|emzgem|Egmond aan Zee, Oud Gemeentehuis|Egmond aan Zee|||
+USRSTAR|1|I|CXX|emzkbo|Egmond aan Zee, Kennedyboulevard|Egmond aan Zee|||
+USRSTAR|1|I|CXX|emzphb|Egmond aan Zee, Pr. Hendrikstichting|Egmond aan Zee|||
+USRSTAR|1|I|CXX|emzphs|Egmond aan Zee, Pr. Hendrikstichting|Egmond aan Zee|||
+USRSTAR|1|I|CXX|emzpss|Egmond aan Zee, P. Schotsmanstraat|Egmond aan Zee|||
+USRSTAR|1|I|CXX|emzpsw|Egmond aan Zee, P. Schotsmanstraat/Werf|Egmond aan Zee|||
+USRSTAR|1|I|CXX|emzspl|Egmond aan Zee, Sportlaan|Egmond aan Zee|||
+USRSTAR|1|I|CXX|emzste|Egmond aan Zee, Sternlaan|Egmond aan Zee|||
+USRSTAR|1|I|CXX|emzvuu|Egmond aan Zee, Vuurtoren|Egmond aan Zee|||
+USRSTAR|1|I|CXX|emzzwb|Egmond aan Zee, Watertorenweg|Egmond aan Zee|||
+USRSTAR|1|I|CXX|emzzwg|Egmond aan Zee, Zeeweg|Egmond aan Zee|||
+USRSTAR|1|I|CXX|enbksw|Eenigenburg, Kerkweg/Surmerhuizerweg|Eenigenburg|||
+USRSTAR|1|I|CXX|ensdor|Ens, Ens|Ens|||
+USRSTAR|1|I|CXX|ensslo|Ens, Sloefweg|Ens|||
+USRSTAR|1|I|CXX|enszwa|Ens, Zwartemeerweg|Ens|||
+USRSTAR|1|I|CXX|erlesf|Erlecom, Steenfabriek|Erlecom|||
+USRSTAR|1|I|CXX|ewkjul|Ewijk, Julianastraat|Ewijk|||
+USRSTAR|1|I|CXX|ewsove|Van Ewijcksluis, Oude Veer|Van Ewijcksluis|||
+USRSTAR|1|I|CXX|frsfrw|Frasselt, Frasselter Weg|Frasselt|||
+USRSTAR|1|I|CXX|gapkrk|Gapinge, Kerk|Gapinge|||
+USRSTAR|1|I|CXX|gbkcbp|Groesbeek, Canadese Begraafplaats|Groesbeek|||
+USRSTAR|1|I|CXX|gbkcen|Groesbeek, Burg. Ottenhoffstraat|Groesbeek|||
+USRSTAR|1|I|CXX|gbkcra|Groesbeek, Zwembad De Lubert|Groesbeek|||
+USRSTAR|1|I|CXX|gbkctm|Groesbeek, Centrum|Groesbeek|||
+USRSTAR|1|I|CXX|gbkdek|Groesbeek, Dekkerswald|Groesbeek|||
+USRSTAR|1|I|CXX|gbkdom|Groesbeek, De Oude Molen|Groesbeek|||
+USRSTAR|1|I|CXX|gbkdru|Groesbeek, Sportpark Zuid|Groesbeek|||
+USRSTAR|1|I|CXX|gbkher|Groesbeek, Herwendaal|Groesbeek|||
+USRSTAR|1|I|CXX|gbkmal|Groesbeek, Mallemolen|Groesbeek|||
+USRSTAR|1|I|CXX|gbkmoo|Groesbeek, De Wolfsberg|Groesbeek|||
+USRSTAR|1|I|CXX|gbkpap|Groesbeek, Winkelc. Margrietstraat|Groesbeek|||
+USRSTAR|1|I|CXX|gbksch|Groesbeek, Scholen|Groesbeek|||
+USRSTAR|1|I|CXX|gbkste|Groesbeek, Stekkenberg|Groesbeek|||
+USRSTAR|1|I|CXX|gbkwkr|Groesbeek, Werkenrode|Groesbeek|||
+USRSTAR|1|I|CXX|gbkzum|Groesbeek, Zuidmolen|Groesbeek|||
+USRSTAR|1|I|CXX|gbkzwa|Giesbeek, Zwalmstraat|Giesbeek|||
+USRSTAR|1|I|CXX|gdepro|Goedereede, Rijksweg N57|Goedereede|||
+USRSTAR|1|I|CXX|gdepw|Goedereede, Vissersweg|Goedereede|||
+USRSTAR|1|I|CXX|gdlboe|'s-Gravendeel, Boendersweg|'s-Gravendeel|||
+USRSTAR|1|I|CXX|gdlham|'s-Gravendeel, H.Hamerstraat|'s-Gravendeel|||
+USRSTAR|1|I|CXX|gdlma|'s-Gravendeel, Maasdamseweg|'s-Gravendeel|||
+USRSTAR|1|I|CXX|gdlpro|'s-Gravendeel, Prov.weg N217|'s-Gravendeel|||
+USRSTAR|1|I|CXX|gdlrot|'s-Gravendeel, Rotonde|'s-Gravendeel|||
+USRSTAR|1|I|CXX|gdlsmi|'s-Gravendeel, Smidsweg|'s-Gravendeel|||
+USRSTAR|1|I|CXX|gdlwgj|'s-Gravendeel, Weegje|'s-Gravendeel|||
+USRSTAR|1|I|CXX|gdpake|Geldrop, Akert|Geldrop|||
+USRSTAR|1|I|CXX|gdpbus|Geldrop, Station|Geldrop|||
+USRSTAR|1|I|CXX|gdpcen|Geldrop, Centrum|Geldrop|||
+USRSTAR|1|I|CXX|gdpkks|Geldrop, Korte Kerkstraat|Geldrop|||
+USRSTAR|1|I|CXX|gdptcs|Geldrop, Tricotstraat|Geldrop|||
+USRSTAR|1|I|CXX|gdpvds|Geldrop, Volderstraat|Geldrop|||
+USRSTAR|1|I|CXX|gdpwcc|Geldrop, WC Coevering|Geldrop|||
+USRSTAR|1|I|CXX|gdpzhh|Geldrop, Ziekenhuis Hoofdingang|Geldrop|||
+USRSTAR|1|I|CXX|gdtjul|Gendt, Julianaplein|Gendt|||
+USRSTAR|1|I|CXX|gdtkst|Gendt, Kruisstraat|Gendt|||
+USRSTAR|1|I|CXX|gdtmol|Gendt, Molenstraat|Gendt|||
+USRSTAR|1|I|CXX|gedpw|Geersdijk, Provincialeweg|Geersdijk|||
+USRSTAR|1|I|CXX|geegro|Geervliet, Geervliet|Geervliet|||
+USRSTAR|1|I|CXX|gendam|Gent, Dampoort|Gent|||
+USRSTAR|1|I|CXX|genhav|Genne, Havezatheweg|Genne|||
+USRSTAR|1|I|CXX|genhrd|Genne, Het Rode Dak|Genne|||
+USRSTAR|1|I|CXX|genvec|Genne, Vechterstrand|Genne|||
+USRSTAR|1|I|CXX|genzui|Gent, Zuid(Centrum)|Gent|||
+USRSTAR|1|I|CXX|gftgem|Graft, Raadhuisstraat|Graft|||
+USRSTAR|1|I|CXX|giehar|Giethoorn, Hotel Harmonie|Giethoorn|||
+USRSTAR|1|I|CXX|giehve|Giethoorn, Hollands Venetië|Giethoorn|||
+USRSTAR|1|I|CXX|giehyl|Giethoorn, Dominee Hylkemaweg|Giethoorn|||
+USRSTAR|1|I|CXX|gieker|Giethoorn, Kerkweg|Giethoorn|||
+USRSTAR|1|I|CXX|giepe9|Giethoorn, Perceel 9|Giethoorn|||
+USRSTAR|1|I|CXX|gldcbs|Geldrop, Columbusstraat|Geldrop|||
+USRSTAR|1|I|CXX|gldlvh|Geldrop, Laan der Vier Heemskind.|Geldrop|||
+USRSTAR|1|I|CXX|gldrag|Geldrop, Aragorn|Geldrop|||
+USRSTAR|1|I|CXX|gldrd3|Geldrop, DAF 3|Geldrop|||
+USRSTAR|1|I|CXX|gldrew|Geldrop, Eindhovenseweg|Geldrop|||
+USRSTAR|1|I|CXX|gldrks|Geldrop, Kasteel|Geldrop|||
+USRSTAR|1|I|CXX|gldrww|Geldrop, Witte de Withstraat|Geldrop|||
+USRSTAR|1|I|CXX|gmtcar|Gemert, West-Om/Heuvel|Gemert|||
+USRSTAR|1|I|CXX|gmtlod|Gemert, Lodderdijk|Gemert|||
+USRSTAR|1|I|CXX|gmtmor|Gemert, Slenk/Morgen|Gemert|||
+USRSTAR|1|I|CXX|gmtppo|Gemert, Pastoor Poellplein|Gemert|||
+USRSTAR|1|I|CXX|gmtrpl|Gemert, Ridderplein|Gemert|||
+USRSTAR|1|I|CXX|gmtsgp|Gemert, Sint Gerardusplein|Gemert|||
+USRSTAR|1|I|CXX|gmtslk|Gemert, Slenk/Lopense|Gemert|||
+USRSTAR|1|I|CXX|gnmdme|Genemuiden, De Meente|Genemuiden|||
+USRSTAR|1|I|CXX|gnmkam|Kamperzeedijk, Kamperzeedijk/West|Kamperzeedijk|||
+USRSTAR|1|I|CXX|gnmkzd|Kamperzeedijk, Kamperzeedijk/West|Kamperzeedijk|||
+USRSTAR|1|I|CXX|gnmkzs|Kamperzeedijk, Chr. Basisschool|Kamperzeedijk|||
+USRSTAR|1|I|CXX|gnmman|Grafhorst, Mandjeswaard|Grafhorst|||
+USRSTAR|1|I|CXX|gnmnie|Genemuiden, Nieuweweg|Genemuiden|||
+USRSTAR|1|I|CXX|gnmtag|Genemuiden, 't TAG|Genemuiden|||
+USRSTAR|1|I|CXX|gnpbst|Gennep, Busstation|Gennep|||
+USRSTAR|1|I|CXX|goeap|Goes, Appelstraat/Winkelc.|Goes|||
+USRSTAR|1|I|CXX|goeera|Goes, Erasmuspark|Goes|||
+USRSTAR|1|I|CXX|goegro|Goes, De Groe|Goes|||
+USRSTAR|1|I|CXX|goeher|Goes, Van Hertumweg|Goes|||
+USRSTAR|1|I|CXX|goehil|Goes, Hilleweg|Goes|||
+USRSTAR|1|I|CXX|goehk|Goes, Populierenstraat|Goes|||
+USRSTAR|1|I|CXX|goehog|Goes, Van Hogendorplaan|Goes|||
+USRSTAR|1|I|CXX|goehor|Goes, De Horst|Goes|||
+USRSTAR|1|I|CXX|goejoa|Goes, A.Joachimikade|Goes|||
+USRSTAR|1|I|CXX|goelel|Goes, Leliestraat|Goes|||
+USRSTAR|1|I|CXX|goelyc|Goes, Goese Lyceum|Goes|||
+USRSTAR|1|I|CXX|goenhk|Goes, Noordhoeklaan|Goes|||
+USRSTAR|1|I|CXX|goens|Goes, Station|Goes|||
+USRSTAR|1|I|CXX|goeock|Goes, Kloetingseweg|Goes|||
+USRSTAR|1|I|CXX|goeora|Goes, Oranjeweg|Goes|||
+USRSTAR|1|I|CXX|goeost|Goes, Ostrea Lyceum|Goes|||
+USRSTAR|1|I|CXX|goerin|Goes, Ringbaan-West|Goes|||
+USRSTAR|1|I|CXX|goesch|Goes, Watertoren|Goes|||
+USRSTAR|1|I|CXX|goesta|Goes, Oostwal|Goes|||
+USRSTAR|1|I|CXX|goetie|Goes, Tiendenschuur|Goes|||
+USRSTAR|1|I|CXX|goetro|Goes, Troelstralaan|Goes|||
+USRSTAR|1|I|CXX|goeval|Goes, Ter Valcke|Goes|||
+USRSTAR|1|I|CXX|goevn|Goes, Laan der Ver.Naties|Goes|||
+USRSTAR|1|I|CXX|goevoe|Goes, Calvijn College|Goes|||
+USRSTAR|1|I|CXX|goewes|Goes, Westwal (Centrum)|Goes|||
+USRSTAR|1|I|CXX|goezkh|Goes, Ziekenhuis|Goes|||
+USRSTAR|1|I|CXX|goezwe|Goes, Zwembadweg|Goes|||
+USRSTAR|1|I|CXX|gragoe|'s-Gravenpolder, Goesestraatweg|'s-Gravenpolder|||
+USRSTAR|1|I|CXX|grakk|'s-Gravenpolder, Korte Koedijk|'s-Gravenpolder|||
+USRSTAR|1|I|CXX|grasch|'s-Gravenpolder, Schuitweg|'s-Gravenpolder|||
+USRSTAR|1|I|CXX|grawil|'s-Gravenpolder, Klimopplein|'s-Gravenpolder|||
+USRSTAR|1|I|CXX|grimol|Grijpskerke, Molenstraat|Grijpskerke|||
+USRSTAR|1|I|CXX|grivkk|Griendtsveen, Kerk|Griendtsveen|||
+USRSTAR|1|I|CXX|grlhil|'s Graveland, Hilverbeek|'s-Graveland|||
+USRSTAR|1|I|CXX|grlkla|'s Graveland, Klapbrug|'s-Graveland|||
+USRSTAR|1|I|CXX|grlleb|'s-Graveland, Land en Bosch|'s-Graveland|||
+USRSTAR|1|I|CXX|grlnat|'s-Graveland, Natuurmonumenten|'s-Graveland|||
+USRSTAR|1|I|CXX|grlstk|'s Graveland, Stichtse Kade|'s-Graveland|||
+USRSTAR|1|I|CXX|groboe|Groede, Boerenhol|Groede|||
+USRSTAR|1|I|CXX|grovyv|Groede, Vijver|Groede|||
+USRSTAR|1|I|CXX|grpsmi|Greup, Smitsweg|Greup|||
+USRSTAR|1|I|CXX|grvbst|Grave, Busstation|Grave|||
+USRSTAR|1|I|CXX|grvkct|Grave, Kindcentrum|Grave|||
+USRSTAR|1|I|CXX|grvstw|Grave, Stoofweg|Grave|||
+USRSTAR|1|I|CXX|grvtml|Grave, Tijmlaan|Grave|||
+USRSTAR|1|I|CXX|grwdor|Graauw, Dorpsstraat|Graauw|||
+USRSTAR|1|I|CXX|grwoud|Graauw, Oude Kaai|Graauw|||
+USRSTAR|1|I|CXX|gtbmac|Grootebroek, Martinus College|Grootebroek|||
+USRSTAR|1|I|CXX|gtbshf|Bovenkarspel, Station|Bovenkarspel|||
+USRSTAR|1|I|CXX|gtbwcs|Bovenkarspel, Streekhof|Bovenkarspel|||
+USRSTAR|1|I|CXX|gtlscp|Gastel, Sint Cornelisplein|Gastel|||
+USRSTAR|1|I|CXX|gtsgem|Grootschermer, Kopdammerdijk|Grootschermer|||
+USRSTAR|1|I|CXX|gtsn66|Grootschermer, Noordeinde nr. 66|Grootschermer|||
+USRSTAR|1|I|CXX|gtsnoo|Grootschermer, Noordeinde nr. 90|Grootschermer|||
+USRSTAR|1|I|CXX|gwddor|Goudswaard, Goudswaard Dorp|Goudswaard|||
+USRSTAR|1|I|CXX|gwdoud|Oudendijk, Oudendijk|Oudendijk|||
+USRSTAR|1|I|CXX|gwnkak|Gerwen, Kerkakkers|Gerwen|||
+USRSTAR|1|I|CXX|gwnkrp|Gerwen, Kruispunt|Gerwen|||
+USRSTAR|1|I|CXX|haaker|Haamstede, Kerk|Haamstede|||
+USRSTAR|1|I|CXX|haanoo|Haamstede, Noordstraat|Haamstede|||
+USRSTAR|1|I|CXX|haawes|Haamstede, Weststraat|Haamstede|||
+USRSTAR|1|I|CXX|hahhah|Haringhuizen, Dorpsstraat|Haringhuizen|||
+USRSTAR|1|I|CXX|haldor|Halsteren, Dorpsstraat|Halsteren|||
+USRSTAR|1|I|CXX|haljan|Halsteren, Jannelandseweg|Halsteren|||
+USRSTAR|1|I|CXX|halmol|Halsteren, Molenplein|Halsteren|||
+USRSTAR|1|I|CXX|halsch|Halsteren, Steenspil|Halsteren|||
+USRSTAR|1|I|CXX|hamehh|Wellerlooi, Walbeckerweg|Wellerlooi|||
+USRSTAR|1|I|CXX|hanboo|Hansweert, Boomdijk|Hansweert|||
+USRSTAR|1|I|CXX|hanbra|Hansweert, Braakmanstraat|Hansweert|||
+USRSTAR|1|I|CXX|hapads|Hapert, Abdijstraat|Hapert|||
+USRSTAR|1|I|CXX|haphvb|Hapert, Het Vennenbos|Hapert|||
+USRSTAR|1|I|CXX|hapmar|Hapert, Markt|Hapert|||
+USRSTAR|1|I|CXX|hapopw|Hapert, Oude Provincialeweg|Hapert|||
+USRSTAR|1|I|CXX|harbme|Harderwijk, Burg. de Meesterstr.|Harderwijk|||
+USRSTAR|1|I|CXX|harcen|Harderwijk, Centrum|Harderwijk|||
+USRSTAR|1|I|CXX|hardol|Harderwijk, Dolfinarium|Harderwijk|||
+USRSTAR|1|I|CXX|harfle|Biddinghuizen, Camping Flevostrand|Biddinghuizen|||
+USRSTAR|1|I|CXX|harhar|Harderhaven, Harderhaven|Harderhaven|||
+USRSTAR|1|I|CXX|harns|Harderwijk, Busstation|Harderwijk|||
+USRSTAR|1|I|CXX|harsel|Harderwijk, Selhorstweg|Harderwijk|||
+USRSTAR|1|I|CXX|harzhs|Harderwijk, Ziekenh. St. Jansdal|Harderwijk|||
+USRSTAR|1|I|CXX|haunhk|Hauwert, N.H. Kerk|Hauwert|||
+USRSTAR|1|I|CXX|haunr5|Hauwert, Hauwert nr. 5|Hauwert|||
+USRSTAR|1|I|CXX|hawjvn|Scheerwolde, Jan van Nassauweg|Scheerwolde|||
+USRSTAR|1|I|CXX|hawsma|Scheerwolde, Smalleweg|Scheerwolde|||
+USRSTAR|1|I|CXX|hdkdor|Hoedekenskerke, Dorp|Hoedekenskerke|||
+USRSTAR|1|I|CXX|hdkmol|Hoedekenskerke, Molenstraat|Hoedekenskerke|||
+USRSTAR|1|I|CXX|hdksta|Hoedekenskerke, Station SGB|Hoedekenskerke|||
+USRSTAR|1|I|CXX|hdrdep|Bemmel, De Essenpas|Bemmel|||
+USRSTAR|1|I|CXX|hdrker|Haalderen, Kerk|Haalderen|||
+USRSTAR|1|I|CXX|heehoe|'s-Heerenhoek, 's-Heerenhoeksedijk|'s-Heerenhoek|||
+USRSTAR|1|I|CXX|heemol|'s-Heerenhoek, Molendijk|'s-Heerenhoek|||
+USRSTAR|1|I|CXX|heenas|'s-Heerenhoek, Nassauweg|'s-Heerenhoek|||
+USRSTAR|1|I|CXX|heerkk|'s-Heerenhoek, Kerk|'s-Heerenhoek|||
+USRSTAR|1|I|CXX|heetol|'s-Heerenhoek, Tolplein|'s-Heerenhoek|||
+USRSTAR|1|I|CXX|heewer|'s-Heerenhoek, Werrilaan|'s-Heerenhoek|||
+USRSTAR|1|I|CXX|heieww|Heiloo, Ewisweg|Heiloo|||
+USRSTAR|1|I|CXX|heihdr|Alkmaar, Handelsraad|Alkmaar|||
+USRSTAR|1|I|CXX|heihsk|Heiloo, Winkelc. 't Hoekstuk|Heiloo|||
+USRSTAR|1|I|CXX|heiker|Heiloo, Kerkelaan|Heiloo|||
+USRSTAR|1|I|CXX|heikpl|Heiloo, Kapellaan|Heiloo|||
+USRSTAR|1|I|CXX|heikro|Heiloo, Krommelaan|Heiloo|||
+USRSTAR|1|I|CXX|heiloo|Heiloo, Winkelcentrum 't Loo|Heiloo|||
+USRSTAR|1|I|CXX|heins|Heiloo, Station|Heiloo|||
+USRSTAR|1|I|CXX|heisbl|Heiloo, Spokenboschlaan|Heiloo|||
+USRSTAR|1|I|CXX|heislp|Heiloo, Slimpad|Heiloo|||
+USRSTAR|1|I|CXX|heistw|Heiloo, Stationsweg|Heiloo|||
+USRSTAR|1|I|CXX|heizev|Heiloo, Zevenhuizerlaan|Heiloo|||
+USRSTAR|1|I|CXX|helkic|Hellevoetsluis, Kickersbloem|Hellevoetsluis|||
+USRSTAR|1|I|CXX|helkoo|Hellevoetsluis, Kooistee|Hellevoetsluis|||
+USRSTAR|1|I|CXX|helman|Hellevoetsluis, Mandenmaker|Hellevoetsluis|||
+USRSTAR|1|I|CXX|helpol|Hellevoetsluis, Struytse Hoeck|Hellevoetsluis|||
+USRSTAR|1|I|CXX|helpwv|Hellevoetsluis,Amnesty Internationallaan|Hellevoetsluis|||
+USRSTAR|1|I|CXX|helsmi|Hellevoetsluis, Prov.weg/Smitsweg|Hellevoetsluis|||
+USRSTAR|1|I|CXX|helvlo|Hellevoetsluis, Vlotbrug|Hellevoetsluis|||
+USRSTAR|1|I|CXX|hemelb|Hem, Elba|Hem|||
+USRSTAR|1|I|CXX|hemmar|Hem, Marktweg|Hem|||
+USRSTAR|1|I|CXX|hemtor|Hem, Torenweg|Hem|||
+USRSTAR|1|I|CXX|hendos|Hensbroek, Dorpshuis De Oude School|Hensbroek|||
+USRSTAR|1|I|CXX|herhv1|Herkingen, Haven|Herkingen|||
+USRSTAR|1|I|CXX|hetker|Heikant, Kerk|Heikant|||
+USRSTAR|1|I|CXX|hetvyl|Heikant, Vylainlaan|Heikant|||
+USRSTAR|1|I|CXX|heumct|Heumen, Centrum|Heumen|||
+USRSTAR|1|I|CXX|heusut|Heusden, Pastoor Arnoldstraat|Heusden|||
+USRSTAR|1|I|CXX|hevgro|Heenvliet, Heenvliet|Heenvliet|||
+USRSTAR|1|I|CXX|heyehw|Heijen, Heesweg|Heijen|||
+USRSTAR|1|I|CXX|hfd199|Hoofddorp, Hoofdweg 199|Hoofddorp|||
+USRSTAR|1|I|CXX|hfd850|Hoofddorp, Jadelaan|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdarn|Hoofddorp, Arnolduspark|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdbbs|Hoofddorp, Breeburgsingel|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdbhz|Hoofddorp, Bornholm|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdbkz|Hoofddorp, Beukenhorst|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdcor|Hoofddorp, Corversbos|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdcpl|Hoofddorp, Centrum|Hoofddorp|||
+USRSTAR|1|I|CXX|hfddnb|Hoofddorp, Duinbeek|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdfln|Hoofddorp, Expo Haarlemmermeer|Vijfhuizen|||
+USRSTAR|1|I|CXX|hfdflo|Hoofddorp, Floriande Zuid|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdfsd|Hoofddorp, Floriande Sportdorp|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdgvv|Hoofddorp, Hoofdweg/Molen|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdgvz|Hoofddorp, Graan voor Visch|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdhwv|Hoofddorp, Houtwijkerveld|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdjsm|Hoofddorp, Joke Smitstraat|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdkal|Hoofddorp, Kalorama|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdkmw|Hoofddorp, Kaj Munkweg|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdkwa|Hoofddorp, Sportc. Kon. W.-Alexander|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdmst|Hoofddorp, De Meerstede|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdns|Hoofddorp, Station|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdobz|Hoofddorp, Overbos Noord|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdpax|Hoofddorp, Winkelcentrum Pax|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdpre|Hoofddorp, De President|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdrkk|Hoofddorp, RK Kerk|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdspa|Hoofddorp, Spaarne Gasthuis|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdtbz|Hoofddorp, Toolenburg Noord|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdtex|Hoofddorp, Floriande Midden|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdtoo|Hoofddorp, Toolenburg Oost|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdtzu|Hoofddorp, Toolenburg Zuid|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdwct|Hoofddorp, WKC Toolenburg|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdwms|Hoofddorp, Wijkermeerstraat|Hoofddorp|||
+USRSTAR|1|I|CXX|hfdzwb|Hoofddorp, Toolenburg West|Hoofddorp|||
+USRSTAR|1|I|CXX|hgddor|Hengstdijk, Dorp|Hengstdijk|||
+USRSTAR|1|I|CXX|hglhoo|Hoogeloon, Hoofdstraat|Hoogeloon|||
+USRSTAR|1|I|CXX|hglval|Hoogeloon, Valensplein|Hoogeloon|||
+USRSTAR|1|I|CXX|hgnns|Hoogeveen, Station|Hoogeveen|||
+USRSTAR|1|I|CXX|hheora|'s-Heer Hendrikskinderen, Nwe Rijksweg|'s-Heer Hendrikskinderen|||
+USRSTAR|1|I|CXX|hhwams|Heerhugowaard, Rivierenwijk|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwbkl|Heerhugowaard, Bomenwijk|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwbro|Heerhugowaard, Broekerweg|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwcre|Heerhugowaard, De Draai|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwdew|Heerhugowaard, De Wending|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwein|Heerhugowaard, Einsteinstraat|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwgra|Heerhugowaard, Granaat|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwhgb|Heerhugowaard, Huygendijkbos|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwjbc|Heerhugowaard, Icaruslaan|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwkrs|Heerhugowaard, 't Kruis|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwmdw|Heerhugowaard, Stadshart|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwnhp|Heerhugowaard, Edisonstraat|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwnsw|Heerhugowaard, Station Westzijde|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwns|Heerhugowaard, Station|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwpvl|Heerhugowaard, Park van Luna|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwrps|Heerhugowaard, Butterhuizen|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwshf|Heerhugowaard, Han Fortmann College|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwsvz|Heerhugowaard, Stad van de Zon|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwtln|Heerhugowaard, Titanialaan|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwwet|Heerhugowaard, Centrumwaard|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwwfs|Heerhugowaard, Oostertocht|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwzep|Heerhugowaard, Ampèrestraat|Heerhugowaard|||
+USRSTAR|1|I|CXX|hhwzpl|Heerhugowaard, Zeppelinstraat|Heerhugowaard|||
+USRSTAR|1|I|CXX|hilns|Hillegom, Station|Hillegom|||
+USRSTAR|1|I|CXX|hkpbur|Hoog Keppel, Burg. Vrijlandweg|Hoog Keppel|||
+USRSTAR|1|I|CXX|hksns|Hoogkarspel, Station|Hoogkarspel|||
+USRSTAR|1|I|CXX|hksrhp|Hoogkarspel, Julianastraat|Hoogkarspel|||
+USRSTAR|1|I|CXX|hkzeen|Heinkenszand, Eendvogelstraat|Heinkenszand|||
+USRSTAR|1|I|CXX|hkzgem|Heinkenszand, Gemeentehuis|Heinkenszand|||
+USRSTAR|1|I|CXX|hkzkam|Heinkenszand, Kamilleplein/Gemeentehuis|Heinkenszand|||
+USRSTAR|1|I|CXX|hkzste|Heinkenszand, Stelleplas|Heinkenszand|||
+USRSTAR|1|I|CXX|hkzsui|Heinkenszand, Suikerheul|Heinkenszand|||
+USRSTAR|1|I|CXX|hkzwes|Heinkenszand, Westdijk|Heinkenszand|||
+USRSTAR|1|I|CXX|hlamus|Heilig Landstichting, Museum Orientalis|Heilig Landstichting|||
+USRSTAR|1|I|CXX|hlasio|Heilig Landstichting, Sionsweg|Heilig Landstichting|||
+USRSTAR|1|I|CXX|hllbui|Haarlemmerliede, Pont Buitenhuizen|Haarlemmerliede|||
+USRSTAR|1|I|CXX|hllcwv|Haarlemmerliede, Droompark Buitenhuizen|Haarlemmerliede|||
+USRSTAR|1|I|CXX|hllocg|Amsterdam, Oceaangroep|Amsterdam|||
+USRSTAR|1|I|CXX|hllrui|Amsterdam, Ruigoord Dorp|Amsterdam|||
+USRSTAR|1|I|CXX|hlmame|Haarlem, Amelandstraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmand|Haarlem, Andalusie|Haarlem|||
+USRSTAR|1|I|CXX|hlmasw|Haarlem, A. Schweitzerlaan|Haarlem|||
+USRSTAR|1|I|CXX|hlmbar|Haarlem, Baronie|Haarlem|||
+USRSTAR|1|I|CXX|hlmber|Haarlem, Prins Bernhardlaan|Haarlem|||
+USRSTAR|1|I|CXX|hlmbgl|Haarlem, Belgielaan|Haarlem|||
+USRSTAR|1|I|CXX|hlmbrl|Haarlem, Braillelaan|Haarlem|||
+USRSTAR|1|I|CXX|hlmbyz|Haarlem, Byzantiumstraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmcen|Haarlem, Centrum/Verwulft|Haarlem|||
+USRSTAR|1|I|CXX|hlmdav|Haarlem, Leonardo da Vinciplein|Haarlem|||
+USRSTAR|1|I|CXX|hlmdeo|Haarlem, Velserstraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmdpl|Haarlem, Delftplein/Spaarne Gasth.|Haarlem|||
+USRSTAR|1|I|CXX|hlmdre|Haarlem, Dreef|Haarlem|||
+USRSTAR|1|I|CXX|hlmekl|Haarlem, Winkelc. Marsmanplein|Haarlem|||
+USRSTAR|1|I|CXX|hlmeng|Haarlem, Engelandlaan|Haarlem|||
+USRSTAR|1|I|CXX|hlmess|Haarlem, Edisonstraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmeue|Haarlem, Europaweg/Engelandlaan|Haarlem|||
+USRSTAR|1|I|CXX|hlmeur|Haarlem, Europaweg/Schipholweg|Haarlem|||
+USRSTAR|1|I|CXX|hlmeuz|Haarlem, Europaweg|Haarlem|||
+USRSTAR|1|I|CXX|hlmfhm|Haarlem, Frans Hals Museum|Haarlem|||
+USRSTAR|1|I|CXX|hlmfhp|Haarlem, Frans Halsplein|Haarlem|||
+USRSTAR|1|I|CXX|hlmfok|Haarlem, A. Fokkerlaan|Haarlem|||
+USRSTAR|1|I|CXX|hlmfrl|Haarlem, Frieslandlaan|Haarlem|||
+USRSTAR|1|I|CXX|hlmher|Haarlem, Heringaplein|Haarlem|||
+USRSTAR|1|I|CXX|hlmhoo|Haarlem, Haarlem Hoog|Haarlem|||
+USRSTAR|1|I|CXX|hlmhou|Haarlem, Houtplein|Haarlem|||
+USRSTAR|1|I|CXX|hlmhpl|Haarlem, Ramplaankwartier|Haarlem|||
+USRSTAR|1|I|CXX|hlmhsh|Haarlem, Hogeschool Inholland|Haarlem|||
+USRSTAR|1|I|CXX|hlmidw|Haarlem, Industrieweg|Haarlem|||
+USRSTAR|1|I|CXX|hlmike|Haarlem, IKEA Waarderpolder|Haarlem|||
+USRSTAR|1|I|CXX|hlmilw|Haarlem, Ir. Lelyweg|Haarlem|||
+USRSTAR|1|I|CXX|hlmita|Haarlem, Italielaan|Haarlem|||
+USRSTAR|1|I|CXX|hlmjhv|Haarlem, Jachthaven|Haarlem|||
+USRSTAR|1|I|CXX|hlmjlp|Haarlem, Julianapark|Haarlem|||
+USRSTAR|1|I|CXX|hlmjvl|Haarlem, Jac. v. Looystraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmkdh|Haarlem, Koudenhorn|Haarlem|||
+USRSTAR|1|I|CXX|hlmkge|Haarlem, Boerhaaveln/Spaarne Gasth|Haarlem|||
+USRSTAR|1|I|CXX|hlmklo|Haarlem, Kloosterstraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmkop|Haarlem, Kopenhagenstraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmlon|Haarlem, Londenstraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmluw|Haarlem, J.W. Lucasweg|Haarlem|||
+USRSTAR|1|I|CXX|hlmmar|Haarlem, Marshallstraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmmet|Haarlem, Meteorenstraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmmin|Haarlem, Minahassastraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmmsw|Haarlem, Reviusstraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmnbg|Haarlem, Noorderbegraafplaats|Haarlem|||
+USRSTAR|1|I|CXX|hlmnoc|Haarlem, NOVA College|Haarlem|||
+USRSTAR|1|I|CXX|hlmnsi|Haarlem, Station ingang|Haarlem|||
+USRSTAR|1|I|CXX|hlmnsl|Haarlem, Nassaulaan|Haarlem|||
+USRSTAR|1|I|CXX|hlmns|Haarlem, Station|Haarlem|||
+USRSTAR|1|I|CXX|hlmnvw|Haarlem, Nijverheidsweg|Haarlem|||
+USRSTAR|1|I|CXX|hlmnzp|Haarlem, Nagtzaamplein|Haarlem|||
+USRSTAR|1|I|CXX|hlmpam|Haarlem, Pampus|Haarlem|||
+USRSTAR|1|I|CXX|hlmpdl|Haarlem, Prof. Donderslaan|Haarlem|||
+USRSTAR|1|I|CXX|hlmptt|Haarlem, Straalzender|Haarlem|||
+USRSTAR|1|I|CXX|hlmptv|Haarlem, Papentorenvest|Haarlem|||
+USRSTAR|1|I|CXX|hlmrdt|Haarlem, Roerdompstraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmrkb|Haarlem, Raaksbrug|Haarlem|||
+USRSTAR|1|I|CXX|hlmrko|Haarlem, R. Kochlaan|Haarlem|||
+USRSTAR|1|I|CXX|hlmrnp|Haarlem, Burg. Reinaldapark|Haarlem|||
+USRSTAR|1|I|CXX|hlmrpl|Haarlem, Ramplaan|Haarlem|||
+USRSTAR|1|I|CXX|hlmscl|Haarlem, Verspronckw/Spaarne Coll|Haarlem|||
+USRSTAR|1|I|CXX|hlmscs|Haarlem, Schotersingel|Haarlem|||
+USRSTAR|1|I|CXX|hlmsew|Haarlem, Schipholweg/Europaweg|Haarlem|||
+USRSTAR|1|I|CXX|hlmshf|Haarlem, Schoterhof|Haarlem|||
+USRSTAR|1|I|CXX|hlmsho|Haarlem, Spaarnhovenstraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmsns|Haarlem, Station Spaarnwoude|Haarlem|||
+USRSTAR|1|I|CXX|hlmspn|Haarlem, Station Spaarnwoude|Haarlem|||
+USRSTAR|1|I|CXX|hlmspz|Haarlem, Station Spaarnwoude|Haarlem|||
+USRSTAR|1|I|CXX|hlmsub|Haarlem, Schuilenburg|Haarlem|||
+USRSTAR|1|I|CXX|hlmtem|Haarlem, Tempeliersstraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmtur|Haarlem, Turfmarkt|Haarlem|||
+USRSTAR|1|I|CXX|hlmtvb|Haarlem, Teding v. Berkhoutstraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmvgo|Haarlem, Vincent van Goghlaan|Haarlem|||
+USRSTAR|1|I|CXX|hlmvgw|Haarlem, Vergierdeweg|Haarlem|||
+USRSTAR|1|I|CXX|hlmvij|Haarlem, Vijver|Haarlem|||
+USRSTAR|1|I|CXX|hlmvol|Haarlem, Voltastraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmvsw|Haarlem, Verspronckweg|Haarlem|||
+USRSTAR|1|I|CXX|hlmvuh|Haarlem, Emmaplein|Haarlem|||
+USRSTAR|1|I|CXX|hlmvwz|Haarlem, Centrum/Verwulft|Haarlem|||
+USRSTAR|1|I|CXX|hlmvzp|Haarlem, Van Zeggelenplein|Haarlem|||
+USRSTAR|1|I|CXX|hlmwam|Haarlem, Wamstekerstraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmwcz|Haarlem, Schalkwijk Centrum|Haarlem|||
+USRSTAR|1|I|CXX|hlmwdw|Haarlem, Waarderweg|Haarlem|||
+USRSTAR|1|I|CXX|hlmwes|Haarlem, Westergracht|Haarlem|||
+USRSTAR|1|I|CXX|hlmwin|Haarlem, Schalkwijk Centrum|Haarlem|||
+USRSTAR|1|I|CXX|hlmwve|Haarlem, Wim van Eststraat|Haarlem|||
+USRSTAR|1|I|CXX|hlmzaa|Haarlem, Zaanenlaan|Haarlem|||
+USRSTAR|1|I|CXX|hlwona|Halfweg, Oranje Nassaustraat|Halfweg|||
+USRSTAR|1|I|CXX|hlwshz|Halfweg, Station Halfweg-Zwanenbrg|Halfweg|||
+USRSTAR|1|I|CXX|hmkbll|Heemskerk, Beneluxlaan|Heemskerk|||
+USRSTAR|1|I|CXX|hmkcgd|Heemskerk, Camping Geversduin|Heemskerk|||
+USRSTAR|1|I|CXX|hmkdbt|Heemskerk, De Baandert|Heemskerk|||
+USRSTAR|1|I|CXX|hmkdwg|Heemskerk, Duinweg|Heemskerk|||
+USRSTAR|1|I|CXX|hmkgvk|Heemskerk, Goudvink|Heemskerk|||
+USRSTAR|1|I|CXX|hmkmoz|Heemskerk, Mozartstraat|Heemskerk|||
+USRSTAR|1|I|CXX|hmkmrs|Heemskerk, Meerstate|Heemskerk|||
+USRSTAR|1|I|CXX|hmkpsp|Heemskerk, Maerelaan|Heemskerk|||
+USRSTAR|1|I|CXX|hmkruy|Heemskerk, Centrum|Heemskerk|||
+USRSTAR|1|I|CXX|hmoach|Helmond, Achterdijk|Helmond|||
+USRSTAR|1|I|CXX|hmoacp|Helmond, Automotive Campus|Helmond|||
+USRSTAR|1|I|CXX|hmocoe|Helmond, Coendersberglaan|Helmond|||
+USRSTAR|1|I|CXX|hmodbr|Helmond, Sportcentrum De Braak|Helmond|||
+USRSTAR|1|I|CXX|hmodph|Helmond, De Pannehoeve|Helmond|||
+USRSTAR|1|I|CXX|hmodwg|Helmond, Deltaweg|Helmond|||
+USRSTAR|1|I|CXX|hmofok|Helmond, Fokkerlaan|Helmond|||
+USRSTAR|1|I|CXX|hmogyd|Helmond, Geysendorfferstraat|Helmond|||
+USRSTAR|1|I|CXX|hmohar|Helmond, Harmoniestraat|Helmond|||
+USRSTAR|1|I|CXX|hmohee|Helmond, Snoekstraat|Helmond|||
+USRSTAR|1|I|CXX|hmohod|Helmond, Hortsedijk|Helmond|||
+USRSTAR|1|I|CXX|hmohun|Helmond, Hunzestraat|Helmond|||
+USRSTAR|1|I|CXX|hmokll|Helmond, Dr. Klompelaan|Helmond|||
+USRSTAR|1|I|CXX|hmoktv|Helmond, Kasteeltraverse|Helmond|||
+USRSTAR|1|I|CXX|hmolgd|Helmond, Lagedijk|Helmond|||
+USRSTAR|1|I|CXX|hmomol|Helmond, Molenbeek|Helmond|||
+USRSTAR|1|I|CXX|hmongl|Helmond, Nachtegaallaan|Helmond|||
+USRSTAR|1|I|CXX|hmonie|Helmond, Nieuwveld|Helmond|||
+USRSTAR|1|I|CXX|hmonoo|Helmond, Noordende|Helmond|||
+USRSTAR|1|I|CXX|hmons|Helmond, Station|Helmond|||
+USRSTAR|1|I|CXX|hmopbp|Helmond, Piet Blomplein|Helmond|||
+USRSTAR|1|I|CXX|hmopee|Helmond, Peeleik|Helmond|||
+USRSTAR|1|I|CXX|hmorbl|Helmond, Ruusbroeclaan|Helmond|||
+USRSTAR|1|I|CXX|hmosth|Helmond, Station 't Hout|Helmond|||
+USRSTAR|1|I|CXX|hmosto|Helmond, Steenoven|Helmond|||
+USRSTAR|1|I|CXX|hmotro|Helmond, Trompstraat|Helmond|||
+USRSTAR|1|I|CXX|hmouil|Helmond, Uiverlaan|Helmond|||
+USRSTAR|1|I|CXX|hmovdh|Helmond, Volderhof|Helmond|||
+USRSTAR|1|I|CXX|hmovel|Helmond, Veluwehof|Helmond|||
+USRSTAR|1|I|CXX|hmovsb|Helmond, Vossenbeemd|Helmond|||
+USRSTAR|1|I|CXX|hmowde|Helmond, Weth van Deutekomplein|Helmond|||
+USRSTAR|1|I|CXX|hmowdr|Helmond, Weg door de Rijpel|Helmond|||
+USRSTAR|1|I|CXX|hmozep|Helmond, Zeppelinstraat|Helmond|||
+USRSTAR|1|I|CXX|hmozhh|Helmond, Ziekenhuis|Helmond|||
+USRSTAR|1|I|CXX|hmozkh|Helmond, Ziekenhuis|Helmond|||
+USRSTAR|1|I|CXX|hmozui|Helmond, Zuidende|Helmond|||
+USRSTAR|1|I|CXX|hnaops|Helenaveen, Oude Peelstraat|Helenaveen|||
+USRSTAR|1|I|CXX|hndbu|Heinenoord, Busstation|Heinenoord|||
+USRSTAR|1|I|CXX|hndspo|Heinenoord, Sporthal|Heinenoord|||
+USRSTAR|1|I|CXX|hnnlof|Hernen, Broekstraat|Hernen|||
+USRSTAR|1|I|CXX|hokbu|Hoek, Busstation|Hoek|||
+USRSTAR|1|I|CXX|hokmau|Hoek, Mauritsfort|Hoek|||
+USRSTAR|1|I|CXX|homhem|Horstermeer, 't Hemeltje|Horstermeer|||
+USRSTAR|1|I|CXX|hompol|Horstermeer, Poldergemaal|Horstermeer|||
+USRSTAR|1|I|CXX|hopdor|Hoofdplaat, Dorp|Hoofdplaat|||
+USRSTAR|1|I|CXX|hovthk|Hollandscheveld, 't Hoekje|Hollandscheveld|||
+USRSTAR|1|I|CXX|howdda|Hoogwoud, De Dars|Hoogwoud|||
+USRSTAR|1|I|CXX|howdst|Hoogwoud, De Stolp|Hoogwoud|||
+USRSTAR|1|I|CXX|howgmh|Hoogwoud, Raadhuisstraat|Hoogwoud|||
+USRSTAR|1|I|CXX|howgrw|Hoogwoud, Gouwe|Hoogwoud|||
+USRSTAR|1|I|CXX|howhrw|Hoogwoud, Herenweg|Hoogwoud|||
+USRSTAR|1|I|CXX|howkop|Opmeer, Koningspade|Opmeer|||
+USRSTAR|1|I|CXX|howobw|Hoogwoud, Oosterboekelweg|Hoogwoud|||
+USRSTAR|1|I|CXX|howsch|Aartswoud, Schoolstraat|Aartswoud|||
+USRSTAR|1|I|CXX|howsli|Hoogwoud, A. Slickerstraat|Hoogwoud|||
+USRSTAR|1|I|CXX|hpldwe|Hippolytushoef, De Weel|Hippolytushoef|||
+USRSTAR|1|I|CXX|hplkpa|Hippolytushoef, N99|Hippolytushoef|||
+USRSTAR|1|I|CXX|hplmrg|Hippolytushoef, Mering|Hippolytushoef|||
+USRSTAR|1|I|CXX|hrkrw|'s-Heer Arendskerke, Nieuwe Rijksweg|'s-Heer Arendskerke|||
+USRSTAR|1|I|CXX|hrnams|Hoorn, Amstelweg|Hoorn|||
+USRSTAR|1|I|CXX|hrnbeu|Hoorn, Beurtschip|Hoorn|||
+USRSTAR|1|I|CXX|hrnbhw|Hoorn, Berkhouterweg|Hoorn|||
+USRSTAR|1|I|CXX|hrnbmg|Hoorn, Blokmergouw|Hoorn|||
+USRSTAR|1|I|CXX|hrncop|Hoorn, Copernicus|Hoorn|||
+USRSTAR|1|I|CXX|hrndam|Hoorn, Dampten|Hoorn|||
+USRSTAR|1|I|CXX|hrndke|Hoorn, van Dedemstraat|Hoorn|||
+USRSTAR|1|I|CXX|hrndrs|Hoorn, Draafsingel|Hoorn|||
+USRSTAR|1|I|CXX|hrnerf|Hoorn, Het Erf|Hoorn|||
+USRSTAR|1|I|CXX|hrnglw|Hoorn, Geldelozeweg|Hoorn|||
+USRSTAR|1|I|CXX|hrngmh|Hoorn, Glenn Millerhof|Hoorn|||
+USRSTAR|1|I|CXX|hrngrs|Hoorn, Groene Steen|Hoorn|||
+USRSTAR|1|I|CXX|hrnh80|Hoorn, Industrieterrein HN 80|Hoorn|||
+USRSTAR|1|I|CXX|hrnijs|Hoorn, IJsselweg|Hoorn|||
+USRSTAR|1|I|CXX|hrnjdp|Hoorn, J.D. Pollstraat|Hoorn|||
+USRSTAR|1|I|CXX|hrnjpl|Hoorn, Julianaplein|Hoorn|||
+USRSTAR|1|I|CXX|hrnker|Hoorn, Kersenboogerd Station|Hoorn|||
+USRSTAR|1|I|CXX|hrnnst|Hoorn, Nieuwe Steen|Hoorn|||
+USRSTAR|1|I|CXX|hrnns|Hoorn, Station|Hoorn|||
+USRSTAR|1|I|CXX|hrnoro|Hoorn, Oscar Romero|Hoorn|||
+USRSTAR|1|I|CXX|hrnpat|Hoorn, Patio|Hoorn|||
+USRSTAR|1|I|CXX|hrnpos|Hoorn, Poolster|Hoorn|||
+USRSTAR|1|I|CXX|hrnsjg|Hoorn, Dijklander Ziekenhuis|Hoorn|||
+USRSTAR|1|I|CXX|hrnslu|Hoorn, Sluiswachter|Hoorn|||
+USRSTAR|1|I|CXX|hrnsth|Hoorn, Stadhuis|Hoorn|||
+USRSTAR|1|I|CXX|hrnstw|Hoorn, Sterrenweg|Hoorn|||
+USRSTAR|1|I|CXX|hrntrw|Hoorn, Torenwachter|Hoorn|||
+USRSTAR|1|I|CXX|hrntur|Hoorn, Gedempte Turfhaven|Hoorn|||
+USRSTAR|1|I|CXX|hrnwbs|Hoorn, Wabenstraat|Hoorn|||
+USRSTAR|1|I|CXX|hrnzks|Hoorn, Zuiderkruisstraat|Hoorn|||
+USRSTAR|1|I|CXX|hrwadk|Herwen, Aerdtsedijk|Herwen|||
+USRSTAR|1|I|CXX|hrwbij|Herwen, de Bijland|Herwen|||
+USRSTAR|1|I|CXX|hrwmpd|Herwen, Molenpad|Herwen|||
+USRSTAR|1|I|CXX|hseind|Hasselt, Industrieweg|Hasselt|||
+USRSTAR|1|I|CXX|hsesch|Hasselt, Centrum|Hasselt|||
+USRSTAR|1|I|CXX|hsesta|Hasselt, Stadsweg|Hasselt|||
+USRSTAR|1|I|CXX|hsetwe|Hasselt, Ter Wee|Hasselt|||
+USRSTAR|1|I|CXX|hsevia|Hasselt, H. van Viandenplein|Hasselt|||
+USRSTAR|1|I|CXX|hsezan|Hasselt, Zandvoortweg|Hasselt|||
+USRSTAR|1|I|CXX|hsmdop|Heelsum, Dopheidelaan|Heelsum|||
+USRSTAR|1|I|CXX|hsmhbd|Heelsum, Het Beekdal|Heelsum|||
+USRSTAR|1|I|CXX|hsmhei|Renkum, Heidesteinlaan|Renkum|||
+USRSTAR|1|I|CXX|hsmpat|Heelsum, Patrimoniumweg|Heelsum|||
+USRSTAR|1|I|CXX|hsnagp|Huissen, Agropark|Huissen|||
+USRSTAR|1|I|CXX|hsnber|Huissen, Bergerden|Huissen|||
+USRSTAR|1|I|CXX|hsnbrs|Huissen, Bredestraat|Huissen|||
+USRSTAR|1|I|CXX|hsnflo|Huissen, Florapark|Huissen|||
+USRSTAR|1|I|CXX|hsngre|Huissen, Grevenveld|Huissen|||
+USRSTAR|1|I|CXX|hsnhei|Huissen, Heirweg|Huissen|||
+USRSTAR|1|I|CXX|hsnmvt|Huissen, Mea Vota|Huissen|||
+USRSTAR|1|I|CXX|hsnsta|Huissen, Stadswal|Huissen|||
+USRSTAR|1|I|CXX|hsnval|Huissen, Valom|Huissen|||
+USRSTAR|1|I|CXX|hsphsp|Hasselt, Hasselterpand|Hasselt|||
+USRSTAR|1|I|CXX|hspmwg|Hasselt, Matenweg|Hasselt|||
+USRSTAR|1|I|CXX|hstblb|Heemstede, Blauwe Brug|Heemstede|||
+USRSTAR|1|I|CXX|hstbra|Heemstede, Brabantlaan|Heemstede|||
+USRSTAR|1|I|CXX|hstgli|Heemstede, de Glip|Heemstede|||
+USRSTAR|1|I|CXX|hstjlp|Heemstede, Julianaplein|Heemstede|||
+USRSTAR|1|I|CXX|hstker|Heemstede, Kerklaan|Heemstede|||
+USRSTAR|1|I|CXX|hstkoe|Heemstede, Koediefslaan|Heemstede|||
+USRSTAR|1|I|CXX|hstlvw|Heemstede, Leidsevaartweg|Heemstede|||
+USRSTAR|1|I|CXX|hstns|Heemstede, Stat.Heemstede-Aerdenh.|Heemstede|||
+USRSTAR|1|I|CXX|hstrhp|Heemstede, Raadhuisplein|Heemstede|||
+USRSTAR|1|I|CXX|hstspa|Heemstede, Cesar Francklaan|Heemstede|||
+USRSTAR|1|I|CXX|hstvbp|Heemstede, Valkenburgerplein|Heemstede|||
+USRSTAR|1|I|CXX|hstwgl|Heemstede, J.Wagenaarlaan|Heemstede|||
+USRSTAR|1|I|CXX|hstwip|Heemstede, Wipperplein|Heemstede|||
+USRSTAR|1|I|CXX|htmcen|Hattem, Centrum|Hattem|||
+USRSTAR|1|I|CXX|htmdor|Hattem, Dorpsweg|Hattem|||
+USRSTAR|1|I|CXX|htmnoo|Hattem, Noord|Hattem|||
+USRSTAR|1|I|CXX|htmvec|Hattem, Vechtstraat|Hattem|||
+USRSTAR|1|I|CXX|htmysb|Hattem, IJsselbrug|Hattem|||
+USRSTAR|1|I|CXX|htrach|Heteren, Achterstraat/PvMG|Heteren|||
+USRSTAR|1|I|CXX|htrbmh|Heteren, Beemdhof|Heteren|||
+USRSTAR|1|I|CXX|htrelp|Heteren, Elzenpas|Heteren|||
+USRSTAR|1|I|CXX|htrnac|Heteren, Nachtegaalstraat|Heteren|||
+USRSTAR|1|I|CXX|htrolv|Heteren, Onze Lieve Vrouwestraat|Heteren|||
+USRSTAR|1|I|CXX|htrpgg|Heteren, PvMG Groen|Heteren|||
+USRSTAR|1|I|CXX|htrpol|Heteren, Polderstraat|Heteren|||
+USRSTAR|1|I|CXX|htrsak|Heteren, Schaapsakker|Heteren|||
+USRSTAR|1|I|CXX|htrskp|Heteren, Schoutenkamp|Heteren|||
+USRSTAR|1|I|CXX|huemld|Hulsel, Molendijk|Hulsel|||
+USRSTAR|1|I|CXX|huewbl|Hulsel, Willibrordlaan|Hulsel|||
+USRSTAR|1|I|CXX|huiams|Huizen, Amstel|Huizen|||
+USRSTAR|1|I|CXX|huibus|Huizen, Busstation|Huizen|||
+USRSTAR|1|I|CXX|huidrl|Huizen, Doctor Lelylaan|Huizen|||
+USRSTAR|1|I|CXX|huifle|Huizen, Flevolaan|Huizen|||
+USRSTAR|1|I|CXX|huijol|Huizen, Jol|Huizen|||
+USRSTAR|1|I|CXX|huikdo|Huizen, Karel Doormanlaan|Huizen|||
+USRSTAR|1|I|CXX|huikos|Huizen, Kostmand|Huizen|||
+USRSTAR|1|I|CXX|huimer|Huizen, 't Merk|Huizen|||
+USRSTAR|1|I|CXX|huiprb|Huizen, Prins Bernhardplein|Huizen|||
+USRSTAR|1|I|CXX|huireg|Huizen, De Regentesse|Huizen|||
+USRSTAR|1|I|CXX|huirij|Huizen, Rijnland|Huizen|||
+USRSTAR|1|I|CXX|huiwei|Huizen, Weideweg|Huizen|||
+USRSTAR|1|I|CXX|hulabs|Hulst, Absdaalseweg|Hulst|||
+USRSTAR|1|I|CXX|hulbla|Hulst, De Blaauwe Hoeve|Hulst|||
+USRSTAR|1|I|CXX|hulbu|Hulst, Busstation|Hulst|||
+USRSTAR|1|I|CXX|hulceu|Hulst, van Ceulenplein|Hulst|||
+USRSTAR|1|I|CXX|hulgro|Hulst, Grote Kreekweg|Hulst|||
+USRSTAR|1|I|CXX|hulkoo|Hulst, Koolstraat|Hulst|||
+USRSTAR|1|I|CXX|hulmae|Hulst, v.d. Maelstedeweg|Hulst|||
+USRSTAR|1|I|CXX|hulmar|Hulst, Markt|Hulst|||
+USRSTAR|1|I|CXX|huloud|Hulst, Oude Polderstraat|Hulst|||
+USRSTAR|1|I|CXX|hulrey|Hulst, Reynaertcollege|Hulst|||
+USRSTAR|1|I|CXX|hulsta|Hulst, Stationsplein|Hulst|||
+USRSTAR|1|I|CXX|hulzoe|Hulst, Zoetevaart|Hulst|||
+USRSTAR|1|I|CXX|hvabee|Heveadorp, Beeklaan|Heveadorp|||
+USRSTAR|1|I|CXX|hvaobw|Heveadorp, Oude Oosterbeekseweg|Heveadorp|||
+USRSTAR|1|I|CXX|hvdnhh|Herveld-Noord, De Hoge Hof|Herveld|||
+USRSTAR|1|I|CXX|hvdzls|Herveld-Zuid, Lechstraat|Herveld|||
+USRSTAR|1|I|CXX|hvsaho|Hilversum, Anna's Hoeve|Hilversum|||
+USRSTAR|1|I|CXX|hvsare|Hilversum, Arenapark|Hilversum|||
+USRSTAR|1|I|CXX|hvsaug|Hilversum, Augustinushof|Hilversum|||
+USRSTAR|1|I|CXX|hvsbcz|Hilversum, Zuiderheide|Hilversum|||
+USRSTAR|1|I|CXX|hvsblo|Hilversum, Bloemenmeent|Hilversum|||
+USRSTAR|1|I|CXX|hvsbor|Hilversum, Bordetstraat|Hilversum|||
+USRSTAR|1|I|CXX|hvscor|Hilversum, Corverslaan|Hilversum|||
+USRSTAR|1|I|CXX|hvscuy|Hilversum, Dr. PJH Cuypersplein|Hilversum|||
+USRSTAR|1|I|CXX|hvsera|Hilversum, Erasmuslaan|Hilversum|||
+USRSTAR|1|I|CXX|hvsgrl|Hilversum, Goudenregenlaan|Hilversum|||
+USRSTAR|1|I|CXX|hvsgro|Hilversum, Groest|Hilversum|||
+USRSTAR|1|I|CXX|hvshsm|Hilversum, Hendrik Smitstraat|Hilversum|||
+USRSTAR|1|I|CXX|hvsibg|Hilversum, Beeld en Geluid|Hilversum|||
+USRSTAR|1|I|CXX|hvsjhu|Hilversum, Johannes Huslaan|Hilversum|||
+USRSTAR|1|I|CXX|hvsjvc|Hilversum, Jacob van Campenlaan|Hilversum|||
+USRSTAR|1|I|CXX|hvskap|Hilversum, Kapittelweg|Hilversum|||
+USRSTAR|1|I|CXX|hvskdl|Hilversum, Karel Doormanlaan|Hilversum|||
+USRSTAR|1|I|CXX|hvsker|Hilversum, Kerkbrink|Hilversum|||
+USRSTAR|1|I|CXX|hvslas|Hilversum, Langestraat|Hilversum|||
+USRSTAR|1|I|CXX|hvslbo|Hilversum, Loosdrechtse Bos|Hilversum|||
+USRSTAR|1|I|CXX|hvsldw|Hilversum, Loosdrechtseweg|Hilversum|||
+USRSTAR|1|I|CXX|hvslib|Hilversum, Libellemeent|Hilversum|||
+USRSTAR|1|I|CXX|hvslod|Hilversum, Lopes Diaslaan|Hilversum|||
+USRSTAR|1|I|CXX|hvslor|Hilversum, Lorentzweg|Hilversum|||
+USRSTAR|1|I|CXX|hvsmbb|Hilversum, Mies Bouwmanboulevard|Hilversum|||
+USRSTAR|1|I|CXX|hvsmed|Hilversum, Mediapark|Hilversum|||
+USRSTAR|1|I|CXX|hvsmel|Hilversum, Melkpad|Hilversum|||
+USRSTAR|1|I|CXX|hvsmey|Hilversum, J.H.Meijerstraat|Hilversum|||
+USRSTAR|1|I|CXX|hvsmez|Hilversum, Mediapark Zuid|Hilversum|||
+USRSTAR|1|I|CXX|hvsmme|Hilversum, Melkmeent|Hilversum|||
+USRSTAR|1|I|CXX|hvsnim|Hilversum, Nimrodpark|Hilversum|||
+USRSTAR|1|I|CXX|hvsori|Hilversum, Orionlaan|Hilversum|||
+USRSTAR|1|I|CXX|hvsrad|Hilversum, Radiostraat|Hilversum|||
+USRSTAR|1|I|CXX|hvssau|Hilversum, Sauerstraat|Hilversum|||
+USRSTAR|1|I|CXX|hvssch|Hilversum, Schapenkamp|Hilversum|||
+USRSTAR|1|I|CXX|hvssne|Hilversum, Snelliuslaan|Hilversum|||
+USRSTAR|1|I|CXX|hvssp|Hilversum, Station Sportpark|Hilversum|||
+USRSTAR|1|I|CXX|hvsste|Hilversum, Stephensonlaan|Hilversum|||
+USRSTAR|1|I|CXX|hvssts|Hilversum, Stationsstraat|Hilversum|||
+USRSTAR|1|I|CXX|hvsst|Hilversum, Station|Hilversum|||
+USRSTAR|1|I|CXX|hvstro|Hilversum, Trompenbergerweg|Hilversum|||
+USRSTAR|1|I|CXX|hvsvli|Hilversum, Vlindermeent|Hilversum|||
+USRSTAR|1|I|CXX|hvswaa|Hilversum, De Waaier|Hilversum|||
+USRSTAR|1|I|CXX|hvswcs|Hilversum, Winkelc. Seinhorst|Hilversum|||
+USRSTAR|1|I|CXX|hvszev|Hilversum, Zeverijnstraat|Hilversum|||
+USRSTAR|1|I|CXX|hvszie|Hilversum, Ziekenhuis Tergooi|Hilversum|||
+USRSTAR|1|I|CXX|hvszrp|Hilversum, Zeverijnplantsoen|Hilversum|||
+USRSTAR|1|I|CXX|hvszst|Hilversum, Zonnestraal|Hilversum|||
+USRSTAR|1|I|CXX|hzeboe|Heeze, Leenderweg/Molen|Heeze|||
+USRSTAR|1|I|CXX|hzecre|Heeze, Crematorium|Heeze|||
+USRSTAR|1|I|CXX|hzegov|Heeze, Ginderover|Heeze|||
+USRSTAR|1|I|CXX|hzekem|Heeze, Kempenhaeghe|Heeze|||
+USRSTAR|1|I|CXX|hzekrk|Heeze, Kerk|Heeze|||
+USRSTAR|1|I|CXX|hzens|Heeze, Station|Heeze|||
+USRSTAR|1|I|CXX|hzesow|Heeze, Somerenseweg|Heeze|||
+USRSTAR|1|I|CXX|jdpbmz|Julianadorp, Middelzand|Julianadorp|||
+USRSTAR|1|I|CXX|jdpdrb|Julianadorp, Dorperweerth|Julianadorp|||
+USRSTAR|1|I|CXX|jdpesr|Julianadorp, Elsrijk|Julianadorp|||
+USRSTAR|1|I|CXX|jdplan|Julianadorp, Langevliet|Julianadorp|||
+USRSTAR|1|I|CXX|jdpmal|Julianadorp, Malzwin|Julianadorp|||
+USRSTAR|1|I|CXX|jdpmdv|Julianadorp, Middenvliet|Julianadorp|||
+USRSTAR|1|I|CXX|jdpmrh|Julianadorp, Mariahoeve|Julianadorp|||
+USRSTAR|1|I|CXX|jdpnhv|Julianadorp, Noorderhaven|Julianadorp|||
+USRSTAR|1|I|CXX|jdprie|Julianadorp, Tigchelaarstraat|Julianadorp|||
+USRSTAR|1|I|CXX|jdpveu|Julianadorp, v. Foreestweg|Julianadorp|||
+USRSTAR|1|I|CXX|jdpzdh|Julianadorp, Zuiderhaaks|Julianadorp|||
+USRSTAR|1|I|CXX|jdpzww|Julianadorp, Wierbalg|Julianadorp|||
+USRSTAR|1|I|CXX|kalmol|Kamperland, Molenweg|Kamperland|||
+USRSTAR|1|I|CXX|kalsof|Kamperland, Sophiaweg|Kamperland|||
+USRSTAR|1|I|CXX|kaltu1|Kamperland, Tunnel N57(Oostzijde)|Kamperland|||
+USRSTAR|1|I|CXX|kamake|Kampen, Akelei|Kampen|||
+USRSTAR|1|I|CXX|kamalm|Kampen, Almere College|Kampen|||
+USRSTAR|1|I|CXX|kambov|Kampen, Bovenhavenstraat|Kampen|||
+USRSTAR|1|I|CXX|kamdam|Kampen, Ommelandsingel|Kampen|||
+USRSTAR|1|I|CXX|kamhdy|Kampen, Hilbert v Dijkstraat|Kampen|||
+USRSTAR|1|I|CXX|kamijs|Kampen, IJsselbrug|Kampen|||
+USRSTAR|1|I|CXX|kamkal|Kampen, Kalmoessingel|Kampen|||
+USRSTAR|1|I|CXX|kamkol|Kampen, Doctor Kolfflaan|Kampen|||
+USRSTAR|1|I|CXX|kamkoo|Kampen, Koornmarkt|Kampen|||
+USRSTAR|1|I|CXX|kamlee|Kampen, Leeghwaterstraat|Kampen|||
+USRSTAR|1|I|CXX|kamnhs|Kampen, Nijverheidsstraat|Kampen|||
+USRSTAR|1|I|CXX|kamns|Kampen, Station|Kampen|||
+USRSTAR|1|I|CXX|kamoos|Kampen, Oostzeestraat|Kampen|||
+USRSTAR|1|I|CXX|kamora|Kampen, Oranjesingel|Kampen|||
+USRSTAR|1|I|CXX|kampz|Kampen, GSG Pieter Zandt|Kampen|||
+USRSTAR|1|I|CXX|kamven|Kampen, Venedijk|Kampen|||
+USRSTAR|1|I|CXX|kamvij|Kampen, Vijverhof|Kampen|||
+USRSTAR|1|I|CXX|kamydr|IJsselmuiden, Drostenstraat|IJsselmuiden|||
+USRSTAR|1|I|CXX|kamyge|IJsselmuiden, Slenkstraat|IJsselmuiden|||
+USRSTAR|1|I|CXX|kamyko|De Zande, 'Koelucht'|De Zande|||
+USRSTAR|1|I|CXX|kamyoa|Zalk, Oase|Zalk|||
+USRSTAR|1|I|CXX|kamyoo|IJsselmuiden, Oosterlandenweg|IJsselmuiden|||
+USRSTAR|1|I|CXX|kamyza|De Zande, Zalkerdijk|De Zande|||
+USRSTAR|1|I|CXX|kamzst|Kampen, Station Zuid|Kampen|||
+USRSTAR|1|I|CXX|kapkas|Kapelle, Kasteelstraat|Kapelle|||
+USRSTAR|1|I|CXX|kapker|Kapelle, Kerkplein|Kapelle|||
+USRSTAR|1|I|CXX|kapnoo|Kapelle, Noordweg|Kapelle|||
+USRSTAR|1|I|CXX|kapns|Kapelle, Station|Kapelle|||
+USRSTAR|1|I|CXX|kapwin|Kapelle, Cederlaan|Kapelle|||
+USRSTAR|1|I|CXX|katdor|Kats, Dorpsstraat|Kats|||
+USRSTAR|1|I|CXX|katdrp|Kattendijke, Dorpsstraat|Kattendijke|||
+USRSTAR|1|I|CXX|kazlel|Koog aan de Zaan, Leliestraat|Koog a/d Zaan|||
+USRSTAR|1|I|CXX|kazver|Koog a/d Zaan, Verzetstraat/Prov.weg|Koog a/d Zaan|||
+USRSTAR|1|I|CXX|kdsbil|Kudelstaart, Bilderdammerweg|Kudelstaart|||
+USRSTAR|1|I|CXX|kdsrtl|Kudelstaart, De Rietlanden|Kudelstaart|||
+USRSTAR|1|I|CXX|keelhw|Keelven, Huize Witven/Beuvenlaan|Keelven|||
+USRSTAR|1|I|CXX|keelvs|Keelven, Vaarselstraat|Keelven|||
+USRSTAR|1|I|CXX|kerver|Kerkwerve, Verseputseweg|Kerkwerve|||
+USRSTAR|1|I|CXX|kgbkgb|Kraggenburg, Kraggenburg|Kraggenburg|||
+USRSTAR|1|I|CXX|kgbpaa|Kraggenburg, Paardenweg|Kraggenburg|||
+USRSTAR|1|I|CXX|kkdwvs|Kekerdom, Weverstraat|Kekerdom|||
+USRSTAR|1|I|CXX|kldbol|Kalverdijk, Bongerdlaan|Kalverdijk|||
+USRSTAR|1|I|CXX|kldcbo|Kalverdijk, Camping De Bongerd|Kalverdijk|||
+USRSTAR|1|I|CXX|kldhro|Kalverdijk, Ambachtsdijk|Kalverdijk|||
+USRSTAR|1|I|CXX|klolew|Kloetinge, Lewestraat|Kloetinge|||
+USRSTAR|1|I|CXX|klomol|Kloetinge, Molen|Kloetinge|||
+USRSTAR|1|I|CXX|klsgll|Anna Paulowna, Geerligslaan|Anna Paulowna|||
+USRSTAR|1|I|CXX|klvbhf|Kleve, Kle Bahnhof|Kleve|||
+USRSTAR|1|I|CXX|klvgnw|Kleve, Grünerweg|Kleve|||
+USRSTAR|1|I|CXX|klwkpw|Klaaswaal, Kreupeleweg|Klaaswaal|||
+USRSTAR|1|I|CXX|klwmol|Klaaswaal, Molendijk|Klaaswaal|||
+USRSTAR|1|I|CXX|klwryw|Klaaswaal, Rijksstraatweg|Klaaswaal|||
+USRSTAR|1|I|CXX|klzclo|Kloosterzande, Cloosterstraat|Kloosterzande|||
+USRSTAR|1|I|CXX|klzdis|Kloosterzande, Europlein|Kloosterzande|||
+USRSTAR|1|I|CXX|klzhul|Kloosterzande, Hulsterweg|Kloosterzande|||
+USRSTAR|1|I|CXX|klzker|Kloosterzande, Kerk|Kloosterzande|||
+USRSTAR|1|I|CXX|klzmol|Kloosterzande, Molen|Kloosterzande|||
+USRSTAR|1|I|CXX|klzpos|Kloosterzande, Europlein|Kloosterzande|||
+USRSTAR|1|I|CXX|kndbrw|Krommeniedijk, Brandweer|Krommeniedijk|||
+USRSTAR|1|I|CXX|kndsch|Krommeniedijk, School|Krommeniedijk|||
+USRSTAR|1|I|CXX|kndvlu|Krommeniedijk, Vlusch|Krommeniedijk|||
+USRSTAR|1|I|CXX|kndwou|Krommeniedijk, Woudpolderweg|Krommeniedijk|||
+USRSTAR|1|I|CXX|knehgr|Knegsel, Het Groen|Knegsel|||
+USRSTAR|1|I|CXX|koeozv|Bergen, Kanaaldijk N9|Bergen|||
+USRSTAR|1|I|CXX|koevn9|Alkmaar, Koedijkervlotbrug|Alkmaar|||
+USRSTAR|1|I|CXX|koltor|Kolhorn, Torenstraat|Kolhorn|||
+USRSTAR|1|I|CXX|korhoo|Kortgene, Hoofdstraat|Kortgene|||
+USRSTAR|1|I|CXX|korkaa|Kortgene, Kaaidijk|Kortgene|||
+USRSTAR|1|I|CXX|kormol|Kortgene, Molen|Kortgene|||
+USRSTAR|1|I|CXX|koroos|Kortgene, Oostdijk|Kortgene|||
+USRSTAR|1|I|CXX|koubea|Koudekerke, Beatrixlaan|Koudekerke|||
+USRSTAR|1|I|CXX|koumid|Koudekerke, Middelburgsestraat|Koudekerke|||
+USRSTAR|1|I|CXX|kouvli|Koudekerke, Vliedberg|Koudekerke|||
+USRSTAR|1|I|CXX|kowemm|Koewacht, Emmabaan/Nieuwstraat|Koewacht|||
+USRSTAR|1|I|CXX|kowmol|Koewacht, Oude Molen|Koewacht|||
+USRSTAR|1|I|CXX|kownie|Koewacht, Nieuwe Molen|Koewacht|||
+USRSTAR|1|I|CXX|kowzan|Koewacht, Het Zand|Koewacht|||
+USRSTAR|1|I|CXX|kpense|Kampereiland, Natuurbad Seveningen|Kampereiland|||
+USRSTAR|1|I|CXX|kracal|Krabbendijke, Calvijn College|Krabbendijke|||
+USRSTAR|1|I|CXX|krador|Krabbendijke, Dorpsstraat|Krabbendijke|||
+USRSTAR|1|I|CXX|krans|Krabbendijke, Station|Krabbendijke|||
+USRSTAR|1|I|CXX|krapar|Krabbendijke, Westelijke Parallelweg|Krabbendijke|||
+USRSTAR|1|I|CXX|krbbma|Kranenburg, Bürgermeisteramt|Kranenburg|||
+USRSTAR|1|I|CXX|krbfwr|Kranenburg, Feuerwehr|Kranenburg|||
+USRSTAR|1|I|CXX|krbmit|Kranenburg, Kranenburg Mitte|Kranenburg|||
+USRSTAR|1|I|CXX|krezkw|Kreileroord, Zuiderkwelweg|Kreileroord|||
+USRSTAR|1|I|CXX|krgbre|Kruiningen, Hazenburg|Kruiningen|||
+USRSTAR|1|I|CXX|krggem|Kruiningen, Markt(Gemeentehuis)|Kruiningen|||
+USRSTAR|1|I|CXX|krgns|Kruiningen, Station|Kruiningen|||
+USRSTAR|1|I|CXX|krguit|Kruiningen, de Uitkijk|Kruiningen|||
+USRSTAR|1|I|CXX|krgvoo|Kruiningen, Voorhoute|Kruiningen|||
+USRSTAR|1|I|CXX|krgzan|Kruiningen, Zandweg|Kruiningen|||
+USRSTAR|1|I|CXX|kroanp|Krommenie, Stat. Krommenie-A'delft|Krommenie|||
+USRSTAR|1|I|CXX|kroans|Assendelft, Stat. Krommenie-A'delft|Assendelft|||
+USRSTAR|1|I|CXX|krobad|Krommenie, Badhuislaan|Krommenie|||
+USRSTAR|1|I|CXX|kroblo|Krommenie, Blok|Krommenie|||
+USRSTAR|1|I|CXX|krogle|Krommenie, Glennstraat|Krommenie|||
+USRSTAR|1|I|CXX|krohei|Krommenie, Heiligeweg|Krommenie|||
+USRSTAR|1|I|CXX|krojup|Krommenie, Jupiterstraat|Krommenie|||
+USRSTAR|1|I|CXX|kroker|Krommenie, Kervelstraat|Krommenie|||
+USRSTAR|1|I|CXX|kronep|Krommenie, Neptunuslaan|Krommenie|||
+USRSTAR|1|I|CXX|kropad|Krommenie, Padlaan|Krommenie|||
+USRSTAR|1|I|CXX|kroros|Krommenie, Rosariumhorst|Krommenie|||
+USRSTAR|1|I|CXX|krozon|Krommenie, Willis/Zonnebaars|Krommenie|||
+USRSTAR|1|I|CXX|krspol|Kruispolderhaven, Kruispolderhaven|Kruispolderhaven|||
+USRSTAR|1|I|CXX|kslgem|Anna Paulowna, Oude Gemeentehuis|Anna Paulowna|||
+USRSTAR|1|I|CXX|kslvek|Anna Paulowna, Van Ewijckskade|Anna Paulowna|||
+USRSTAR|1|I|CXX|kthfku|Kortenhoef, Fort Kijk Uit|Kortenhoef|||
+USRSTAR|1|I|CXX|kthkan|Kortenhoef, Kanaalbrug|Kortenhoef|||
+USRSTAR|1|I|CXX|kthker|Kortenhoef, Kerklaan|Kortenhoef|||
+USRSTAR|1|I|CXX|kthpar|Kortenhoef, Parklaan|Kortenhoef|||
+USRSTAR|1|I|CXX|kthvst|Kortenhoef, Veenstaete|Kortenhoef|||
+USRSTAR|1|I|CXX|kuibur|Kuinre, Burchtstraat|Kuinre|||
+USRSTAR|1|I|CXX|kuidor|Kuitaart, Dorp|Kuitaart|||
+USRSTAR|1|I|CXX|kwasig|Kwadendamme, Dorp|Kwadendamme|||
+USRSTAR|1|I|CXX|kwasta|Langeweegje, Station SGB|Onbekend|||
+USRSTAR|1|I|CXX|kzakzd|Zaandijk, Station Zaanse Schans|Zaandijk|||
+USRSTAR|1|I|CXX|kzamal|Koog a/d Zaan, Mallegatsloot|Koog a/d Zaan|||
+USRSTAR|1|I|CXX|kzasta|Koog a/d Zaan, Stationsstraat|Koog a/d Zaan|||
+USRSTAR|1|I|CXX|kzaver|Koog a/d Zaan, Verzetstraat|Koog a/d Zaan|||
+USRSTAR|1|I|CXX|kzawab|Koog a/d Zaan, Willem Alexanderbrug|Koog a/d Zaan|||
+USRSTAR|1|I|CXX|kzawko|Koog a/d Zaan, Westerkoogweg|Koog a/d Zaan|||
+USRSTAR|1|I|CXX|lamker|Lamswaarde, Kerk|Lamswaarde|||
+USRSTAR|1|I|CXX|lanijz|Langerak, IJzergieterij|Langerak|||
+USRSTAR|1|I|CXX|larbrk|Laren, Brink|Laren|||
+USRSTAR|1|I|CXX|lardhb|Laren, De Heidebloem|Laren|||
+USRSTAR|1|I|CXX|lardsh|Laren, De Stichtse Hof|Laren|||
+USRSTAR|1|I|CXX|larker|Laren, Kermisterrein|Laren|||
+USRSTAR|1|I|CXX|larrem|Laren, Remiseweg|Laren|||
+USRSTAR|1|I|CXX|larsdr|Laren, Schapendrift|Laren|||
+USRSTAR|1|I|CXX|larsin|Laren, Singermuseum|Laren|||
+USRSTAR|1|I|CXX|larsjk|Laren, Sint Janskerkhof|Laren|||
+USRSTAR|1|I|CXX|larskp|Laren, Schuilkerkpad|Laren|||
+USRSTAR|1|I|CXX|larvia|Laren, Viadukt|Laren|||
+USRSTAR|1|I|CXX|lashar|Laag-Soeren, De Harmonie|Laag-Soeren|||
+USRSTAR|1|I|CXX|latker|Lathum, Kerkstraat|Lathum|||
+USRSTAR|1|I|CXX|latrbw|Lathum, Rijderbosweg|Lathum|||
+USRSTAR|1|I|CXX|lbhdor|Lobith, Dorp|Lobith|||
+USRSTAR|1|I|CXX|lbsmhw|Lambertschaag, Mijnsherenweg|Lambertschaag|||
+USRSTAR|1|I|CXX|lbsobw|Lambertschaag, Oosterboekelweg|Lambertschaag|||
+USRSTAR|1|I|CXX|lbswag|Lambertschaag, 't Wagenwiel|Lambertschaag|||
+USRSTAR|1|I|CXX|ldedor|Leende, Dorpstraat|Leende|||
+USRSTAR|1|I|CXX|ldeval|Leende, Valkenswaardseweg/A2|Leende|||
+USRSTAR|1|I|CXX|ldezhz|Leende, Zevenhuizen|Leende|||
+USRSTAR|1|I|CXX|lembus|Lemmer, Busstation|Lemmer|||
+USRSTAR|1|I|CXX|lemhou|Lemmer, Houtmolen|Lemmer|||
+USRSTAR|1|I|CXX|lenbsk|Lent, Laauwikstraat|Lent|||
+USRSTAR|1|I|CXX|lendls|Lent, Duitslandstraat|Lent|||
+USRSTAR|1|I|CXX|lendst|Lent, De Ster|Lent|||
+USRSTAR|1|I|CXX|lenfra|Lent, Frankrijkstraat|Lent|||
+USRSTAR|1|I|CXX|lenlen|Lent, Lentseveld|Lent|||
+USRSTAR|1|I|CXX|lenns|Lent, Station Lent Laauwikstr|Lent|||
+USRSTAR|1|I|CXX|lenthm|Lent, Thermion|Lent|||
+USRSTAR|1|I|CXX|lewpos|Lewedorp, Postweg|Lewedorp|||
+USRSTAR|1|I|CXX|libstr|Lisserbroek, Kruisbaak|Lisserbroek|||
+USRSTAR|1|I|CXX|licbus|Lichtmis, Busstation|Lichtmis|||
+USRSTAR|1|I|CXX|lierkk|Lierop, Kerk|Lierop|||
+USRSTAR|1|I|CXX|liesmp|Liessel, Marktplein|Liessel|||
+USRSTAR|1|I|CXX|lijmbs|Lijnden, Melbournestraat|Lijnden|||
+USRSTAR|1|I|CXX|liscen|Lisse, Centrum|Lisse|||
+USRSTAR|1|I|CXX|lisnar|Lisse, Narcissenstraat|Lisse|||
+USRSTAR|1|I|CXX|lkpglw|Laag Keppel, Gouden Leeuw|Laag Keppel|||
+USRSTAR|1|I|CXX|llscre|Lelystad, Crematorium|Lelystad|||
+USRSTAR|1|I|CXX|llsdho|Lelystad, De Hoven|Lelystad|||
+USRSTAR|1|I|CXX|llsdri|Lelystad, De Rietlanden|Lelystad|||
+USRSTAR|1|I|CXX|llshou|Lelystad, Houtribweg|Lelystad|||
+USRSTAR|1|I|CXX|llskwi|Lelystad, Kwikstraat|Lelystad|||
+USRSTAR|1|I|CXX|llslas|Lelystad, Larserpoortweg|Lelystad|||
+USRSTAR|1|I|CXX|llsmae|Lelystad, Centrumbrug|Lelystad|||
+USRSTAR|1|I|CXX|llsnat|Lelystad, Natuurpark|Lelystad|||
+USRSTAR|1|I|CXX|llsnoo|Lelystad, Lelycentre|Lelystad|||
+USRSTAR|1|I|CXX|llsns|Lelystad, Station Centrum|Lelystad|||
+USRSTAR|1|I|CXX|llspal|Lelystad, Palazzo|Lelystad|||
+USRSTAR|1|I|CXX|llspro|Lelystad, Proefstation|Lelystad|||
+USRSTAR|1|I|CXX|llsrot|Lelystad, Rotondebrug|Lelystad|||
+USRSTAR|1|I|CXX|llsrun|Lelystad, Runderweg|Lelystad|||
+USRSTAR|1|I|CXX|llsste|Lelystad, Steenstraat|Lelystad|||
+USRSTAR|1|I|CXX|llsvbr|Lelystad, Vlieterbrug|Lelystad|||
+USRSTAR|1|I|CXX|llsves|Lelystad, Vestebrug|Lelystad|||
+USRSTAR|1|I|CXX|llsvle|Zeewolde, Gooiseweg|Zeewolde|||
+USRSTAR|1|I|CXX|llsvli|Lelystad, Eendenweg|Lelystad|||
+USRSTAR|1|I|CXX|llsvwg|Lelystad, Vogelweg|Lelystad|||
+USRSTAR|1|I|CXX|llszap|Lelystad, Zeeasterpad|Lelystad|||
+USRSTAR|1|I|CXX|lmladb|Lommel, Adelberg|Lommel|||
+USRSTAR|1|I|CXX|lmllbs|Lommel (B), Station|Lommel|||
+USRSTAR|1|I|CXX|lmlvhr|Lommel (B), Vreyshorring|Lommel|||
+USRSTAR|1|I|CXX|lmlvos|Lommel (B), Vossemeren|Lommel|||
+USRSTAR|1|I|CXX|lmnker|Limmen, Kerkweg|Limmen|||
+USRSTAR|1|I|CXX|lmnlib|Limmen, Limmerbuurt|Limmen|||
+USRSTAR|1|I|CXX|lmnvis|Limmen, Visweg|Limmen|||
+USRSTAR|1|I|CXX|lnncen|Loenen, Bruisbeek/Centrum|Loenen|||
+USRSTAR|1|I|CXX|lnnlee|Loenen, Leeuwenbergweg|Loenen|||
+USRSTAR|1|I|CXX|lommsw|Lomm, Spikweien|Lomm|||
+USRSTAR|1|I|CXX|loodor|Looperskapelle, Dorp|Looperskapelle|||
+USRSTAR|1|I|CXX|lshtbv|Lieshout, Bavaria|Lieshout|||
+USRSTAR|1|I|CXX|lshtgh|Lieshout, Heuvel|Lieshout|||
+USRSTAR|1|I|CXX|lsmfuu|Landsmeer, Fuutstraat|Landsmeer|||
+USRSTAR|1|I|CXX|lsmvbe|Landsmeer, Landsmeer Centrum|Landsmeer|||
+USRSTAR|1|I|CXX|lsmzde|Landsmeer, Zuideinde 90|Landsmeer|||
+USRSTAR|1|I|CXX|ltgbri|Luttelgeest, Brink|Luttelgeest|||
+USRSTAR|1|I|CXX|ltglut|Luttelgeest, Luttelgeesterweg|Luttelgeest|||
+USRSTAR|1|I|CXX|ltgoos|Luttelgeest, Oosterringweg|Luttelgeest|||
+USRSTAR|1|I|CXX|ltguit|Luttelgeest, Uiterdijkenweg|Luttelgeest|||
+USRSTAR|1|I|CXX|lthkpl|Leuth, Kerkplein|Leuth|||
+USRSTAR|1|I|CXX|lurleu|Leur, Leurseweg|Leur|||
+USRSTAR|1|I|CXX|lutstn|Lutjebroek, P.J. Jongstraat|Lutjebroek|||
+USRSTAR|1|I|CXX|lutwew|Lutjewinkel, Weereweg|Lutjewinkel|||
+USRSTAR|1|I|CXX|luybos|Luyksgestel, Boscheind|Luyksgestel|||
+USRSTAR|1|I|CXX|luymol|Luyksgestel, Molenstraat|Luyksgestel|||
+USRSTAR|1|I|CXX|luysdk|Luyksgestel, Schatersdijk|Luyksgestel|||
+USRSTAR|1|I|CXX|malddv|Malden, De Veldschuur|Malden|||
+USRSTAR|1|I|CXX|maldks|Malden, Kloosterstraat|Malden|||
+USRSTAR|1|I|CXX|maldwk|Malden, De Wieken|Malden|||
+USRSTAR|1|I|CXX|malgbw|Malden, Groesbeekseweg|Malden|||
+USRSTAR|1|I|CXX|malhdz|Malden, Heidezoom|Malden|||
+USRSTAR|1|I|CXX|malsch|Malden, Schoolstraat|Malden|||
+USRSTAR|1|I|CXX|mbgabe|Middelburg, Abeele|Middelburg|||
+USRSTAR|1|I|CXX|mbgbie|Middelburg, Bierkaai|Middelburg|||
+USRSTAR|1|I|CXX|mbgdio|Middelburg, Diodeweg|Middelburg|||
+USRSTAR|1|I|CXX|mbgduu|Middelburg, Duunmede|Middelburg|||
+USRSTAR|1|I|CXX|mbgewi|Middelburg, Ewisland|Middelburg|||
+USRSTAR|1|I|CXX|mbghvl|Middelburg, Haringvlietstraat|Middelburg|||
+USRSTAR|1|I|CXX|mbghvt|Middelburg, Hof van Tange|Middelburg|||
+USRSTAR|1|I|CXX|mbgind|Middelburg, Industrieweg|Middelburg|||
+USRSTAR|1|I|CXX|mbgkoe|Middelburg, Koestraat(Centrum)|Middelburg|||
+USRSTAR|1|I|CXX|mbglan|Middelburg, Langevieleweg|Middelburg|||
+USRSTAR|1|I|CXX|mbgldv|Middelburg, Laan der Ver.Naties|Middelburg|||
+USRSTAR|1|I|CXX|mbgmob|Middelburg, Althoornweg|Middelburg|||
+USRSTAR|1|I|CXX|mbgnh|Middelburg, Nieuwe Haven(Centrum)|Middelburg|||
+USRSTAR|1|I|CXX|mbgns|Middelburg, Station|Middelburg|||
+USRSTAR|1|I|CXX|mbgoos|Middelburg, Oosterscheldestraat|Middelburg|||
+USRSTAR|1|I|CXX|mbgpri|Middelburg, Prinsenlaan|Middelburg|||
+USRSTAR|1|I|CXX|mbgrey|Middelburg, Reyershove|Middelburg|||
+USRSTAR|1|I|CXX|mbgroc|Middelburg, Podium/Scalda|Middelburg|||
+USRSTAR|1|I|CXX|mbgrot|Middelburg, Nederstraat|Middelburg|||
+USRSTAR|1|I|CXX|mbgsan|Middelburg, Sandberglaan|Middelburg|||
+USRSTAR|1|I|CXX|mbgsta|Middelburg, Statenlaan|Middelburg|||
+USRSTAR|1|I|CXX|mbgstr|Middelburg, Stromenweg|Middelburg|||
+USRSTAR|1|I|CXX|mbgtoo|Middelburg, Toorenvliedt|Middelburg|||
+USRSTAR|1|I|CXX|mbgtor|Middelburg, Torenweg|Middelburg|||
+USRSTAR|1|I|CXX|mbgvee|Middelburg, Veerseweg|Middelburg|||
+USRSTAR|1|I|CXX|mbgwda|Middelburg, Winkelcentrum Dauwendaele|Middelburg|||
+USRSTAR|1|I|CXX|mbkbus|Medemblik, Busstation|Medemblik|||
+USRSTAR|1|I|CXX|mbkczz|Medemblik, Camping Zuiderzee|Medemblik|||
+USRSTAR|1|I|CXX|mbkspo|Medemblik, Spooksingel|Medemblik|||
+USRSTAR|1|I|CXX|mbksto|Medemblik, Watergemaal|Medemblik|||
+USRSTAR|1|I|CXX|mbkvhr|Medemblik, Voorhamer|Medemblik|||
+USRSTAR|1|I|CXX|mbkvie|Medemblik, Vierkantje|Medemblik|||
+USRSTAR|1|I|CXX|mdbhak|Muiderberg, Hakkelaarsbrug|Muiderberg|||
+USRSTAR|1|I|CXX|mdbnru|Muiderberg, Nienhuis Ruyskade|Muiderberg|||
+USRSTAR|1|I|CXX|mdbpho|Muiderberg, Pieter de Hooghlaan|Muiderberg|||
+USRSTAR|1|I|CXX|mdbpnr|Muiderberg, P+R|Muiderberg|||
+USRSTAR|1|I|CXX|mdmag1|Middenmeer, Agriport 1|Middenmeer|||
+USRSTAR|1|I|CXX|mdmag2|Middenmeer, Agriport 2|Middenmeer|||
+USRSTAR|1|I|CXX|mdmalk|Middenmeer, Alkmaarseweg|Middenmeer|||
+USRSTAR|1|I|CXX|mdmdfw|Middenmeer, Dolfijnweg|Middenmeer|||
+USRSTAR|1|I|CXX|mdmhsm|Middenmeer, Winkelcentrum|Middenmeer|||
+USRSTAR|1|I|CXX|mdnbrk|Muiden, Centrum|Muiden|||
+USRSTAR|1|I|CXX|mdnmar|Muiden, Mariahoeveweg|Muiden|||
+USRSTAR|1|I|CXX|mdnmax|Muiden, Maxisweg|Muiden|||
+USRSTAR|1|I|CXX|mdnweg|Muiden, De Wegman|Muiden|||
+USRSTAR|1|I|CXX|mdnwsw|Muiden, Weesperweg|Muiden|||
+USRSTAR|1|I|CXX|mdrcen|Mijdrecht, Centrum|Mijdrecht|||
+USRSTAR|1|I|CXX|mdrduk|Mijdrecht, Dukaton|Mijdrecht|||
+USRSTAR|1|I|CXX|mdretz|Mijdrecht, Eerste/Tweede Zijweg|Mijdrecht|||
+USRSTAR|1|I|CXX|mdwgmh|Midwoud, Korteling|Midwoud|||
+USRSTAR|1|I|CXX|mdwhlw|Midwoud, Halfweg|Midwoud|||
+USRSTAR|1|I|CXX|mdwkla|Midwoud, Yvo Janszlaan|Midwoud|||
+USRSTAR|1|I|CXX|meltun|Melissant, Tunneltje|Melissant|||
+USRSTAR|1|I|CXX|mhlbin|Mijnsheerenland, Binnenmaas|Mijnsheerenland|||
+USRSTAR|1|I|CXX|mhlpw|Mijnsheerenland, Provincialeweg|Mijnsheerenland|||
+USRSTAR|1|I|CXX|mhlrhl|Mijnsheerenland, Raadhuislaan|Mijnsheerenland|||
+USRSTAR|1|I|CXX|mhsbin|Middelharnis, Binnenhof|Middelharnis|||
+USRSTAR|1|I|CXX|mhscen|Middelharnis, Centrum|Middelharnis|||
+USRSTAR|1|I|CXX|mhsdoe|Middelharnis, Doetinchemsestraat|Middelharnis|||
+USRSTAR|1|I|CXX|mhsgem|Middelharnis, Gemeentehuis|Middelharnis|||
+USRSTAR|1|I|CXX|mhsher|Middelharnis, Hernesseroord|Middelharnis|||
+USRSTAR|1|I|CXX|mhtopl|Mariahout, Oranjeplein|Mariahout|||
+USRSTAR|1|I|CXX|mhzhof|Maarheeze, Hof|Maarheeze|||
+USRSTAR|1|I|CXX|mhzhug|Maarheeze, Hugten|Maarheeze|||
+USRSTAR|1|I|CXX|mhzmar|Maarheeze, Marishof|Maarheeze|||
+USRSTAR|1|I|CXX|mhzmoo|Maarheeze, Moonslaan|Maarheeze|||
+USRSTAR|1|I|CXX|mhznee|Maarheeze, De Neerlanden|Maarheeze|||
+USRSTAR|1|I|CXX|mhzsns|Maarheeze, Station|Maarheeze|||
+USRSTAR|1|I|CXX|mhzsst|Maarheeze, Stationstraat|Maarheeze|||
+USRSTAR|1|I|CXX|mhzvog|Maarheeze, Vogelsberg|Maarheeze|||
+USRSTAR|1|I|CXX|mibbuu|Middenbeemster, De Buurt|Middenbeemster|||
+USRSTAR|1|I|CXX|mibdkn|Middenbeemster, De Knip|Middenbeemster|||
+USRSTAR|1|I|CXX|mibkht|Middenbeemster, K. Hogetoornlaan|Middenbeemster|||
+USRSTAR|1|I|CXX|mibwik|Middenbeemster, Witte Kan|Middenbeemster|||
+USRSTAR|1|I|CXX|miebst|Mierlo, Brugstraat|Mierlo|||
+USRSTAR|1|I|CXX|mieluc|Mierlo, Luchen|Mierlo|||
+USRSTAR|1|I|CXX|mieren|Mierlo, Ellenaar|Mierlo|||
+USRSTAR|1|I|CXX|mierhb|Mierlo, Hof van Bethanie|Mierlo|||
+USRSTAR|1|I|CXX|mierhh|Mierlo, Hertshooi|Mierlo|||
+USRSTAR|1|I|CXX|mierka|Mierlo, Kerkakkers|Mierlo|||
+USRSTAR|1|I|CXX|mierms|Mierlo, Marktstraat|Mierlo|||
+USRSTAR|1|I|CXX|mkhsch|Mookhoek, Schenkeldijk|Mookhoek|||
+USRSTAR|1|I|CXX|mkhzws|Mookhoek, Zweedsestraat|Mookhoek|||
+USRSTAR|1|I|CXX|mksbno|Marknesse, Busstation|Marknesse|||
+USRSTAR|1|I|CXX|mksbre|Marknesse, Breestraat|Marknesse|||
+USRSTAR|1|I|CXX|mkslee|Marknesse, Leemringweg/Sloefweg|Marknesse|||
+USRSTAR|1|I|CXX|mkslut|Marknesse, Luttelgeesterweg|Marknesse|||
+USRSTAR|1|I|CXX|mksrep|Marknesse, Repelweg|Marknesse|||
+USRSTAR|1|I|CXX|mksuit|Marknesse, Uiterdijkenweg|Marknesse|||
+USRSTAR|1|I|CXX|mksvol|Marknesse, Vollenhoverweg/NOP|Marknesse|||
+USRSTAR|1|I|CXX|mlbhlw|Milsbeek, Helweg|Milsbeek|||
+USRSTAR|1|I|CXX|mlbjan|Middelbeers, Hertog Janstraat|Middelbeers|||
+USRSTAR|1|I|CXX|mlbkrw|Milsbeek, Rijksweg/Kerkstraat|Milsbeek|||
+USRSTAR|1|I|CXX|mlgngh|Millingen, Gemeentehuis|Millingen|||
+USRSTAR|1|I|CXX|mlgngk|Millingen, Grenskantoor|Millingen|||
+USRSTAR|1|I|CXX|mlhkrw|Molenhoek, Rijksweg|Molenhoek|||
+USRSTAR|1|I|CXX|mlhsta|Molenhoek, Station Mook Molenhoek|Molenhoek|||
+USRSTAR|1|I|CXX|mlhzkk|Milheeze, Kerk|Milheeze|||
+USRSTAR|1|I|CXX|mlkdor|Meliskerke, Dorp|Meliskerke|||
+USRSTAR|1|I|CXX|mndprn|Muiden, P+R terrein|Muiden|||
+USRSTAR|1|I|CXX|mookgh|Mook, Gemeentehuis|Mook|||
+USRSTAR|1|I|CXX|mortkk|De Mortel, Kerk|De Mortel|||
+USRSTAR|1|I|CXX|mplbur|Meppel, Burg. Knopperslaan|Meppel|||
+USRSTAR|1|I|CXX|mplhug|Meppel, Hugo de Grootstraat|Meppel|||
+USRSTAR|1|I|CXX|mplns|Meppel, Station|Meppel|||
+USRSTAR|1|I|CXX|mplste|Meppel, Steenwijkerstraatweg|Meppel|||
+USRSTAR|1|I|CXX|msdgdl|Maasdam, 's-Gravendeelseweg|Maasdam|||
+USRSTAR|1|I|CXX|msdgem|Maasdam, Gemeentehuis|Maasdam|||
+USRSTAR|1|I|CXX|msdlag|Maasdam, Lageweg|Maasdam|||
+USRSTAR|1|I|CXX|msdpro|Maasdam, Provinciale Weg|Maasdam|||
+USRSTAR|1|I|CXX|mtvbmw|St. Maartensvlotbrug, Belkmerweg|Onbekend|||
+USRSTAR|1|I|CXX|mtvvlb|St. Maartensvlotbrug, Vlotbrug|Onbekend|||
+USRSTAR|1|I|CXX|mtzgou|St. Maartenszee, Goudvis|Onbekend|||
+USRSTAR|1|I|CXX|mwdgos|Benningbroek, Oosterstraat|Benningbroek|||
+USRSTAR|1|I|CXX|mylbus|Meijel, Busstation|Meijel|||
+USRSTAR|1|I|CXX|nagdom|Nagele, Domineesweg|Nagele|||
+USRSTAR|1|I|CXX|nagjpo|Nagele, Johannes Postweg|Nagele|||
+USRSTAR|1|I|CXX|nagnag|Nagele, Nagele|Nagele|||
+USRSTAR|1|I|CXX|nanpbu|Nauerna, Pont Buitenhuizen|Nauerna|||
+USRSTAR|1|I|CXX|nansbr|Nauerna, Sluisbrug|Nauerna|||
+USRSTAR|1|I|CXX|nbddsp|Nibbixwoud, De Driesprong|Nibbixwoud|||
+USRSTAR|1|I|CXX|nbdrkk|Nibbixwoud, R.K. Kerk|Nibbixwoud|||
+USRSTAR|1|I|CXX|nbdstm|Nibbixwoud, Woudhoek|Nibbixwoud|||
+USRSTAR|1|I|CXX|nblbui|Nieuw-Beijerland, Buitenom|Nieuw-Beijerland|||
+USRSTAR|1|I|CXX|nbldor|Nieuw-Beijerland, Kerkstraat|Nieuw-Beijerland|||
+USRSTAR|1|I|CXX|nbllan|Nieuw-Beijerland, Langeweg|Nieuw-Beijerland|||
+USRSTAR|1|I|CXX|nblzui|Zuidzijde, Zuidzijde|Zuidzijde|||
+USRSTAR|1|I|CXX|ndabst|Nederasselt, Broekstraat|Nederasselt|||
+USRSTAR|1|I|CXX|ndagbs|Nederasselt, Eindsestraat|Nederasselt|||
+USRSTAR|1|I|CXX|ndavst|Balgoij, Veldsestraat|Balgoij|||
+USRSTAR|1|I|CXX|ndbcen|Nederhorst den Berg, Centrum|Nederhorst den Berg|||
+USRSTAR|1|I|CXX|ndbhin|Nederhorst den Berg, Hinderdam|Nederhorst den Berg|||
+USRSTAR|1|I|CXX|ndbove|Nederhorst den Berg, Overmeer|Nederhorst den Berg|||
+USRSTAR|1|I|CXX|ndnasw|Naarden, Amersfoortsestraatw.|Naarden|||
+USRSTAR|1|I|CXX|ndnbol|Naarden, Bollelaan|Naarden|||
+USRSTAR|1|I|CXX|ndnbvb|Naarden, Bosch van Bredius|Naarden|||
+USRSTAR|1|I|CXX|ndnbwe|Naarden, Burg. Wesselingplein|Naarden|||
+USRSTAR|1|I|CXX|ndncom|Naarden, Comeniuslaan|Naarden|||
+USRSTAR|1|I|CXX|ndngdw|Naarden, Godelindeweg|Naarden|||
+USRSTAR|1|I|CXX|ndngmn|Naarden, Gooimeer Noord|Naarden|||
+USRSTAR|1|I|CXX|ndngpr|Naarden, Gooimeer P+R|Naarden|||
+USRSTAR|1|I|CXX|ndnkev|Naarden, Keverdijk|Naarden|||
+USRSTAR|1|I|CXX|ndnkwi|Naarden, Kon. Wilhelminalaan|Naarden|||
+USRSTAR|1|I|CXX|ndnzui|Naarden, Gooimeer Zuid|Naarden|||
+USRSTAR|1|I|CXX|nejwat|Neeltje Jans, Deltapark|Neeltje Jans|||
+USRSTAR|1|I|CXX|nesamd|Nes a/d Amstel, Amsteldijk 204|Nes a/d Amstel|||
+USRSTAR|1|I|CXX|nesker|Nes a/d Amstel, Kerklaan|Nes a/d Amstel|||
+USRSTAR|1|I|CXX|nesnes|Nes a/d Amstel, Nesserlaan|Nes a/d Amstel|||
+USRSTAR|1|I|CXX|nesrkk|Nes a/d Amstel, R.K.Kerk|Nes a/d Amstel|||
+USRSTAR|1|I|CXX|nibegh|Nieuw Bergen, Gemeentehuis|Nieuw Bergen|||
+USRSTAR|1|I|CXX|nieora|Nieuwdorp, Oranjeplein|Nieuwdorp|||
+USRSTAR|1|I|CXX|nincen|Nieuw-Namen, Grens|Nieuw-Namen|||
+USRSTAR|1|I|CXX|ninhul|Nieuw-Namen, Hulsterloostraat|Nieuw-Namen|||
+USRSTAR|1|I|CXX|nisdrp|Nisse, Dorpsplein|Nisse|||
+USRSTAR|1|I|CXX|njobej|Nieuw- en St.Joosland, Oude Rijksweg|Nieuw- en St.Joosland|||
+USRSTAR|1|I|CXX|njodor|Nieuw- en St.Joosland, Dorp|Nieuw- en St.Joosland|||
+USRSTAR|1|I|CXX|nkrbu|Nieuwerkerk, Busstation|Nieuwerkerk|||
+USRSTAR|1|I|CXX|nkrstz|Nieuwerkerk, Steenzwaenshof|Nieuwerkerk|||
+USRSTAR|1|I|CXX|nloaca|Nieuw-Loosdrecht, Acacialaan|Nieuw-Loosdrecht|||
+USRSTAR|1|I|CXX|nlober|Nieuw Loosdrecht, Berkenlaan|Nieuw-Loosdrecht|||
+USRSTAR|1|I|CXX|nlogem|Nieuw-Loosdrecht, Gemeentehuis|Nieuw-Loosdrecht|||
+USRSTAR|1|I|CXX|nlopma|Nieuw-Loosdrecht, Pr. Margrietstraat|Nieuw-Loosdrecht|||
+USRSTAR|1|I|CXX|nloreg|Nieuw-Loosdrecht, Regenboog|Nieuw-Loosdrecht|||
+USRSTAR|1|I|CXX|nlosch|Nieuw-Loosdrecht, Schakel|Nieuw-Loosdrecht|||
+USRSTAR|1|I|CXX|nmda29|Numansdorp, A29|Numansdorp|||
+USRSTAR|1|I|CXX|nmdbhl|Numansdorp, Burg. Henrylaan|Numansdorp|||
+USRSTAR|1|I|CXX|nmdhal|Numansdorp, Hallinxweg|Numansdorp|||
+USRSTAR|1|I|CXX|nmdmid|Numansdorp, Middelsluis|Numansdorp|||
+USRSTAR|1|I|CXX|nmdtsp|Numansdorp, Torensteepolder|Numansdorp|||
+USRSTAR|1|I|CXX|nmdvel|Numansdorp, Weth. v.d. Veldenweg|Numansdorp|||
+USRSTAR|1|I|CXX|nmdvia|Numansdorp, Viaduct A29|Numansdorp|||
+USRSTAR|1|I|CXX|nmdzee|Numansdorp, Burg. de Zeeuwstraat|Numansdorp|||
+USRSTAR|1|I|CXX|nmga12|Nijmegen, Aldenhof 12/32-straat|Nijmegen|||
+USRSTAR|1|I|CXX|nmga13|Nijmegen, Aldenhof 13/38 str.|Nijmegen|||
+USRSTAR|1|I|CXX|nmga50|Nijmegen, Aldenhof 50/70-straat|Nijmegen|||
+USRSTAR|1|I|CXX|nmga52|Nijmegen, Aldenhof 52/64 str.|Nijmegen|||
+USRSTAR|1|I|CXX|nmga53|Nijmegen, Aldenhof 53/14-straat|Nijmegen|||
+USRSTAR|1|I|CXX|nmgbba|Nijmegen, van Boetbergweg/Aldenhof|Nijmegen|||
+USRSTAR|1|I|CXX|nmgbbp|Nijmegen, Station Dukenburg|Nijmegen|||
+USRSTAR|1|I|CXX|nmgbhs|Nijmegen, Badhuis|Nijmegen|||
+USRSTAR|1|I|CXX|nmgbrw|Nijmegen, Broerweg|Nijmegen|||
+USRSTAR|1|I|CXX|nmgbsg|Nijmegen, Spinozagebouw|Nijmegen|||
+USRSTAR|1|I|CXX|nmgbus|Nijmegen, Centraal Station|Nijmegen|||
+USRSTAR|1|I|CXX|nmgcae|Nijmegen, Caesarstraat|Nijmegen|||
+USRSTAR|1|I|CXX|nmgcbs|Nijmegen, Couwenbergstraat|Nijmegen|||
+USRSTAR|1|I|CXX|nmgcwz|Nijmegen, Canisius Wilh.Ziekenhuis|Nijmegen|||
+USRSTAR|1|I|CXX|nmgdal|Nijmegen, Burg. Daleslaan|Nijmegen|||
+USRSTAR|1|I|CXX|nmgdbs|Nijmegen, Dr. de Blecourtstraat|Nijmegen|||
+USRSTAR|1|I|CXX|nmgdks|Nijmegen, Winselingseweg|Nijmegen|||
+USRSTAR|1|I|CXX|nmgdoe|Nijmegen, Doekenborg|Nijmegen|||
+USRSTAR|1|I|CXX|nmgemg|Nijmegen, Erasmusgebouw|Nijmegen|||
+USRSTAR|1|I|CXX|nmgeww|Nijmegen, Energieweg/Wolfskuilsewg|Nijmegen|||
+USRSTAR|1|I|CXX|nmgfus|Nijmegen, Fuchsiastraat|Nijmegen|||
+USRSTAR|1|I|CXX|nmgggz|Nijmegen, Pro Persona|Nijmegen|||
+USRSTAR|1|I|CXX|nmggkk|Nijmegen, Gildekamp/Kluijskamp|Nijmegen|||
+USRSTAR|1|I|CXX|nmggof|Nijmegen, Station Goffert|Nijmegen|||
+USRSTAR|1|I|CXX|nmggww|Nijmegen, Groenewoudseweg|Nijmegen|||
+USRSTAR|1|I|CXX|nmggym|Nijmegen, Gymnasion|Nijmegen|||
+USRSTAR|1|I|CXX|nmghad|Nijmegen, Hatert-Delsenhof|Nijmegen|||
+USRSTAR|1|I|CXX|nmghan|Nijmegen, HAN|Nijmegen|||
+USRSTAR|1|I|CXX|nmghdg|Nijmegen, Hugo de Grootstraat|Nijmegen|||
+USRSTAR|1|I|CXX|nmgheb|Nijmegen, Hengstdalseweg/Broerdijk|Nijmegen|||
+USRSTAR|1|I|CXX|nmghes|Nijmegen, Hengstdalseweg/Sophiaweg|Nijmegen|||
+USRSTAR|1|I|CXX|nmghlw|Nijmegen, Hogelandseweg|Nijmegen|||
+USRSTAR|1|I|CXX|nmghno|Nijmegen, Industrieweg|Nijmegen|||
+USRSTAR|1|I|CXX|nmghoa|Nijmegen, Horstacker|Nijmegen|||
+USRSTAR|1|I|CXX|nmghpw|Nijmegen, Heideparkseweg|Nijmegen|||
+USRSTAR|1|I|CXX|nmghtc|Nijmegen, Hatert-Centrum|Nijmegen|||
+USRSTAR|1|I|CXX|nmghtp|Nijmegen, Hertogplein|Nijmegen|||
+USRSTAR|1|I|CXX|nmghvw|Nijmegen, Havenweg|Nijmegen|||
+USRSTAR|1|I|CXX|nmgijw|Nijmegen, IJpenbroekweg|Nijmegen|||
+USRSTAR|1|I|CXX|nmgjip|Nijmegen, Joris Ivensplein|Nijmegen|||
+USRSTAR|1|I|CXX|nmgjma|Nijmegen, Jan Massinkhal|Nijmegen|||
+USRSTAR|1|I|CXX|nmgkam|Nijmegen, Kan. Mijllinckstraat|Nijmegen|||
+USRSTAR|1|I|CXX|nmgkb|Nijmegen, Valkhof|Nijmegen|||
+USRSTAR|1|I|CXX|nmgkks|Nijmegen, Krekelstraat|Nijmegen|||
+USRSTAR|1|I|CXX|nmgkms|Nijmegen, Merwedestraat|Nijmegen|||
+USRSTAR|1|I|CXX|nmgkww|Nijmegen, Kwekerijweg|Nijmegen|||
+USRSTAR|1|I|CXX|nmgllw|Nijmegen, Lagelandseweg|Nijmegen|||
+USRSTAR|1|I|CXX|nmglvb|Nijmegen, Leuvensbroek|Nijmegen|||
+USRSTAR|1|I|CXX|nmgm13|Nijmegen, Malvert 13e straat|Nijmegen|||
+USRSTAR|1|I|CXX|nmgmea|Nijmegen, Meeuwseacker|Nijmegen|||
+USRSTAR|1|I|CXX|nmgmey|Nijmegen, Meijhorst-Sporthal|Nijmegen|||
+USRSTAR|1|I|CXX|nmgmhv|Nijmegen, Hunnerpark|Nijmegen|||
+USRSTAR|1|I|CXX|nmgmmk|Nijmegen, De Thermen/MMK|Nijmegen|||
+USRSTAR|1|I|CXX|nmgmwl|Nijmegen, Muntweg/Wezenlaan|Nijmegen|||
+USRSTAR|1|I|CXX|nmgnas|Nijmegen, Nassausingel|Nijmegen|||
+USRSTAR|1|I|CXX|nmgnbo|Nijmegen, Neerbosch-Oost|Nijmegen|||
+USRSTAR|1|I|CXX|nmgnbw|Nijmegen, Neerbosscheweg|Nijmegen|||
+USRSTAR|1|I|CXX|nmgobg|Nijmegen, Oud Burgeren Gasthuis|Nijmegen|||
+USRSTAR|1|I|CXX|nmgora|Nijmegen, WKC Malvert|Nijmegen|||
+USRSTAR|1|I|CXX|nmgp44|Nijmegen, Plein 1944|Nijmegen|||
+USRSTAR|1|I|CXX|nmgpds|Nijmegen, Wkc. Steenbokstraat|Nijmegen|||
+USRSTAR|1|I|CXX|nmgpkr|Nijmegen, Paul Krugerstraat|Nijmegen|||
+USRSTAR|1|I|CXX|nmgpno|Nijmegen, Poort Neerbosch|Nijmegen|||
+USRSTAR|1|I|CXX|nmgpnz|Nijmegen, P+R Nijmegen West|Nijmegen|||
+USRSTAR|1|I|CXX|nmgsam|Nijmegen, Sint Annamolen|Nijmegen|||
+USRSTAR|1|I|CXX|nmgsan|Nijmegen, Sanadome|Nijmegen|||
+USRSTAR|1|I|CXX|nmgsbp|Nijmegen, Steve Bikoplein|Nijmegen|||
+USRSTAR|1|I|CXX|nmgshd|Nijmegen, Station Heyendaal|Nijmegen|||
+USRSTAR|1|I|CXX|nmgshw|Nijmegen, Spijkerhofweg|Nijmegen|||
+USRSTAR|1|I|CXX|nmgsjh|Nijmegen, Heidebloemstraat|Nijmegen|||
+USRSTAR|1|I|CXX|nmgsma|Nijmegen, St Maartenskliniek|Nijmegen|||
+USRSTAR|1|I|CXX|nmgsms|Nijmegen, Smetiusstraat|Nijmegen|||
+USRSTAR|1|I|CXX|nmgstc|Nijmegen, Sint Canisiussingel|Nijmegen|||
+USRSTAR|1|I|CXX|nmgths|Nijmegen, Thijmstraat|Nijmegen|||
+USRSTAR|1|I|CXX|nmgtol|Nijmegen, Tolhuis 10e straat|Nijmegen|||
+USRSTAR|1|I|CXX|nmgumc|Nijmegen, Radboudumc|Nijmegen|||
+USRSTAR|1|I|CXX|nmguni|Nijmegen, Huygensgebouw|Nijmegen|||
+USRSTAR|1|I|CXX|nmgvaw|Nijmegen, van Apelterenweg|Nijmegen|||
+USRSTAR|1|I|CXX|nmgvgk|Nijmegen, Voorstenkamp/Gildekamp|Nijmegen|||
+USRSTAR|1|I|CXX|nmgvpl|Nijmegen, Van Peltlaan|Nijmegen|||
+USRSTAR|1|I|CXX|nmgvvh|Nijmegen, Vijverhof|Nijmegen|||
+USRSTAR|1|I|CXX|nmgwcm|Nijmegen, Winkelcentrum Meijhorst|Nijmegen|||
+USRSTAR|1|I|CXX|nmgwee|Nijmegen, Weezenhof|Nijmegen|||
+USRSTAR|1|I|CXX|nmgwgs|Nijmegen, Waalkade|Nijmegen|||
+USRSTAR|1|I|CXX|nmgwhk|Nijmegen, Wellenkamp/Hoefkamp|Nijmegen|||
+USRSTAR|1|I|CXX|nmgwis|Nijmegen, Winkelsteeg|Nijmegen|||
+USRSTAR|1|I|CXX|nmgzw1|Nijmegen, Zwanenveld 10e str.|Nijmegen|||
+USRSTAR|1|I|CXX|nmgzwa|Nijmegen, Zwanenveld|Nijmegen|||
+USRSTAR|1|I|CXX|nnddoh|Nieuwe Niedorp, Hoefje|Nieuwe Niedorp|||
+USRSTAR|1|I|CXX|nndhnr|Nieuwe Niedorp, Vijverweg|Nieuwe Niedorp|||
+USRSTAR|1|I|CXX|nndvia|Nieuwe Niedorp, Transferium|Nieuwe Niedorp|||
+USRSTAR|1|I|CXX|nobjpw|Noordbeemster, Jisperweg|Noordbeemster|||
+USRSTAR|1|I|CXX|nobmun|Noordbeemster, Muntjewerf|Noordbeemster|||
+USRSTAR|1|I|CXX|nobndh|Noordbeemster, Noorderhoeve|Noordbeemster|||
+USRSTAR|1|I|CXX|nobohw|Noordbeemster, Oosthuizerweg|Noordbeemster|||
+USRSTAR|1|I|CXX|nrenre|Nummer Een, Nummer Een|Nummer Een|||
+USRSTAR|1|I|CXX|nrgdrp|Noordgouwe, Dorp|Noordgouwe|||
+USRSTAR|1|I|CXX|nrkhtr|Neerkant, Heitrak|Neerkant|||
+USRSTAR|1|I|CXX|nrktdu|Neerkant, Dorpsstraat/Uitleg|Neerkant|||
+USRSTAR|1|I|CXX|nrwkuy|Noordwelle, Kuijerdamseweg|Noordwelle|||
+USRSTAR|1|I|CXX|nrwpw|Noordwelle, Provincialeweg|Noordwelle|||
+USRSTAR|1|I|CXX|nstzwa|Noordscheschut, Zwarte Dijkje|Noordscheschut|||
+USRSTAR|1|I|CXX|nswpro|Noord-Scharwoude, De Mossel|Noord-Scharwoude|||
+USRSTAR|1|I|CXX|nswslu|Heerhugowaard, Sluis|Heerhugowaard|||
+USRSTAR|1|I|CXX|nswspo|Oudkarspel, Spoorstraat|Oudkarspel|||
+USRSTAR|1|I|CXX|nswzdd|Noord-Scharwoude, Zwembad Duikerdel|Noord-Scharwoude|||
+USRSTAR|1|I|CXX|ntgpri|Nieuwe-Tonge, Prinsessestraat|Nieuwe-Tonge|||
+USRSTAR|1|I|CXX|ntgpro|Nieuwe-Tonge, N215|Nieuwe-Tonge|||
+USRSTAR|1|I|CXX|ntgwen|Nieuwe-Tonge, Wentinkstraat|Nieuwe-Tonge|||
+USRSTAR|1|I|CXX|ntscsp|Netersel, Carolus Simplexplein|Netersel|||
+USRSTAR|1|I|CXX|nttkrk|Nederwetten, Hoekstraat/Kerk|Nederwetten|||
+USRSTAR|1|I|CXX|nuedhk|Nuenen, De Huufkes|Nuenen|||
+USRSTAR|1|I|CXX|nuemrl|Nuenen, Meierijlaan|Nuenen|||
+USRSTAR|1|I|CXX|nuenct|Nuenen, Nuenen Centrum|Nuenen|||
+USRSTAR|1|I|CXX|nuenee|Nuenen, Eeneind|Nuenen|||
+USRSTAR|1|I|CXX|nuenhk|Nuenen, Heikampen|Nuenen|||
+USRSTAR|1|I|CXX|nuenlc|Nuenen, Laan ter Catten|Nuenen|||
+USRSTAR|1|I|CXX|nuenpa|Nuenen, Geldropsedijk|Nuenen|||
+USRSTAR|1|I|CXX|nuenpd|Nuenen, Papenvoortsedijk|Nuenen|||
+USRSTAR|1|I|CXX|nuenpk|Nuenen, Park|Nuenen|||
+USRSTAR|1|I|CXX|nuenta|Nuenen, De Nieuwe Linde|Nuenen|||
+USRSTAR|1|I|CXX|nuenvd|Nuenen, Nuenen West|Nuenen|||
+USRSTAR|1|I|CXX|nuevvg|Nuenen, Vincent van Goghplein|Nuenen|||
+USRSTAR|1|I|CXX|nutbom|Nutterden, Bomshof|Nütterden|||
+USRSTAR|1|I|CXX|nutkir|Nutterden, Kirche|Nütterden|||
+USRSTAR|1|I|CXX|nve207|Nieuw-Vennep, Getsewoud/N207|Nieuw-Vennep|||
+USRSTAR|1|I|CXX|nvegec|Nieuw-Vennep, Getsewoud Centrum|Nieuw-Vennep|||
+USRSTAR|1|I|CXX|nvegez|Nieuw-Vennep, Getsewoud Zuid|Nieuw-Vennep|||
+USRSTAR|1|I|CXX|nvegpr|Nieuw-Vennep, Getsewoud P en R|Nieuw-Vennep|||
+USRSTAR|1|I|CXX|nvelis|Lisserbroek, Bruidsbloemstraat|Lisserbroek|||
+USRSTAR|1|I|CXX|nvendr|Nieuw-Vennep, Noorderdreef|Nieuw-Vennep|||
+USRSTAR|1|I|CXX|nvens|Nieuw-Vennep, Station|Nieuw-Vennep|||
+USRSTAR|1|I|CXX|nveprz|Nieuw-Vennep, P+R Getsewoud Zuid|Nieuw-Vennep|||
+USRSTAR|1|I|CXX|nverdl|Nieuw-Vennep, Getsewoud Noord|Nieuw-Vennep|||
+USRSTAR|1|I|CXX|nvezdr|Nieuw-Vennep, Zuiderdreef|Nieuw-Vennep|||
+USRSTAR|1|I|CXX|nvldor|Nieuwvliet, Dorp|Nieuwvliet|||
+USRSTAR|1|I|CXX|nvomol|Nieuw-Vossemeer, Molenweg|Nieuw-Vossemeer|||
+USRSTAR|1|I|CXX|nwtgmh|Nederweert, Gemeentehuis|Nederweert|||
+USRSTAR|1|I|CXX|nwtlin|Nederweert, Lindenstraat|Nederweert|||
+USRSTAR|1|I|CXX|nwtsch|Nederweert, Schoolstraat|Nederweert|||
+USRSTAR|1|I|CXX|nykns|Nijkerk, Station|Nijkerk|||
+USRSTAR|1|I|CXX|nykzil|Nijkerk, Zilverschoon|Nijkerk|||
+USRSTAR|1|I|CXX|obgled|Oostburg, Ledelplein|Oostburg|||
+USRSTAR|1|I|CXX|obgphi|Oostburg, Philipsweg|Oostburg|||
+USRSTAR|1|I|CXX|obgwat|Oostburg, Watertoren|Oostburg|||
+USRSTAR|1|I|CXX|obgzi|Oostburg, Ziekenhuis|Oostburg|||
+USRSTAR|1|I|CXX|oblbac|Oud-Beijerland, Bachlaan|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblbie|Oud-Beijerland, Centrum Noord|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblboe|Oud-Beijerland, Boezemlaan|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblbos|Oud-Beijerland, De Bosschen|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblbsi|Oud-Beijerland, Boezemsingel|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblbzi|Oud-Beijerland, Buurtschap Zinkweg|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblcro|Oud-Beijerland, Croonenburgh|Oud-Beijerland|||
+USRSTAR|1|I|CXX|obldhs|Oud-Beijerland, Diepenhorstsingel|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblegm|Oud-Beijerland, De Egmontshof|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblhor|Oud-Beijerland, Hortensiastraat|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblhul|Oosterblokker, Dirk Hulstweg|Oosterblokker|||
+USRSTAR|1|I|CXX|obljul|Oud-Beijerland, Julianastraat|Oud-Beijerland|||
+USRSTAR|1|I|CXX|obljvh|Oud-Beijerland, J.v.d. Heijdenstraat|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblkd|Oud-Beijerland, K. Doormanstraat|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblkwa|Oud-Beijerland, Poortwijk Zuid|Oud-Beijerland|||
+USRSTAR|1|I|CXX|obllis|Oud-Beijerland, Chopinplein|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblljc|Oud-Beijerland, L.J. Costerstraat|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblmar|Oud-Beijerland, Mariniersweg|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblmas|Oud-Beijerland, Maseratilaan|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblpra|Oosterblokker, Boekert|Oosterblokker|||
+USRSTAR|1|I|CXX|oblpri|Oud-Beijerland, Pr. Irenestraat|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblpwk|Oud-Beijerland, Poortwijk Noord|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblrav|Oud-Beijerland, Debussyring|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblrem|Oud-Beijerland, Rembrandtstraat|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblrui|Oosterblokker, Ruiter|Oosterblokker|||
+USRSTAR|1|I|CXX|oblsg|Oud-Beijerland, Scholengemeenschap|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblsow|Oud-Beijerland, Spuioeverweg|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblspl|Oud-Beijerland, Sportlaan|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblste|Oud-Beijerland, Steenenstraat|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblvwp|Oud-Beijerland, Vierwiekenplein|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblwc|Oud-Beijerland, Winkelcentrum Zoomwijck|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblwvv|Oud-Beijerland, W. van Vlietstraat|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblzi|Oud-Beijerland, Zinkweg|Oud-Beijerland|||
+USRSTAR|1|I|CXX|oblzwl|Oud-Beijerland, Zoomwijcklaan|Oud-Beijerland|||
+USRSTAR|1|I|CXX|obmns|Obdam, Station|Obdam|||
+USRSTAR|1|I|CXX|oddbe|Ouddorp, Bernhardweg|Ouddorp|||
+USRSTAR|1|I|CXX|oddbro|Ouddorp, Port Zélande|Ouddorp|||
+USRSTAR|1|I|CXX|oddgro|Ouddorp, Groene Weide|Ouddorp|||
+USRSTAR|1|I|CXX|oddhof|Ouddorp, Hofdijksweg|Ouddorp|||
+USRSTAR|1|I|CXX|oddhog|Ouddorp, Hoge Pad|Ouddorp|||
+USRSTAR|1|I|CXX|oddker|Ouddorp, Kerkhoek|Ouddorp|||
+USRSTAR|1|I|CXX|oddkle|Ouddorp, Klepperstee|Ouddorp|||
+USRSTAR|1|I|CXX|oddoud|Ouddorp, Oudelandseweg|Ouddorp|||
+USRSTAR|1|I|CXX|oddsta|Ouddorp, Station|Ouddorp|||
+USRSTAR|1|I|CXX|oddtop|Ouddorp, Toppershoedje|Ouddorp|||
+USRSTAR|1|I|CXX|oddvuu|Ouddorp, Vuurtoren|Ouddorp|||
+USRSTAR|1|I|CXX|odmbgl|Oude Meer, Fokker Logistics Park|Oude Meer|||
+USRSTAR|1|I|CXX|odpbie|Oudorp, Biesboschstraat|Oudorp|||
+USRSTAR|1|I|CXX|odplhf|Oudorp, Jupiterstraat|Oudorp|||
+USRSTAR|1|I|CXX|odpnyb|Oudorp, Nijenburgh|Oudorp|||
+USRSTAR|1|I|CXX|odpopl|Oudorp, Oudorperplein|Oudorp|||
+USRSTAR|1|I|CXX|odpven|Oudorp, Venusstraat|Oudorp|||
+USRSTAR|1|I|CXX|odstxl|Oudeschild, Texelhopper|Oudeschild|||
+USRSTAR|1|I|CXX|oedtxl|Oosterend, Texelhopper|Oosterend|||
+USRSTAR|1|I|CXX|oerker|Oerle, Kerk|Oerle|||
+USRSTAR|1|I|CXX|oerzts|Oerle, Zittardsestraat|Oerle|||
+USRSTAR|1|I|CXX|oerzvh|Oerle, Zoo Veldhoven|Oerle|||
+USRSTAR|1|I|CXX|oevbus|Den Oever, Busstation|Den Oever|||
+USRSTAR|1|I|CXX|oevmgd|Den Oever, Molgerdijk|Den Oever|||
+USRSTAR|1|I|CXX|oevnzh|Den Oever, Vlieterstraat|Den Oever|||
+USRSTAR|1|I|CXX|ogpwpd|Ooltgensplaat, Weespad|Ooltgensplaat|||
+USRSTAR|1|I|CXX|oirkaz|Oirschot, Kazerne|Oirschot|||
+USRSTAR|1|I|CXX|okabru|Ouderkerk a/d Amstel, Brug/Hoger Einde|Ouderkerk a/d Amstel|||
+USRSTAR|1|I|CXX|okahfd|Ouderkerk a/d Amstel, Hoofdenburg|Ouderkerk a/d Amstel|||
+USRSTAR|1|I|CXX|okajvr|Ouderkerk a/d Amstel|Ouderkerk a/d Amstel|||
+USRSTAR|1|I|CXX|okaztg|Ouderkerk ad Amstl,Ouderkerk ad Amstl|Ouderkerk a/d Amstel|||
+USRSTAR|1|I|CXX|okdple|Oost Knollendam, Pleintje|Oost Knollendam|||
+USRSTAR|1|I|CXX|okdtol|Oost Knollendam, Toldeurkering|Oost Knollendam|||
+USRSTAR|1|I|CXX|okdvoe|Oost Knollendam, Voetbalveld|Oost Knollendam|||
+USRSTAR|1|I|CXX|okdwer|Oost Knollendam, Weromerie|Oost Knollendam|||
+USRSTAR|1|I|CXX|olmjul|Oldemarkt, Koningin Julianaweg|Oldemarkt|||
+USRSTAR|1|I|CXX|olmkru|Oldemarkt, Kruisstraat|Oldemarkt|||
+USRSTAR|1|I|CXX|olmpar|Oldemarkt, Parochiehuis|Oldemarkt|||
+USRSTAR|1|I|CXX|omlolv|Ommel, Onze Lieve Vrouweplein|Ommel|||
+USRSTAR|1|I|CXX|ondapf|Onderdijk, Atelier Perfecto|Onderdijk|||
+USRSTAR|1|I|CXX|ondhdr|Onderdijk, Hotel de Ruyter|Onderdijk|||
+USRSTAR|1|I|CXX|ondodk|Onderdijk, Oosterdijk|Onderdijk|||
+USRSTAR|1|I|CXX|ondrkk|Onderdijk, R.K.Kerk|Onderdijk|||
+USRSTAR|1|I|CXX|ondvli|Onderdijk, De Groote Vliet|Onderdijk|||
+USRSTAR|1|I|CXX|ooddor|Oostdijk, Dorp|Oostdijk|||
+USRSTAR|1|I|CXX|oodluc|Oostdijk, Luchtenburg|Oostdijk|||
+USRSTAR|1|I|CXX|ookdun|Oostkapelle, Randduinweg|Oostkapelle|||
+USRSTAR|1|I|CXX|ookmol|Oostkapelle, Molenweg|Oostkapelle|||
+USRSTAR|1|I|CXX|ookste|Oostkapelle, Steengrachtstraat|Oostkapelle|||
+USRSTAR|1|I|CXX|ookwes|Oostkapelle, Kasteel Westhove|Oostkapelle|||
+USRSTAR|1|I|CXX|ooldrp|Oosterland, Dorp|Oosterland|||
+USRSTAR|1|I|CXX|ooloud|Oosterland, Oud Heiligeweg|Oosterland|||
+USRSTAR|1|I|CXX|ooshfw|Oosterland, Hofweg|Oosterland|||
+USRSTAR|1|I|CXX|oosmuz|Oosterland, Oosterland|Oosterland|||
+USRSTAR|1|I|CXX|ooydsp|Ooij, De Sprong|Ooij|||
+USRSTAR|1|I|CXX|ooynst|Ooij, Nassaustraat|Ooij|||
+USRSTAR|1|I|CXX|oplokk|Oploo, Kerk|Oploo|||
+USRSTAR|1|I|CXX|opmakw|Opmeer, Akkerwinde|Opmeer|||
+USRSTAR|1|I|CXX|opmbus|Opmeer, Breestraat|Opmeer|||
+USRSTAR|1|I|CXX|opmgmh|Opmeer, Gemeentehuis|Opmeer|||
+USRSTAR|1|I|CXX|opmvez|Spanbroek, Verzetstraat|Spanbroek|||
+USRSTAR|1|I|CXX|opsadb|Opperdoes, Almersdorperbrug|Opperdoes|||
+USRSTAR|1|I|CXX|opsalm|Opperdoes,Almereweg|Opperdoes|||
+USRSTAR|1|I|CXX|opsdos|Opperdoes, De Oude Stiek|Opperdoes|||
+USRSTAR|1|I|CXX|opspos|Opperdoes, Noorderpad|Opperdoes|||
+USRSTAR|1|I|CXX|opswbr|Opperdoes, Julianastraat|Opperdoes|||
+USRSTAR|1|I|CXX|osenis|Ossenisse, Lageweg|Ossenisse|||
+USRSTAR|1|I|CXX|oslnow|Oudesluis, Sportlaan|Oudesluis|||
+USRSTAR|1|I|CXX|oslsld|Oudesluis, Slikkerdijk|Oudesluis|||
+USRSTAR|1|I|CXX|osskoo|Ossenzijl, Kooystraat|Ossenzijl|||
+USRSTAR|1|I|CXX|oszvbw|Ossenzijl, Venebosweg|Ossenzijl|||
+USRSTAR|1|I|CXX|otbden|Oosterbeek, Gzc De Dennenkamp|Oosterbeek|||
+USRSTAR|1|I|CXX|otbdoh|Oosterbeek, d'Oude Herbergh|Oosterbeek|||
+USRSTAR|1|I|CXX|otbgem|Oosterbeek, Gemeentehuis|Oosterbeek|||
+USRSTAR|1|I|CXX|otbhar|Oosterbeek, Airbornemuseum|Oosterbeek|||
+USRSTAR|1|I|CXX|otbns|Oosterbeek, Station Oosterbeek|Oosterbeek|||
+USRSTAR|1|I|CXX|otbtou|Oosterbeek, v. Toulon v.d. Koogweg|Oosterbeek|||
+USRSTAR|1|I|CXX|otbval|Oosterbeek, Parkflat de Valkenburcht|Oosterbeek|||
+USRSTAR|1|I|CXX|otbwes|Oosterbeek, Westerbouwing|Oosterbeek|||
+USRSTAR|1|I|CXX|otbwln|Oosterbeek, A. Weeninklaan|Oosterbeek|||
+USRSTAR|1|I|CXX|otbwol|Oosterbeek, Wolfhezerweg|Oosterbeek|||
+USRSTAR|1|I|CXX|otgbu|Oude-Tonge, Busstation|Oude-Tonge|||
+USRSTAR|1|I|CXX|othast|Oosterhout, Aquilastraat|Oosterhout|||
+USRSTAR|1|I|CXX|othbls|Oosterhout, Van Boetzelaerstraat|Oosterhout|||
+USRSTAR|1|I|CXX|othdkl|Oosterhout, De Klif|Oosterhout|||
+USRSTAR|1|I|CXX|othgan|Oosterhout, Gansstraat|Oosterhout|||
+USRSTAR|1|I|CXX|othgro|Oosterhout, Oude Groenestraat|Oosterhout|||
+USRSTAR|1|I|CXX|othjon|Oosterhout, Jonagoldstraat|Oosterhout|||
+USRSTAR|1|I|CXX|othkrs|Oosterhout, Kruidenstraat|Oosterhout|||
+USRSTAR|1|I|CXX|othpps|Oosterhout, Peperstraat|Oosterhout|||
+USRSTAR|1|I|CXX|othsta|Oosterhout, Stationsstraat|Oosterhout|||
+USRSTAR|1|I|CXX|othtcs|Oosterhout, Terracottastraat|Oosterhout|||
+USRSTAR|1|I|CXX|othvpl|Oosterhout, Vredesplein|Oosterhout|||
+USRSTAR|1|I|CXX|othwks|Oosterhout, Van Woerkomstraat|Oosterhout|||
+USRSTAR|1|I|CXX|othzas|Oosterhout, Zandstraat|Oosterhout|||
+USRSTAR|1|I|CXX|ottewo|Ottersum, Ottersumseweg|Ottersum|||
+USRSTAR|1|I|CXX|oukhgw|Oudkarspel, Haagwinde|Oudkarspel|||
+USRSTAR|1|I|CXX|oukkas|Oudkarspel, Kasteelstraat|Oudkarspel|||
+USRSTAR|1|I|CXX|oulkos|Oudelande, Hugo Kostenhoekstraat|Oudelande|||
+USRSTAR|1|I|CXX|oullin|Oudelande, Lindestraat|Oudelande|||
+USRSTAR|1|I|CXX|ousprb|Oud-Sabbinge, Prins Bernhardstraat|Oud-Sabbinge|||
+USRSTAR|1|I|CXX|ousrng|Oud-Sabbinge, Ring|Oud-Sabbinge|||
+USRSTAR|1|I|CXX|ouvoud|Oud-Vossemeer, Oud Vossemeersedijk|Oud-Vossemeer|||
+USRSTAR|1|I|CXX|overbs|Overasselt, Beatrixstraat|Overasselt|||
+USRSTAR|1|I|CXX|overhs|Overasselt, Hoogstraat|Overasselt|||
+USRSTAR|1|I|CXX|ovvbkw|Overveen, Brouwerskolkweg|Overveen|||
+USRSTAR|1|I|CXX|ovvkzw|Overveen, Korte Zijlweg|Overveen|||
+USRSTAR|1|I|CXX|ovvns|Overveen, Station|Overveen|||
+USRSTAR|1|I|CXX|ovvsto|Overveen, A. Stoopplein|Overveen|||
+USRSTAR|1|I|CXX|ovzhoo|Ovezande, Hoofdstraat|Ovezande|||
+USRSTAR|1|I|CXX|ovzpas|Ovezande, Pastoor Fransestraat|Ovezande|||
+USRSTAR|1|I|CXX|owdhww|Oostwoud, Heemraad Witweg|Oostwoud|||
+USRSTAR|1|I|CXX|owdols|Midwoud, Oostwouder Dorpsstraat|Midwoud|||
+USRSTAR|1|I|CXX|owkdrp|Ouwerkerk, Dorp|Ouwerkerk|||
+USRSTAR|1|I|CXX|owkvis|Ouwerkerk, Vissersweg|Ouwerkerk|||
+USRSTAR|1|I|CXX|ozesta|Oud Zevenaar,schutterstent St Anna|Oud Zevenaar|||
+USRSTAR|1|I|CXX|ozndrs|Oostzaan, De Dors|Oostzaan|||
+USRSTAR|1|I|CXX|oznker|Oostzaan, De Kunstgreep|Oostzaan|||
+USRSTAR|1|I|CXX|oznkol|Oostzaan, De Kolk|Oostzaan|||
+USRSTAR|1|I|CXX|oznwat|Oostzaan, Wateringbrug|Oostzaan|||
+USRSTAR|1|I|CXX|oznzde|Oostzaan, Zuideinde 239|Oostzaan|||
+USRSTAR|1|I|CXX|paal|Paal, Duivenhoeksestraat|Paal|||
+USRSTAR|1|I|CXX|pacmez|St.Pancras, Mezenstraat|Onbekend|||
+USRSTAR|1|I|CXX|pacmwl|St. Pancras, Meeuwenlaan|Onbekend|||
+USRSTAR|1|I|CXX|pacvin|St. Pancras, Vinkenlaan|Onbekend|||
+USRSTAR|1|I|CXX|pacvvl|St. Pancras, v.d. Vijzellaan|Onbekend|||
+USRSTAR|1|I|CXX|pacwit|St. Pancras, Kerkplein|Onbekend|||
+USRSTAR|1|I|CXX|panaer|Pannerden, Aerdtsestraat|Pannerden|||
+USRSTAR|1|I|CXX|pandor|Pannerden, Dorpsplein|Pannerden|||
+USRSTAR|1|I|CXX|panhog|Pannerden, Hoogeweg|Pannerden|||
+USRSTAR|1|I|CXX|petecn|Petten, Energy and Health Campus|Petten|||
+USRSTAR|1|I|CXX|peteks|Petten, Eriksstraat|Petten|||
+USRSTAR|1|I|CXX|petlei|Petten, Leihoek|Petten|||
+USRSTAR|1|I|CXX|petpkl|Petten, Pettemerkluft|Petten|||
+USRSTAR|1|I|CXX|petple|Petten, Plein 1945|Petten|||
+USRSTAR|1|I|CXX|phidrp|Philippine, Dorp|Philippine|||
+USRSTAR|1|I|CXX|phkgdv|Puttershoek, G. de Voslaan|Puttershoek|||
+USRSTAR|1|I|CXX|phkgri|Puttershoek, De Grienden|Puttershoek|||
+USRSTAR|1|I|CXX|phkkas|Puttershoek, Kastanjelaan|Puttershoek|||
+USRSTAR|1|I|CXX|phkspl|Puttershoek, Sportlaan|Puttershoek|||
+USRSTAR|1|I|CXX|piebes|Piershil, Bestuurscentrum|Piershil|||
+USRSTAR|1|I|CXX|piedrp|Piershil, Piershil Dorp|Piershil|||
+USRSTAR|1|I|CXX|pmdgsg|Purmerend, Ged. Singelgracht|Purmerend|||
+USRSTAR|1|I|CXX|pmdtrp|Purmerend, Tramplein|Purmerend|||
+USRSTAR|1|I|CXX|pmlrww|Plasmolen, Rijksweg/Witteweg|Plasmolen|||
+USRSTAR|1|I|CXX|poozui|Poortvliet, Zuidplantsoen|Poortvliet|||
+USRSTAR|1|I|CXX|ramrvw|Kampereiland, Rechterveldweg|Kampereiland|||
+USRSTAR|1|I|CXX|rdngro|Rheden, Groenestraat|Rheden|||
+USRSTAR|1|I|CXX|rdnker|Rheden, NH Kerk|Rheden|||
+USRSTAR|1|I|CXX|reekbs|Reek, Mgr Borretstraat|Reek|||
+USRSTAR|1|I|CXX|rentrf|Renesse, Transferium|Renesse|||
+USRSTAR|1|I|CXX|resres|Ressen, Kerkenhofstraat|Ressen|||
+USRSTAR|1|I|CXX|restra|Ressen, P en R Nijmegen Noord|Ressen|||
+USRSTAR|1|I|CXX|reubus|Reusel, Busstation Reusel|Reusel|||
+USRSTAR|1|I|CXX|rhvkrk|Riethoven, Kerk|Riethoven|||
+USRSTAR|1|I|CXX|rilbpl|Rilland, Begraafplaats|Rilland|||
+USRSTAR|1|I|CXX|rilgem|Rilland, Dorpshuis|Rilland|||
+USRSTAR|1|I|CXX|rilnvl|Rilland, De Vliedberg|Rilland|||
+USRSTAR|1|I|CXX|rilsta|Rilland, Stationsbuurt|Rilland|||
+USRSTAR|1|I|CXX|ripsjh|De Rips, Jeugdhuis|De Rips|||
+USRSTAR|1|I|CXX|rkubok|Renkum, Bokkedijk|Renkum|||
+USRSTAR|1|I|CXX|rkudbw|Renkum, Don Boscoweg|Renkum|||
+USRSTAR|1|I|CXX|rkudrk|Renkum, Doelum|Renkum|||
+USRSTAR|1|I|CXX|rkueur|Renkum, Europalaan|Renkum|||
+USRSTAR|1|I|CXX|rkugrw|Renkum, Groeneweg|Renkum|||
+USRSTAR|1|I|CXX|rkunww|Renkum, Nieuweweg|Renkum|||
+USRSTAR|1|I|CXX|rkutfw|Renkum, Telefoonweg|Renkum|||
+USRSTAR|1|I|CXX|rogslu|Dronten, Roggebotsluis|Dronten|||
+USRSTAR|1|I|CXX|roudwg|Rouveen, Dekkersweg|Rouveen|||
+USRSTAR|1|I|CXX|rouher|Rouveen, Hervormde Kerk|Rouveen|||
+USRSTAR|1|I|CXX|rousta|Rouveen, Stadsweg|Rouveen|||
+USRSTAR|1|I|CXX|rozker|Rozendaal, Kerklaan|Rozendaal|||
+USRSTAR|1|I|CXX|rozrhe|Rozendaal, Rhedens Lyceum|Rozendaal|||
+USRSTAR|1|I|CXX|rshben|Rijsenhout, Bennebroekerweg|Rijsenhout|||
+USRSTAR|1|I|CXX|rshblb|Rijsenhout, Blauwe Beugel|Rijsenhout|||
+USRSTAR|1|I|CXX|rshces|Rijsenhout, Centrum Schouwstraat|Rijsenhout|||
+USRSTAR|1|I|CXX|rshdra|Rijsenhout, Drakenstraat|Rijsenhout|||
+USRSTAR|1|I|CXX|rshkpl|Rijsenhout, Kleine Poellaan|Rijsenhout|||
+USRSTAR|1|I|CXX|rshrpl|Rijsenhout, Rijshornplein|Rijsenhout|||
+USRSTAR|1|I|CXX|rtdcb|Rotterdam, Metro Capelsebrug |Rotterdam|||
+USRSTAR|1|I|CXX|rtdcs|Rotterdam, Centraal Station|Rotterdam|||
+USRSTAR|1|I|CXX|rtdgk|Rotterdam, Kreekhuizenlaan|Rotterdam|||
+USRSTAR|1|I|CXX|rtdhes|Rotterdam, HES|Rotterdam|||
+USRSTAR|1|I|CXX|rtdkz|Rotterdam, Kralingse Zoom|Rotterdam|||
+USRSTAR|1|I|CXX|rtdlom|Rotterdam, Station Lombardijen|Rotterdam|||
+USRSTAR|1|I|CXX|rtdspi|Rotterdam, Spinozaweg|Rotterdam|||
+USRSTAR|1|I|CXX|rtdzpl|Rotterdam, Zuidplein|Rotterdam|||
+USRSTAR|1|I|CXX|rutten|Rutten, Lemsterpoort|Rutten|||
+USRSTAR|1|I|CXX|rypjul|De Rijp, Julianalaan|De Rijp|||
+USRSTAR|1|I|CXX|rypmiw|De Rijp, Mieuwijdt|De Rijp|||
+USRSTAR|1|I|CXX|rypwol|De Rijp, Wollandje|De Rijp|||
+USRSTAR|1|I|CXX|rzbamw|Rozenburg, Aalsmeerderweg|Rozenburg|||
+USRSTAR|1|I|CXX|rzbkrw|Rozenburg, Kruisweg|Rozenburg|||
+USRSTAR|1|I|CXX|rzbslp|Rozenburg, SLP/Naritaweg|Rozenburg|||
+USRSTAR|1|I|CXX|rzbvza|Rozenburg, Kruisweg 365|Rozenburg|||
+USRSTAR|1|I|CXX|sahnie|Stad a/h Haringvliet, Nieuwstraat|Stad a/h Haringvliet|||
+USRSTAR|1|I|CXX|sahvro|Stad a/h Haringvliet, Vrouwtjeswg|Stad a/h Haringvliet|||
+USRSTAR|1|I|CXX|saldor|St.Annaland, Dorpsweg|St.Annaland|||
+USRSTAR|1|I|CXX|sanbrw|Sanrtpoort-Zuid, Brederoodseweg|Onbekend|||
+USRSTAR|1|I|CXX|sanhag|Santpoort-Noord, Hagelingerweg|Onbekend|||
+USRSTAR|1|I|CXX|sannrd|Santpoort-Noord, Station|Onbekend|||
+USRSTAR|1|I|CXX|sanns|Santpoort-Zuid, Station|Onbekend|||
+USRSTAR|1|I|CXX|sansdr|Santpoort, Santpoortsedreef|Santpoort|||
+USRSTAR|1|I|CXX|sanvdl|Santpoort-Zuid, Litslaan|Santpoort|||
+USRSTAR|1|I|CXX|satver|Sint Anthonis, Dr. Verbeecklaan|Onbekend|||
+USRSTAR|1|I|CXX|sbgipc|Schaarsbergen, IPC|Schaarsbergen|||
+USRSTAR|1|I|CXX|sbgkon|Schaarsbergen, Koningsweg|Schaarsbergen|||
+USRSTAR|1|I|CXX|sbgwbn|Schaarsbergen, Warnsborn|Schaarsbergen|||
+USRSTAR|1|I|CXX|scdcam|Scharendijke, Camping Duin en Strand|Scharendijke|||
+USRSTAR|1|I|CXX|scddrp|Scharendijke, Dorp|Scharendijke|||
+USRSTAR|1|I|CXX|schang|Schiphol Zuidoost, Anchoragelaan|Onbekend|||
+USRSTAR|1|I|CXX|schbc1|Schiphol-Rijk, Beechavenue|Schiphol-Rijk|||
+USRSTAR|1|I|CXX|schbca|Schiphol-Rijk, Beechavenue|Schiphol-Rijk|||
+USRSTAR|1|I|CXX|schbo|Schiphol-Rijk, Boeingavenue|Schiphol-Rijk|||
+USRSTAR|1|I|CXX|schcan|Schiphol, Canadaweg|Schiphol|||
+USRSTAR|1|I|CXX|schcap|Schiphol-Rijk, Capronilaan|Schiphol-Rijk|||
+USRSTAR|1|I|CXX|schdou|Schiphol-Rijk, Douglassingel|Schiphol-Rijk|||
+USRSTAR|1|I|CXX|schdre|Schellinkhout, De Dregt|Schellinkhout|||
+USRSTAR|1|I|CXX|schezh|Schiphol, Elzenhof/P5|Schiphol|||
+USRSTAR|1|I|CXX|schfsw|Schiphol-ZO, Folkstoneweg|Onbekend|||
+USRSTAR|1|I|CXX|schhkz|Schiphol, Handelskade|Schiphol|||
+USRSTAR|1|I|CXX|schjkm|Schiphol, Kon. Marechaussee|Schiphol|||
+USRSTAR|1|I|CXX|schjus|Schiphol, Justitieel Complex|Schiphol|||
+USRSTAR|1|I|CXX|schkpo|Schiphol, Knooppunt Schiphol Oost|Schiphol|||
+USRSTAR|1|I|CXX|schlij|Schaarsbergen, Lijnbaan|Schaarsbergen|||
+USRSTAR|1|I|CXX|schndz|Schiphol, Cateringweg|Schiphol|||
+USRSTAR|1|I|CXX|schnkn|Schiphol, Knooppunt Schiphol Noord|Schiphol|||
+USRSTAR|1|I|CXX|schns|Schiphol, Airport|Schiphol|||
+USRSTAR|1|I|CXX|schp12|Schiphol, P12/Vrachtgebouw|Schiphol|||
+USRSTAR|1|I|CXX|schp30|Schiphol, P30 Parkeerterrein|Schiphol|||
+USRSTAR|1|I|CXX|schp40|Schiphol, P40 Parkeerterrein|Schiphol|||
+USRSTAR|1|I|CXX|schsch|Schiphol, Schipholgebouw|Schiphol|||
+USRSTAR|1|I|CXX|schtoe|Schiphol, Toekanweg|Schiphol|||
+USRSTAR|1|I|CXX|schuvw|Schiphol, Uiverweg|Schiphol|||
+USRSTAR|1|I|CXX|schval|Schiphol, Valkweg|Schiphol|||
+USRSTAR|1|I|CXX|schzui|Schiphol Oost, Zuideinde|Schiphol|||
+USRSTAR|1|I|CXX|scmwtb|Schermer, Wittenburg|Schermer|||
+USRSTAR|1|I|CXX|scokee|Schoondijke, Molen|Schoondijke|||
+USRSTAR|1|I|CXX|scorot|Schoondijke, Rotonde|Schoondijke|||
+USRSTAR|1|I|CXX|scrkan|Schore, Kanaalweg|Schore|||
+USRSTAR|1|I|CXX|scrnh|Schore, Nieuwe Kerkplein|Schore|||
+USRSTAR|1|I|CXX|scrorw|Schore, Oude Rijksweg|Schore|||
+USRSTAR|1|I|CXX|scwscw|Den Bommel, N59 P+R|Den Bommel|||
+USRSTAR|1|I|CXX|sdbdrp|Schuddebeurs, Dorp|Schuddebeurs|||
+USRSTAR|1|I|CXX|sdbrot|Schuddebeurs, Roterijdijk|Schuddebeurs|||
+USRSTAR|1|I|CXX|sernoo|Serooskerke, Noordweg|Serooskerke|||
+USRSTAR|1|I|CXX|sersch|Serooskerke(S), Schelphoek|Onbekend|||
+USRSTAR|1|I|CXX|serwes|Serooskerke, Gapingseweg|Serooskerke|||
+USRSTAR|1|I|CXX|sftmaa|Schaft, Maastrichterweg|Schaft|||
+USRSTAR|1|I|CXX|sgbbuu|Schagerbrug, Buurtje|Schagerbrug|||
+USRSTAR|1|I|CXX|sgbgmh|Schagerbrug, Zijper Museum|Schagerbrug|||
+USRSTAR|1|I|CXX|sgncre|Schagen, Crematorium|Schagen|||
+USRSTAR|1|I|CXX|sgnhof|Schagen, Hofstraat|Schagen|||
+USRSTAR|1|I|CXX|sgnlgd|Schagen, Lagedijk|Schagen|||
+USRSTAR|1|I|CXX|sgnmag|Schagen, Magnushof|Schagen|||
+USRSTAR|1|I|CXX|sgnmub|Schagen, Muggenburg|Schagen|||
+USRSTAR|1|I|CXX|sgnns|Schagen, Station|Schagen|||
+USRSTAR|1|I|CXX|sgnoss|Schagen, Oude Slotstraat|Schagen|||
+USRSTAR|1|I|CXX|sgnpol|Schagen, Koperwiek|Schagen|||
+USRSTAR|1|I|CXX|sgnvln|Schagen, Vliedlaan|Schagen|||
+USRSTAR|1|I|CXX|sgnwpl|Schagen, Witte Paal|Schagen|||
+USRSTAR|1|I|CXX|sgnzdw|Schagen, Zwembad de Wiel|Schagen|||
+USRSTAR|1|I|CXX|shkvee|'s-Heerenbroek, Veecaten|'s-Heerenbroek|||
+USRSTAR|1|I|CXX|shkz56|'s-Heerenbroek, Zwolseweg 56|'s-Heerenbroek|||
+USRSTAR|1|I|CXX|sjkden|St.Jansklooster, Dennenbos|St.Jansklooster|||
+USRSTAR|1|I|CXX|sjkfle|St.Jansklooster, Flevoweg|St.Jansklooster|||
+USRSTAR|1|I|CXX|sjkhee|Heetveld, Heetveld|Heetveld|||
+USRSTAR|1|I|CXX|sjkkri|De Krieger, De Krieger|Onbekend|||
+USRSTAR|1|I|CXX|sjkoka|St.Jansklooster, Oldenhof Kadoelerweg|St.Jansklooster|||
+USRSTAR|1|I|CXX|sjkvdw|St.Jansklooster, Verlengde Duinweg|St.Jansklooster|||
+USRSTAR|1|I|CXX|sjkven|St.Jansklooster, Veneweg|St.Jansklooster|||
+USRSTAR|1|I|CXX|sjkzuu|St.Jansklooster, Zuurbeek|St.Jansklooster|||
+USRSTAR|1|I|CXX|sldkww|Slootdorp, Kon. Wilhelminaweg|Slootdorp|||
+USRSTAR|1|I|CXX|sldoev|Slootdorp, Den Oeverseweg|Slootdorp|||
+USRSTAR|1|I|CXX|sldpbw|Slootdorp, Prins Bernhardweg|Slootdorp|||
+USRSTAR|1|I|CXX|slkbal|Sluiskil, Baljuwlaan|Sluiskil|||
+USRSTAR|1|I|CXX|slkeil|Sluiskil, Eilandstraat|Sluiskil|||
+USRSTAR|1|I|CXX|slklel|Sluiskil, Minister Lelyplein|Sluiskil|||
+USRSTAR|1|I|CXX|slkstr|Sluiskil, Stroodorpe|Sluiskil|||
+USRSTAR|1|I|CXX|slsrid|Sluis, Ridderstraat|Sluis|||
+USRSTAR|1|I|CXX|slssta|Sluis, St. Annastraat|Sluis|||
+USRSTAR|1|I|CXX|slstov|Sluis, Toversluis|Sluis|||
+USRSTAR|1|I|CXX|smdcam|Sommelsdijk, Campus|Sommelsdijk|||
+USRSTAR|1|I|CXX|smdkra|Sommelsdijk, Noord|Sommelsdijk|||
+USRSTAR|1|I|CXX|smdzui|Sommelsdijk, Zuid|Sommelsdijk|||
+USRSTAR|1|I|CXX|smhsmd|Schermerhorn, Schermerdijk|Schermerhorn|||
+USRSTAR|1|I|CXX|smhvdh|Schermerhorn, v.d. Hulst|Schermerhorn|||
+USRSTAR|1|I|CXX|smhybr|Schermerhorn, IJzeren Brug|Schermerhorn|||
+USRSTAR|1|I|CXX|smhzui|Schermerhorn, 't Zuidje|Schermerhorn|||
+USRSTAR|1|I|CXX|smrdkh|Schermer, Drie Koningshoofden|Schermer|||
+USRSTAR|1|I|CXX|smtoml|St. Maarten, Omloop|Onbekend|||
+USRSTAR|1|I|CXX|smtsmw|St. Maartensbrug, St. Maartensweg|Onbekend|||
+USRSTAR|1|I|CXX|smtspl|St. Maarten, Sportparklaan|Onbekend|||
+USRSTAR|1|I|CXX|smtvbr|St. Maartensvlotbrug, Ruigeweg|Onbekend|||
+USRSTAR|1|I|CXX|smtvbs|St. Maartensvlotbrug, G. v/d Sluisstraat|Onbekend|||
+USRSTAR|1|I|CXX|smtvkg|St. Maarten, Valkkoog|Onbekend|||
+USRSTAR|1|I|CXX|sobrik|Son, Meubelboulevard|Son|||
+USRSTAR|1|I|CXX|sobrsl|Breugel, Sterrenbeeldenlaan|Breugel|||
+USRSTAR|1|I|CXX|sobrsp|Son, 17 Septemberplein|Son|||
+USRSTAR|1|I|CXX|sodcam|Soerendonk, Camping Soerendonk|Soerendonk|||
+USRSTAR|1|I|CXX|soddor|Soerendonk, Dorpsstraat|Soerendonk|||
+USRSTAR|1|I|CXX|sodmlh|Soerendonk, Molenheide|Soerendonk|||
+USRSTAR|1|I|CXX|sodstd|Soerendonk, Molenheide/Reepad|Soerendonk|||
+USRSTAR|1|I|CXX|soeind|Someren-Eind, Nieuwendijk|Someren-Eind|||
+USRSTAR|1|I|CXX|soeisl|Someren-Eind, Sluis 12|Someren-Eind|||
+USRSTAR|1|I|CXX|sohekk|Someren Heide, Kerk|Onbekend|||
+USRSTAR|1|I|CXX|someks|Someren, Kerkstraat|Someren|||
+USRSTAR|1|I|CXX|somels|Someren, Leeuwerikstraat|Someren|||
+USRSTAR|1|I|CXX|someme|Someren, De Meer|Someren|||
+USRSTAR|1|I|CXX|somesh|Someren, Speelheuvelplein|Someren|||
+USRSTAR|1|I|CXX|somevc|Someren, Varendonck College|Someren|||
+USRSTAR|1|I|CXX|somkpl|Someren, Kapelletje|Someren|||
+USRSTAR|1|I|CXX|sonaml|Son, Amerikalaan|Son|||
+USRSTAR|1|I|CXX|songtl|Son, Gentiaanlaan|Son|||
+USRSTAR|1|I|CXX|sonkpn|Son, Science Park West/5700|Son|||
+USRSTAR|1|I|CXX|sonrhp|Son, Raadhuisplein|Son|||
+USRSTAR|1|I|CXX|soukar|Oost-Souburg, Karolingenbaan|Oost-Souburg|||
+USRSTAR|1|I|CXX|souzw|Oost-Souburg, De Zwaan|Oost-Souburg|||
+USRSTAR|1|I|CXX|spbker|Spanbroek, Kerk|Spanbroek|||
+USRSTAR|1|I|CXX|spbsbw|Spanbroek, Spanbroekerweg|Spanbroek|||
+USRSTAR|1|I|CXX|spbwar|Spanbroek, 't War|Spanbroek|||
+USRSTAR|1|I|CXX|spbzaw|Spanbroek, Zandwerven|Spanbroek|||
+USRSTAR|1|I|CXX|spdvis|Spaarndam, Visserseinde|Spaarndam|||
+USRSTAR|1|I|CXX|spdwes|Spaarndam, Westhoff|Spaarndam|||
+USRSTAR|1|I|CXX|spdydk|Spaarndam, IJdijk|Spaarndam|||
+USRSTAR|1|I|CXX|sphhav|St.Philipsland, Haven|St.Philipsland|||
+USRSTAR|1|I|CXX|sphsta|St.Philipsland, Stationsstraat|St.Philipsland|||
+USRSTAR|1|I|CXX|spihw2|Spijkenisse, Halfweg 2|Spijkenisse|||
+USRSTAR|1|I|CXX|spilag|Spijkenisse, Laanweg|Spijkenisse|||
+USRSTAR|1|I|CXX|spimce|Spijkenisse, Metro Centrum|Spijkenisse|||
+USRSTAR|1|I|CXX|spioer|Spijkenisse, De Ritte|Spijkenisse|||
+USRSTAR|1|I|CXX|spizin|Spijkenisse, Zinkseweg|Spijkenisse|||
+USRSTAR|1|I|CXX|spkwbw|Spijk, Willibrordusweg|Spijk|||
+USRSTAR|1|I|CXX|spnspu|Scherpenisse, Spuidamstraat|Scherpenisse|||
+USRSTAR|1|I|CXX|spwgfb|Spaarnwoude, Golfbaan|Spaarnwoude|||
+USRSTAR|1|I|CXX|spwzkb|Spaarnwoude, Zijkanaal B|Spaarnwoude|||
+USRSTAR|1|I|CXX|srddaw|Schoorldam, Damweg|Schoorldam|||
+USRSTAR|1|I|CXX|srdoww|Schoorldam, Oudewal West|Schoorldam|||
+USRSTAR|1|I|CXX|srdtgl|Schoorldam, Teugelaan|Schoorldam|||
+USRSTAR|1|I|CXX|srdwfd|Schoorldam, Westfriesedijk|Schoorldam|||
+USRSTAR|1|I|CXX|srlcen|Schoorl, Centrum|Schoorl|||
+USRSTAR|1|I|CXX|srldaw|Schoorl, Damweg/Laanweg|Schoorl|||
+USRSTAR|1|I|CXX|srlfrl|Schoorl, Frederikslaan|Schoorl|||
+USRSTAR|1|I|CXX|srlgbs|Groet, De Bokkesprong|Groet|||
+USRSTAR|1|I|CXX|srlgcd|Groet, Carpe Diem|Groet|||
+USRSTAR|1|I|CXX|srlgdp|Groet, Herenweg/Dokterspost|Groet|||
+USRSTAR|1|I|CXX|srlghd|Schoorl, De Blinkerd|Schoorl|||
+USRSTAR|1|I|CXX|srlgkb|Groet, Kerkbrink|Groet|||
+USRSTAR|1|I|CXX|srlgkc|Schoorl, De Blinkerd|Schoorl|||
+USRSTAR|1|I|CXX|srliln|Schoorl, Idenslaan|Schoorl|||
+USRSTAR|1|I|CXX|srlkow|Schoorl, Koningsweg|Schoorl|||
+USRSTAR|1|I|CXX|srlrhs|Schoorl, Raadhuis|Schoorl|||
+USRSTAR|1|I|CXX|srlsdr|Schoorl, De Sanderije|Schoorl|||
+USRSTAR|1|I|CXX|srlspl|Schoorl, Sportlaan|Schoorl|||
+USRSTAR|1|I|CXX|srndow|Spankeren, Dorpsweg|Spankeren|||
+USRSTAR|1|I|CXX|srnkdk|Spankeren, Kanaaldijk|Spankeren|||
+USRSTAR|1|I|CXX|srnkwg|Spankeren, Kerkweg|Spankeren|||
+USRSTAR|1|I|CXX|srnlhf|Spankeren, Loohof|Spankeren|||
+USRSTAR|1|I|CXX|sslein|Steensel, Eindhovenseweg|Steensel|||
+USRSTAR|1|I|CXX|stangr|St.Anna Ter Muiden, Grens|St.Anna ter Muiden|||
+USRSTAR|1|I|CXX|stanna|St.Anna Ter Muiden, Havenstraat|St.Anna ter Muiden|||
+USRSTAR|1|I|CXX|stapos|Stavenisse, Poststraat|Stavenisse|||
+USRSTAR|1|I|CXX|stdbu|Stellendam, Busstation|Stellendam|||
+USRSTAR|1|I|CXX|stdpw|Stellendam, Provincialeweg N215|Stellendam|||
+USRSTAR|1|I|CXX|stdvis|Stellendam, Vissershaven|Stellendam|||
+USRSTAR|1|I|CXX|stdzwe|Stellendam, Zwembad|Stellendam|||
+USRSTAR|1|I|CXX|sthgem|Staphorst, Gemeentehuis|Staphorst|||
+USRSTAR|1|I|CXX|sthpzs|Staphorst, P. Zandtschool|Staphorst|||
+USRSTAR|1|I|CXX|sthred|Staphorst, Redder|Staphorst|||
+USRSTAR|1|I|CXX|sthsne|Staphorst, Snelweg|Staphorst|||
+USRSTAR|1|I|CXX|sthvla|Staphorst, Vlakkenweg|Staphorst|||
+USRSTAR|1|I|CXX|stipkk|Stiphout, Kerk|Stiphout|||
+USRSTAR|1|I|CXX|stjges|St.Jansteen, Geslechtendijk|Onbekend|||
+USRSTAR|1|I|CXX|stjhee|Aagtekerke, Sint Jan ten Heere|Aagtekerke|||
+USRSTAR|1|I|CXX|stjkrk|St.Jansteen, Kerk|Onbekend|||
+USRSTAR|1|I|CXX|stjvyv|St.Jansteen, de Vijver|Onbekend|||
+USRSTAR|1|I|CXX|stjwil|St.Jansteen, Wilhelminastraat|Onbekend|||
+USRSTAR|1|I|CXX|stlgem|St.Laurens, Boudaenlaan|St.Laurens|||
+USRSTAR|1|I|CXX|stmpro|St.Maartensdijk, Prov.weg|St.Maartensdijk|||
+USRSTAR|1|I|CXX|stnddb|Steenwijk, Dolderbrug|Steenwijk|||
+USRSTAR|1|I|CXX|stngro|Steenwijk, Groot Verlaat|Steenwijk|||
+USRSTAR|1|I|CXX|stnmki|Steenwijk, Matthijs Kiersstraat|Steenwijk|||
+USRSTAR|1|I|CXX|stnns|Steenwijk, Station|Steenwijk|||
+USRSTAR|1|I|CXX|stnzui|Zuidveen, Zuidveen|Zuidveen|||
+USRSTAR|1|I|CXX|stodrp|Stompetoren, Dorp|Stompetoren|||
+USRSTAR|1|I|CXX|stowbr|Stompetoren, Witte Brug|Stompetoren|||
+USRSTAR|1|I|CXX|stsccl|Sterksel, Albertlaan|Sterksel|||
+USRSTAR|1|I|CXX|stskrk|Sterksel, Kerk|Sterksel|||
+USRSTAR|1|I|CXX|stspro|Sterksel, Providentia|Sterksel|||
+USRSTAR|1|I|CXX|sttstr|Stroet, Stroet|Stroet|||
+USRSTAR|1|I|CXX|stybgd|Strijen, Boomgaard|Strijen|||
+USRSTAR|1|I|CXX|stybjs|Strijen, Boompjesstraat|Strijen|||
+USRSTAR|1|I|CXX|styjul|Strijen, Julianastraat|Strijen|||
+USRSTAR|1|I|CXX|stylew|Strijen, Leeuwerikstraat|Strijen|||
+USRSTAR|1|I|CXX|stynie|Strijen, Nieuwestraat|Strijen|||
+USRSTAR|1|I|CXX|stypol|Strijen, Politiebureau|Strijen|||
+USRSTAR|1|I|CXX|stysas|Strijensas, Kerkplein|Strijensas|||
+USRSTAR|1|I|CXX|styste|Strijen, Steenplaats|Strijen|||
+USRSTAR|1|I|CXX|svbdst|De Stolpen, De Stolpen|Onbekend|||
+USRSTAR|1|I|CXX|svbscw|Schagerbrug, Schagerweg|Schagerbrug|||
+USRSTAR|1|I|CXX|svgbol|Sas van Gent, Bolwerk|Sas van Gent|||
+USRSTAR|1|I|CXX|svgsui|Sas van Gent, Suikerplein|Sas van Gent|||
+USRSTAR|1|I|CXX|swibla|Swifterbant, Het Blazoen|Swifterbant|||
+USRSTAR|1|I|CXX|swiblo|Swifterbant, Bloemenwijk|Swifterbant|||
+USRSTAR|1|I|CXX|swielw|Swifterbant, Elandweg|Swifterbant|||
+USRSTAR|1|I|CXX|swiind|Swifterbant, Industrieweg|Swifterbant|||
+USRSTAR|1|I|CXX|swiklo|Lelystad, Klokbekerweg|Lelystad|||
+USRSTAR|1|I|CXX|swilan|Swifterbant, De Lange Streek|Swifterbant|||
+USRSTAR|1|I|CXX|swivis|Swifterbant, Visvijverweg|Swifterbant|||
+USRSTAR|1|I|CXX|swivsw|Swifterbant, Vuursteenweg|Swifterbant|||
+USRSTAR|1|I|CXX|swoboo|Scheerwolde, Boomkwekerij|Scheerwolde|||
+USRSTAR|1|I|CXX|swwcen|Steenwijkerwold, 't Centrum|Steenwijkerwold|||
+USRSTAR|1|I|CXX|swweik|Willemsoord, Eikenlaan|Willemsoord|||
+USRSTAR|1|I|CXX|swwwil|Willemsoord, Willemsoord|Willemsoord|||
+USRSTAR|1|I|CXX|sybker|Sijbekarspel, Kerkbuurt|Sijbekarspel|||
+USRSTAR|1|I|CXX|sybsch|Sijbekarspel, Schimmel|Sijbekarspel|||
+USRSTAR|1|I|CXX|sybvkw|Sijbekarspel, Vekenweg|Sijbekarspel|||
+USRSTAR|1|I|CXX|sybwes|Sybekarspel, Westerstraat|Sijbekarspel|||
+USRSTAR|1|I|CXX|tern60|Terhole, N60|Terhole|||
+USRSTAR|1|I|CXX|texamw|Texel, Pontweg-Amaliaweg|Texel|||
+USRSTAR|1|I|CXX|texcsw|Texel, Californieweg-So What|Texel|||
+USRSTAR|1|I|CXX|texeco|Texel, Ecomare|Texel|||
+USRSTAR|1|I|CXX|texplw|Texel, Pontweg-Pelikaanweg|Texel|||
+USRSTAR|1|I|CXX|texrdo|Texel, Pontweg-Redoute|Texel|||
+USRSTAR|1|I|CXX|textxl|'t Horntje, Texelhopper|'t Horntje|||
+USRSTAR|1|I|CXX|texvee|'t Horntje, Veerhaven|'t Horntje|||
+USRSTAR|1|I|CXX|texz11|Texel, Pontweg-Rozendijk|Texel|||
+USRSTAR|1|I|CXX|texz13|Texel, Pontweg-Californieweg|Texel|||
+USRSTAR|1|I|CXX|texz17|Texel, Bosch en Zee|Texel|||
+USRSTAR|1|I|CXX|texzw6|Texel, Pontweg-Leemkuil|Texel|||
+USRSTAR|1|I|CXX|texzwe|Texel, Pontweg-Schumakersweg|Texel|||
+USRSTAR|1|I|CXX|thoank|Tholen, Vliethof|Tholen|||
+USRSTAR|1|I|CXX|thodel|Tholen, Deltaweg|Tholen|||
+USRSTAR|1|I|CXX|thogri|Tholen, Terreplein|Tholen|||
+USRSTAR|1|I|CXX|thoher|Tholen, Hertenkamp|Tholen|||
+USRSTAR|1|I|CXX|thywat|Thij, Watertoren|Thij|||
+USRSTAR|1|I|CXX|tiellw|Tiel, Laan van Westroyen|Tiel|||
+USRSTAR|1|I|CXX|tielvm|Tiel, Veemarkt|Tiel|||
+USRSTAR|1|I|CXX|tiens|Tiel, Station|Tiel|||
+USRSTAR|1|I|CXX|tjhkps|Tuitjenhorn, Kuiperstraat|Tuitjenhorn|||
+USRSTAR|1|I|CXX|tjhndt|Tuitjenhorn, Noorderlicht|Tuitjenhorn|||
+USRSTAR|1|I|CXX|tjhspl|Tuitjenhorn, Sportlaan|Tuitjenhorn|||
+USRSTAR|1|I|CXX|tjhwds|Tuitenhorn, W. Dekkerstraat|Tuitjenhorn|||
+USRSTAR|1|I|CXX|tkmlob|Tolkamer, Lobede|Tolkamer|||
+USRSTAR|1|I|CXX|tkmpos|Tolkamer, Postkantoor|Tolkamer|||
+USRSTAR|1|I|CXX|tnzaan|Terneuzen, Aangeenbrugschool|Terneuzen|||
+USRSTAR|1|I|CXX|tnzalv|Terneuzen, Alvarezlaan|Terneuzen|||
+USRSTAR|1|I|CXX|tnzbus|Terneuzen, Busstation WST|Terneuzen|||
+USRSTAR|1|I|CXX|tnzdet|Terneuzen, Dethon|Terneuzen|||
+USRSTAR|1|I|CXX|tnzdow|Terneuzen, Dow|Terneuzen|||
+USRSTAR|1|I|CXX|tnzgge|Terneuzen, G.Gezellestraat|Terneuzen|||
+USRSTAR|1|I|CXX|tnzinn|Terneuzen, Innovatieweg|Terneuzen|||
+USRSTAR|1|I|CXX|tnzkno|Terneuzen, De Knol|Terneuzen|||
+USRSTAR|1|I|CXX|tnzoos|Terneuzen, Oostelijk Bolwerk|Terneuzen|||
+USRSTAR|1|I|CXX|tnzpz|Terneuzen, Prof.Zeemanstraat|Terneuzen|||
+USRSTAR|1|I|CXX|tnzroo|Terneuzen, Rooseveltlaan|Terneuzen|||
+USRSTAR|1|I|CXX|tnzsch|Terneuzen, Scheldorado|Terneuzen|||
+USRSTAR|1|I|CXX|tnzser|Terneuzen, Serlippensstraat|Terneuzen|||
+USRSTAR|1|I|CXX|tnzsll|Terneuzen, Sloelaan|Terneuzen|||
+USRSTAR|1|I|CXX|tnzsth|Terneuzen, Stadhuis|Terneuzen|||
+USRSTAR|1|I|CXX|tnzwes|Terneuzen, De Westkant|Terneuzen|||
+USRSTAR|1|I|CXX|tnzzel|Terneuzen, Zeldenrustlaan|Terneuzen|||
+USRSTAR|1|I|CXX|tnzzkh|Terneuzen, Ziekenhuis|Terneuzen|||
+USRSTAR|1|I|CXX|tnzzui|Terneuzen, Zuidlandstraat|Terneuzen|||
+USRSTAR|1|I|CXX|tnzzwy|Terneuzen, W. de Zwijgerlaan|Terneuzen|||
+USRSTAR|1|I|CXX|tolu34|Tollebeek, Urkerweg 34|Tollebeek|||
+USRSTAR|1|I|CXX|tolu46|Tollebeek, Urkerweg 46|Tollebeek|||
+USRSTAR|1|I|CXX|tuidhe|Tuitjenhorn, De Helt|Tuitjenhorn|||
+USRSTAR|1|I|CXX|tuidpr|Tuitjenhorn, De Punter|Tuitjenhorn|||
+USRSTAR|1|I|CXX|tukgem|Tuk, Gemeentewerken|Tuk|||
+USRSTAR|1|I|CXX|tukomw|Tuk, Oldemarktseweg|Tuk|||
+USRSTAR|1|I|CXX|tvecll|'t Veld, Clauslaan|'t Veld|||
+USRSTAR|1|I|CXX|tveora|'t Veld, Oranjelaan|'t Veld|||
+USRSTAR|1|I|CXX|tvepcl|'t Veld, Past. Cleerbesemlaan|'t Veld|||
+USRSTAR|1|I|CXX|tveryd|'t Veld, Rijderslaan|'t Veld|||
+USRSTAR|1|I|CXX|tveval|'t Veld, Valbrugweg|'t Veld|||
+USRSTAR|1|I|CXX|tzavlo|'t Zand, Vlotbrug|'t Zand|||
+USRSTAR|1|I|CXX|ubgpom|Ubbergen, Pompweg|Ubbergen|||
+USRSTAR|1|I|CXX|udenbs|Uden, Busstation Uden|Uden|||
+USRSTAR|1|I|CXX|udenhw|Uden, Hoevenseweg|Uden|||
+USRSTAR|1|I|CXX|udenls|Uden, Loopkantstraat|Uden|||
+USRSTAR|1|I|CXX|udenme|Uden, Melle|Uden|||
+USRSTAR|1|I|CXX|udenwh|Uden, Wijsthoek|Uden|||
+USRSTAR|1|I|CXX|uitams|Uithoorn, Amstelplein|Uithoorn|||
+USRSTAR|1|I|CXX|uitavs|Uithoorn, Arth. v. Schendellaan|Uithoorn|||
+USRSTAR|1|I|CXX|uitbgk|Uithoorn, Burg. Kootlaan|Uithoorn|||
+USRSTAR|1|I|CXX|uitbus|Uithoorn, Busstation|Uithoorn|||
+USRSTAR|1|I|CXX|uitihm|Uithoorn, In het Midden|Uithoorn|||
+USRSTAR|1|I|CXX|uitndw|Uithoorn, Noorddammerweg|Uithoorn|||
+USRSTAR|1|I|CXX|uitodk|Uithoorn, Op de Klucht|Uithoorn|||
+USRSTAR|1|I|CXX|uitplw|Uithoorn, Poelweg|Uithoorn|||
+USRSTAR|1|I|CXX|uitrop|Uithoorn, Rode Paal|Uithoorn|||
+USRSTAR|1|I|CXX|uitsst|Uithoorn, Centrum|Uithoorn|||
+USRSTAR|1|I|CXX|uitwat|Uithoorn, Watsonweg|Uithoorn|||
+USRSTAR|1|I|CXX|uitwkl|Uithoorn, Willem Klooslaan|Uithoorn|||
+USRSTAR|1|I|CXX|urkgem|Urk, Gemeentehuis|Urk|||
+USRSTAR|1|I|CXX|urkldm|Urk, Lange Dam|Urk|||
+USRSTAR|1|I|CXX|urkmar|Urk, Marsdiep|Urk|||
+USRSTAR|1|I|CXX|urknoo|Urk, De Noord|Urk|||
+USRSTAR|1|I|CXX|urkran|Urk, Ransuil|Urk|||
+USRSTAR|1|I|CXX|urkrot|Urk, Rotholm|Urk|||
+USRSTAR|1|I|CXX|urksin|Urk, Singel|Urk|||
+USRSTAR|1|I|CXX|urkudp|Urk, Urkerdwarspad|Urk|||
+USRSTAR|1|I|CXX|urkvla|Urk, Vlaak|Urk|||
+USRSTAR|1|I|CXX|ursbej|Ursem, De Rustenburcht|Ursem|||
+USRSTAR|1|I|CXX|ursker|Ursem, Kerkebuurt|Ursem|||
+USRSTAR|1|I|CXX|ursrbo|Rustenburg, Ophaalbrug|Rustenburg|||
+USRSTAR|1|I|CXX|utgasm|Uitgeest, Assum|Uitgeest|||
+USRSTAR|1|I|CXX|utgdrg|Uitgeest, Dorregeest|Uitgeest|||
+USRSTAR|1|I|CXX|utgns|Uitgeest, Station|Uitgeest|||
+USRSTAR|1|I|CXX|utgwwf|Uitgeest, Westerwerf|Uitgeest|||
+USRSTAR|1|I|CXX|veekad|Veere, Kaai|Veere|||
+USRSTAR|1|I|CXX|veeker|Veere, Kerk|Veere|||
+USRSTAR|1|I|CXX|veelan|Veere, Langedam|Veere|||
+USRSTAR|1|I|CXX|veesan|Veere, Nieuw-Sandenburgh|Veere|||
+USRSTAR|1|I|CXX|veezan|Veere, Zanddijk|Veere|||
+USRSTAR|1|I|CXX|veldrm|Velden, Markt|Velden|||
+USRSTAR|1|I|CXX|velhlk|Veldhoven, De Naaldenmaker|Veldhoven|||
+USRSTAR|1|I|CXX|venbwl|Venhuizen, Bowling|Venhuizen|||
+USRSTAR|1|I|CXX|venkwg|Venhuizen, De Buurt|Venhuizen|||
+USRSTAR|1|I|CXX|vennhk|Venhuizen, N.H. Kerk|Venhuizen|||
+USRSTAR|1|I|CXX|ventus|Venhuizen, Tuinstraat|Venhuizen|||
+USRSTAR|1|I|CXX|ventwr|Venhuizen, Twijver|Venhuizen|||
+USRSTAR|1|I|CXX|vgwbos|Vogelwaarde, Bossestraat|Vogelwaarde|||
+USRSTAR|1|I|CXX|vgwdrp|Vogelwaarde, Dorp|Vogelwaarde|||
+USRSTAR|1|I|CXX|vgwsto|Vogelwaarde, Rapenburg|Vogelwaarde|||
+USRSTAR|1|I|CXX|vgzdor|Vogelenzang, Dorp|Vogelenzang|||
+USRSTAR|1|I|CXX|vgzwld|Vogelenzang, Waterleiding|Vogelenzang|||
+USRSTAR|1|I|CXX|vhva04|Veldhoven, ASML-gebouw 4|Veldhoven|||
+USRSTAR|1|I|CXX|vhvabl|Veldhoven, Ambachtslaan|Veldhoven|||
+USRSTAR|1|I|CXX|vhvadl|Veldhoven, Abdijlaan|Veldhoven|||
+USRSTAR|1|I|CXX|vhvbhl|Veldhoven, Burg. van Hoofflaan|Veldhoven|||
+USRSTAR|1|I|CXX|vhvbov|Veldhoven, De Dom/Bovenhei|Veldhoven|||
+USRSTAR|1|I|CXX|vhvcct|Veldhoven, City Centrum|Veldhoven|||
+USRSTAR|1|I|CXX|vhvcvm|Veldhoven, Mira|Veldhoven|||
+USRSTAR|1|I|CXX|vhvdom|Veldhoven, De Dom/Berg|Veldhoven|||
+USRSTAR|1|I|CXX|vhvdor|Veldhoven, Dorpstraat|Veldhoven|||
+USRSTAR|1|I|CXX|vhvhee|Veldhoven, Heemweg/Centrum|Veldhoven|||
+USRSTAR|1|I|CXX|vhvhse|Veldhoven, Huize Sele|Veldhoven|||
+USRSTAR|1|I|CXX|vhvhtw|Veldhoven, Houtwal|Veldhoven|||
+USRSTAR|1|I|CXX|vhvjs|Veldhoven, Julianastraat|Veldhoven|||
+USRSTAR|1|I|CXX|vhvkca|Veldhoven, Kempen Campus|Veldhoven|||
+USRSTAR|1|I|CXX|vhvkho|Veldhoven, Koningshof|Veldhoven|||
+USRSTAR|1|I|CXX|vhvklo|Veldhoven, De Klokkenmaker|Veldhoven|||
+USRSTAR|1|I|CXX|vhvkom|Veldhoven, Kometenlaan|Veldhoven|||
+USRSTAR|1|I|CXX|vhvmkb|Veldhoven, MMC Veldhoven Kempenbaan|Veldhoven|||
+USRSTAR|1|I|CXX|vhvmll|Veldhoven, Mullerlaan|Veldhoven|||
+USRSTAR|1|I|CXX|vhvmmc|Veldhoven, MMC Veldhoven Hoofding|Veldhoven|||
+USRSTAR|1|I|CXX|vhvpol|Veldhoven, Polders|Veldhoven|||
+USRSTAR|1|I|CXX|vhvptl|Veldhoven, Platanenlaan|Veldhoven|||
+USRSTAR|1|I|CXX|vhvpwo|Veldhoven, Provincialeweg-Oost|Veldhoven|||
+USRSTAR|1|I|CXX|vhvsdv|Veldhoven, Sondervick|Veldhoven|||
+USRSTAR|1|I|CXX|vhvvns|Veldhoven, Veenstraat|Veldhoven|||
+USRSTAR|1|I|CXX|vlgkpl|Valburg, Kerkplein|Valburg|||
+USRSTAR|1|I|CXX|vlgspn|Valburg, Strandpark Noord|Valburg|||
+USRSTAR|1|I|CXX|vlibad|Vlissingen, Badhuisstraat|Vlissingen|||
+USRSTAR|1|I|CXX|vliblo|Vlissingen, Bloemenlaan|Vlissingen|||
+USRSTAR|1|I|CXX|vlibon|Vlissingen, Bonedijkestraat|Vlissingen|||
+USRSTAR|1|I|CXX|vlibos|Vlissingen, Bossenburghweg|Vlissingen|||
+USRSTAR|1|I|CXX|vlibw|Vlissingen, Scheldeplein(Centrum)|Vlissingen|||
+USRSTAR|1|I|CXX|vlieng|Vlissingen-Oost, Engelandweg|Onbekend|||
+USRSTAR|1|I|CXX|vlikou|Vlissingen, Koudekerkseweg|Vlissingen|||
+USRSTAR|1|I|CXX|vlikru|Vlissingen, P.Krugerstraat|Vlissingen|||
+USRSTAR|1|I|CXX|vlins|Vlissingen, Station/Veerhaven|Vlissingen|||
+USRSTAR|1|I|CXX|vlioos|Vlissingen-Oost, Scheldepoort|Onbekend|||
+USRSTAR|1|I|CXX|vlioud|Vlissingen, Oude Veerhavenweg|Vlissingen|||
+USRSTAR|1|I|CXX|vlipap|Vlissingen, Papegaaienburg|Vlissingen|||
+USRSTAR|1|I|CXX|vlipau|Vlissingen, Paauwenburgweg|Vlissingen|||
+USRSTAR|1|I|CXX|vliphe|Vlissingen, Prins Hendrikweg|Vlissingen|||
+USRSTAR|1|I|CXX|vlipre|Vlissingen, Sporthal|Vlissingen|||
+USRSTAR|1|I|CXX|vliree|Vlissingen, Ter Reede|Vlissingen|||
+USRSTAR|1|I|CXX|vlisch|Vlissingen, Scheldestraat|Vlissingen|||
+USRSTAR|1|I|CXX|vlislo|Vlissingen, Sloeweg|Vlissingen|||
+USRSTAR|1|I|CXX|vlitro|Vlissingen, Troelstraweg|Vlissingen|||
+USRSTAR|1|I|CXX|vliwes|Vlissingen, Westerzicht|Vlissingen|||
+USRSTAR|1|I|CXX|vlizkh|Vlissingen, Ziekenhuis|Vlissingen|||
+USRSTAR|1|I|CXX|vlizui|Vlissingen, Zuidbeekseweg|Vlissingen|||
+USRSTAR|1|I|CXX|vlkehw|Valkenswaard, Eindhovenseweg|Valkenswaard|||
+USRSTAR|1|I|CXX|vlkmrd|Valkenswaard, Merendreef|Valkenswaard|||
+USRSTAR|1|I|CXX|vlktnd|Valkenswaard, Tienendreef|Valkenswaard|||
+USRSTAR|1|I|CXX|vlkwdw|Valkenswaard, Dommelseweg|Valkenswaard|||
+USRSTAR|1|I|CXX|vlkwmt|Valkenswaard, Markt|Valkenswaard|||
+USRSTAR|1|I|CXX|vlkwnw|Valkenswaard, Nieuwe Waalreseweg|Valkenswaard|||
+USRSTAR|1|I|CXX|vlkwvs|Valkenswaard, Valkenierstraat|Valkenswaard|||
+USRSTAR|1|I|CXX|vlndbk|Vlierden, De Bikkels|Vlierden|||
+USRSTAR|1|I|CXX|vlndvl|Vlierden, De Vliert|Vlierden|||
+USRSTAR|1|I|CXX|vlpbee|Velp, Beekhuizenseweg|Velp|||
+USRSTAR|1|I|CXX|vlpbes|Velp, Gruttostraat|Velp|||
+USRSTAR|1|I|CXX|vlpbie|Velp, Biesdel|Velp|||
+USRSTAR|1|I|CXX|vlpbih|Velp, Binckhof|Velp|||
+USRSTAR|1|I|CXX|vlpemm|Velp, Emmastraat|Velp|||
+USRSTAR|1|I|CXX|vlpgas|Velp, Velp Zuid|Velp|||
+USRSTAR|1|I|CXX|vlpghs|Velp, Graaf Gerhardstraat|Velp|||
+USRSTAR|1|I|CXX|vlpnor|Velp, Nordlaan|Velp|||
+USRSTAR|1|I|CXX|vlpvbr|Velp, Velperbroek|Velp|||
+USRSTAR|1|I|CXX|vlpzie|Velp, Ziekenhuis|Velp|||
+USRSTAR|1|I|CXX|vlpzwa|Velp, Ziekenhuis/Waterstraat|Velp|||
+USRSTAR|1|I|CXX|vnlalb|Venlo, Hakkesstraat|Venlo|||
+USRSTAR|1|I|CXX|vnlbst|Venlo, Busstation|Venlo|||
+USRSTAR|1|I|CXX|volcla|Vollenhove, Clarenberglaan|Vollenhove|||
+USRSTAR|1|I|CXX|volkss|Volkel, Schoolstraat|Volkel|||
+USRSTAR|1|I|CXX|volwey|Vollenhove, Weyert|Vollenhove|||
+USRSTAR|1|I|CXX|volzwe|Vollenhove, Zwembad|Vollenhove|||
+USRSTAR|1|I|CXX|vrodrp|Vrouwenpolder, N57|Vrouwenpolder|||
+USRSTAR|1|I|CXX|vsbcen|Velserbroek, Centrum|Velserbroek|||
+USRSTAR|1|I|CXX|vsbdmb|Velserbroek, Dammersboog|Velserbroek|||
+USRSTAR|1|I|CXX|vsbvbd|Velserbroek, Velserbroeksedreef|Velserbroek|||
+USRSTAR|1|I|CXX|vsbzbp|Velserbroek, Zwanebloemplantsoen|Velserbroek|||
+USRSTAR|1|I|CXX|vsmgrw|Vessem, Groenewoud|Vessem|||
+USRSTAR|1|I|CXX|vsmwil|Vessem, Wilhelminalaan|Vessem|||
+USRSTAR|1|I|CXX|vsnvtv|Velsen Noord, Velser Traverse|Velsen Noord|||
+USRSTAR|1|I|CXX|vszbks|Velsen Zuid, Beeckestijn|Velsen Zuid|||
+USRSTAR|1|I|CXX|vszdwb|Velsen Zuid, Laaglandersluisweg|Velsen Zuid|||
+USRSTAR|1|I|CXX|vszpar|Velsen Zuid, Parkweg|Velsen Zuid|||
+USRSTAR|1|I|CXX|vszski|Velsen-Zuid, Skiheuvel|Velsen Zuid|||
+USRSTAR|1|I|CXX|vszsta|Velsen Zuid, Stationsweg|Velsen Zuid|||
+USRSTAR|1|I|CXX|vszzkb|Velsen Zuid, Zijkanaal B|Velsen Zuid|||
+USRSTAR|1|I|CXX|vyfztg|Vijfhuizen, Vijfhuizen|Vijfhuizen|||
+USRSTAR|1|I|CXX|waahav|Waarde, Havenoordseweg|Waarde|||
+USRSTAR|1|I|CXX|waajul|Waarde, Julianastraat|Waarde|||
+USRSTAR|1|I|CXX|waaker|Waarde, Kerkweg|Waarde|||
+USRSTAR|1|I|CXX|waamau|Waarde, Mauritsstraat|Waarde|||
+USRSTAR|1|I|CXX|watdrp|Waterlandkerkje, Dorp|Waterlandkerkje|||
+USRSTAR|1|I|CXX|wblbll|Westerblokker, Bramleylaan|Westerblokker|||
+USRSTAR|1|I|CXX|wblkol|Westerblokker, Kolenbergstraat|Westerblokker|||
+USRSTAR|1|I|CXX|wbokrk|Weebosch, Kerk|Weebosch|||
+USRSTAR|1|I|CXX|wcnaal|Wijchen, Aalsburg|Wijchen|||
+USRSTAR|1|I|CXX|wcnb25|Wijchen, Bijsterhuizen 25|Wijchen|||
+USRSTAR|1|I|CXX|wcncen|Wijchen, Oud-Ravensteinseweg|Wijchen|||
+USRSTAR|1|I|CXX|wcnfaz|Wijchen, Buizerdstraat|Wijchen|||
+USRSTAR|1|I|CXX|wcnhbg|Wijchen, Homberg|Wijchen|||
+USRSTAR|1|I|CXX|wcnind|Wijchen, Industriepark|Wijchen|||
+USRSTAR|1|I|CXX|wcnmeo|Wijchen, Meerdreef/Oosterweg|Wijchen|||
+USRSTAR|1|I|CXX|wcnmoz|Wijchen, Mozaiek|Wijchen|||
+USRSTAR|1|I|CXX|wcnmvc|Wijchen, Europaplein|Wijchen|||
+USRSTAR|1|I|CXX|wcnns|Wijchen, Station Wijchen|Wijchen|||
+USRSTAR|1|I|CXX|wcnnwg|Wijchen, Nieuweweg|Wijchen|||
+USRSTAR|1|I|CXX|wcnppl|Wijchen, Palkerplein|Wijchen|||
+USRSTAR|1|I|CXX|wcnrno|Wijchen, Kraaijenberg 83e straat|Wijchen|||
+USRSTAR|1|I|CXX|wcnsco|Wijchen, Schoenaker|Wijchen|||
+USRSTAR|1|I|CXX|wcnslk|Wijchen, Sluiskamp|Wijchen|||
+USRSTAR|1|I|CXX|wcnzui|Wijchen, Zuiderpoort|Wijchen|||
+USRSTAR|1|I|CXX|wellcv|Well, Kasteellaan|Well|||
+USRSTAR|1|I|CXX|wembea|Wemeldinge, Pr.Beatrixweg|Wemeldinge|||
+USRSTAR|1|I|CXX|wembon|Wemeldinge, Bonzijweg|Wemeldinge|||
+USRSTAR|1|I|CXX|wemdrp|Wemeldinge, Dorpsplein|Wemeldinge|||
+USRSTAR|1|I|CXX|wemjul|Wemeldinge, Julianastraat|Wemeldinge|||
+USRSTAR|1|I|CXX|wemspl|Wemeldinge, Spoorlaan|Wemeldinge|||
+USRSTAR|1|I|CXX|wesbnw|Westerbeek, Nieuweweg|Westerbeek|||
+USRSTAR|1|I|CXX|weurks|Weurt, Kerkstraat|Weurt|||
+USRSTAR|1|I|CXX|wgdvia|West-Graftdijk, Viaduct|West-Graftdijk|||
+USRSTAR|1|I|CXX|wgnaln|Wageningen, Arboretumlaan|Wageningen|||
+USRSTAR|1|I|CXX|wgnbus|Wageningen, Busstation|Wageningen|||
+USRSTAR|1|I|CXX|wgndie|Wageningen, Diedenweg|Wageningen|||
+USRSTAR|1|I|CXX|wgnwgb|Wageningen, Wageningse Berg|Wageningen|||
+USRSTAR|1|I|CXX|whmnhk|Wilhelminadorp, NH Kerk|Wilhelminadorp|||
+USRSTAR|1|I|CXX|whmrdw|Wilhelminadorp, Roodewijk|Wilhelminadorp|||
+USRSTAR|1|I|CXX|whvdor|Westerhoven, Dorpstraat|Westerhoven|||
+USRSTAR|1|I|CXX|whvheu|Westerhoven, Heuvel|Westerhoven|||
+USRSTAR|1|I|CXX|whvkem|Westerhoven, Kempervennen|Westerhoven|||
+USRSTAR|1|I|CXX|whvpro|Westerhoven, Provincialeweg|Westerhoven|||
+USRSTAR|1|I|CXX|winnro|Winssen, Plakstraat|Winssen|||
+USRSTAR|1|I|CXX|wisvoo|Wissenkerke, Voorstraat|Wissenkerke|||
+USRSTAR|1|I|CXX|wklcam|Nieuwe Niedorp, De Meet|Nieuwe Niedorp|||
+USRSTAR|1|I|CXX|wklgmh|Winkel, Bosstraat|Winkel|||
+USRSTAR|1|I|CXX|wklmav|Winkel, Wilgenstraat|Winkel|||
+USRSTAR|1|I|CXX|wklsdw|Winkel, Scheidersweg|Winkel|||
+USRSTAR|1|I|CXX|wklwkm|Winkel, Winkelmade|Winkel|||
+USRSTAR|1|I|CXX|wkzboo|Wijk aan Zee, Boothuisplein|Wijk aan Zee|||
+USRSTAR|1|I|CXX|wkzhel|Wijk aan Zee, Heliomare|Wijk aan Zee|||
+USRSTAR|1|I|CXX|wkzjlw|Wijk aan Zee, Julianaweg|Wijk aan Zee|||
+USRSTAR|1|I|CXX|wkzjul|Wijk aan Zee, Julianaplein|Wijk aan Zee|||
+USRSTAR|1|I|CXX|wkztww|Wijk aan Zee, Tussenwijkweg|Wijk aan Zee|||
+USRSTAR|1|I|CXX|wkzzcf|Wijk aan Zee, Zeecroft|Wijk aan Zee|||
+USRSTAR|1|I|CXX|wlbroe|Westerblokker, Roemer|Westerblokker|||
+USRSTAR|1|I|CXX|wlfblw|Wolfheze, Balijeweg|Wolfheze|||
+USRSTAR|1|I|CXX|wlfns|Wolfheze, Station Wolfheze|Wolfheze|||
+USRSTAR|1|I|CXX|wlftsc|Wolfheze, Het Schild|Wolfheze|||
+USRSTAR|1|I|CXX|wllocs|Wellerlooi, Catharinastraat|Wellerlooi|||
+USRSTAR|1|I|CXX|wlrbhv|Waalre, Bolksheuvel|Waalre|||
+USRSTAR|1|I|CXX|wlrean|Waalre, Ansbalduslaan|Waalre|||
+USRSTAR|1|I|CXX|wlrebs|Waalre, Bergstraat|Waalre|||
+USRSTAR|1|I|CXX|wlrefo|Waalre, De Foes|Waalre|||
+USRSTAR|1|I|CXX|wlrehs|Waalre, Heistraat|Waalre|||
+USRSTAR|1|I|CXX|wlsbis|'s-Heerenbroek, Bisschopswetering|'s-Heerenbroek|||
+USRSTAR|1|I|CXX|wlsnie|Wilsum, Nieuwstad|Wilsum|||
+USRSTAR|1|I|CXX|wlswes|Wilsum, Westenbergstraat|Wilsum|||
+USRSTAR|1|I|CXX|wlswil|Wilsum, Wilsumersteeg|Wilsum|||
+USRSTAR|1|I|CXX|wlsz56|Wilsum, Zwolseweg 56|Wilsum|||
+USRSTAR|1|I|CXX|wmhdmw|Warmenhuizen, Debbemeerweg|Warmenhuizen|||
+USRSTAR|1|I|CXX|wmhkaw|Warmenhuizen, Kanaalweg|Warmenhuizen|||
+USRSTAR|1|I|CXX|wmhmaw|Warmenhuizen, Maasweid|Warmenhuizen|||
+USRSTAR|1|I|CXX|wmhosw|Warmenhuizen, Oostwal|Warmenhuizen|||
+USRSTAR|1|I|CXX|wmhoud|Warmenhuizen, Oudewal Oost|Warmenhuizen|||
+USRSTAR|1|I|CXX|wmhsta|Warmenhuizen, Stationsstraat|Warmenhuizen|||
+USRSTAR|1|I|CXX|wmhvyf|Warmenhuizen, Vijfven|Warmenhuizen|||
+USRSTAR|1|I|CXX|wmspw|Westmaas, Provincialeweg|Westmaas|||
+USRSTAR|1|I|CXX|wmveds|Wormerveer, Edisonstraat|Wormerveer|||
+USRSTAR|1|I|CXX|wmvmar|Wormerveer, Marktplein|Wormerveer|||
+USRSTAR|1|I|CXX|wmvnba|Wormerveer, Noordse Balk|Wormerveer|||
+USRSTAR|1|I|CXX|wmvnoo|Wormerveer, Noorderstraat|Wormerveer|||
+USRSTAR|1|I|CXX|wmvns|Wormerveer, Station|Wormerveer|||
+USRSTAR|1|I|CXX|wmvsbu|Wormerveer, Schildersbuurt|Wormerveer|||
+USRSTAR|1|I|CXX|wmvwes|Wormerveer, Westerstraat|Wormerveer|||
+USRSTAR|1|I|CXX|wnmjkw|Wognum, Sportlaan|Wognum|||
+USRSTAR|1|I|CXX|wnmkzd|Wognum, Kleine Zomerdijk|Wognum|||
+USRSTAR|1|I|CXX|wnmnww|Wognum, Nieuweweg|Wognum|||
+USRSTAR|1|I|CXX|wnmraa|Wognum, Raadhuisstraat|Wognum|||
+USRSTAR|1|I|CXX|wnmrhp|Wognum, Raadhuisplein|Wognum|||
+USRSTAR|1|I|CXX|wnmvkw|Wognum, Verlengde Kerkweg|Wognum|||
+USRSTAR|1|I|CXX|wnvhaa|Wanneperveen, 't Haagje|Wanneperveen|||
+USRSTAR|1|I|CXX|wolmol|Wolphaartsdijk, Molendijk|Wolphaartsdijk|||
+USRSTAR|1|I|CXX|wolnhk|Wolphaartsdijk, Kerk|Wolphaartsdijk|||
+USRSTAR|1|I|CXX|wolvwg|Wolphaartsdijk, Veerweg|Wolphaartsdijk|||
+USRSTAR|1|I|CXX|wornbw|Wormer, Rotonde Ned. Benedictweg|Wormer|||
+USRSTAR|1|I|CXX|worndw|Wormer, Noordweg|Wormer|||
+USRSTAR|1|I|CXX|wornie|Wormer, Nieuweweg|Wormer|||
+USRSTAR|1|I|CXX|worpr7|Wijdewormer, P+R Wormerland A7|Wijdewormer|||
+USRSTAR|1|I|CXX|worrou|Wormer, Rouenweg|Wormer|||
+USRSTAR|1|I|CXX|worspa|Wormer, Spatterstraat/Sporthal|Wormer|||
+USRSTAR|1|I|CXX|wortal|Wormer, Talingstraat|Wormer|||
+USRSTAR|1|I|CXX|wortor|Wormer, Torenerf|Wormer|||
+USRSTAR|1|I|CXX|worzan|Wormer, Zandweg|Wormer|||
+USRSTAR|1|I|CXX|worznw|Wormerveer, Zaanweg|Wormerveer|||
+USRSTAR|1|I|CXX|wrdnws|Wieringerwaard, Nieuwesluis|Wieringerwaard|||
+USRSTAR|1|I|CXX|wrdwap|Wieringerwaard, Wapen van Wieringerwaard|Wieringerwaard|||
+USRSTAR|1|I|CXX|wrdwaw|Wieringerwaard, Walingsweg|Wieringerwaard|||
+USRSTAR|1|I|CXX|wribee|Wetering, Beenderribben|Wetering|||
+USRSTAR|1|I|CXX|wrivhw|Baarlo, Veldhuisweg|Baarlo|||
+USRSTAR|1|I|CXX|wrlhbw|Waarland, Hogebrugweg|Waarland|||
+USRSTAR|1|I|CXX|wrlker|Waarland, Kerkstraat|Waarland|||
+USRSTAR|1|I|CXX|wrlslg|Waarland, Slootgaardweg|Waarland|||
+USRSTAR|1|I|CXX|wrlstl|Heerhugowaard, Smuigelweg|Heerhugowaard|||
+USRSTAR|1|I|CXX|wrlver|Heerhugowaard, Verlaat|Heerhugowaard|||
+USRSTAR|1|I|CXX|wrlvlw|Waarland, Veluweweg|Waarland|||
+USRSTAR|1|I|CXX|wrtkaz|Weert, Kazernelaan|Weert|||
+USRSTAR|1|I|CXX|wrtsns|Weert, Station|Weert|||
+USRSTAR|1|I|CXX|wrtzhv|Weert, Ziekenhuis/Vogelsbleek|Weert|||
+USRSTAR|1|I|CXX|wrwbri|Wieringerwerf, Brinkweg|Wieringerwerf|||
+USRSTAR|1|I|CXX|wrwdte|Wieringerwerf, Badweg|Wieringerwerf|||
+USRSTAR|1|I|CXX|wrwios|Wieringerwerf, Ing. Ovingestraat|Wieringerwerf|||
+USRSTAR|1|I|CXX|wrwmaa|Wieringerwerf, Ir. Krijnstraat|Wieringerwerf|||
+USRSTAR|1|I|CXX|wrwmot|Wieringerwerf, Motel|Wieringerwerf|||
+USRSTAR|1|I|CXX|wrwotw|Wieringerwerf, Oosterterp|Wieringerwerf|||
+USRSTAR|1|I|CXX|wrwwtw|Wieringerwerf, Westerterpweg|Wieringerwerf|||
+USRSTAR|1|I|CXX|wsdber|Westdorpe, Bernhardstraat|Westdorpe|||
+USRSTAR|1|I|CXX|wsdgra|Westdorpe, Graaf Jansdijk|Westdorpe|||
+USRSTAR|1|I|CXX|wsdkrk|Westdorpe, Kerk|Westdorpe|||
+USRSTAR|1|I|CXX|wsdmol|Westdorpe, Molenstraat|Westdorpe|||
+USRSTAR|1|I|CXX|wsdvis|Westdorpe, Vissersverkorting|Westdorpe|||
+USRSTAR|1|I|CXX|wskbad|Westkapelle, Grindweg|Westkapelle|||
+USRSTAR|1|I|CXX|wskdre|Westkapelle, Dreefje|Westkapelle|||
+USRSTAR|1|I|CXX|wskdrp|Westkapelle, Dorp|Westkapelle|||
+USRSTAR|1|I|CXX|wskgem|Westkapelle, Markt|Westkapelle|||
+USRSTAR|1|I|CXX|wskjoo|Westkapelle, Joossesweg|Westkapelle|||
+USRSTAR|1|I|CXX|wskkre|Westkapelle, Zorgcentrum De Kreek|Westkapelle|||
+USRSTAR|1|I|CXX|wskzui|Westkapelle, Zuidstraat|Westkapelle|||
+USRSTAR|1|I|CXX|wslhbw|Westerland, Hollebalgweg|Westerland|||
+USRSTAR|1|I|CXX|wslrdk|Westerland, Rode Keet|Westerland|||
+USRSTAR|1|I|CXX|wsobrg|West-Souburg, Brug/Station|West-Souburg|||
+USRSTAR|1|I|CXX|wspcpl|Weesp, Casparuslaan|Weesp|||
+USRSTAR|1|I|CXX|wspdam|Weesp, Dammerweg 6|Weesp|||
+USRSTAR|1|I|CXX|wsphou|Weesp, C.J. van Houtenlaan|Weesp|||
+USRSTAR|1|I|CXX|wspnhl|Weesp, Nijverheidslaan|Weesp|||
+USRSTAR|1|I|CXX|wspns|Weesp, Station|Weesp|||
+USRSTAR|1|I|CXX|wssdor|Westenschouwen, Dorp|Westenschouwen|||
+USRSTAR|1|I|CXX|wssdui|Westenschouwen, Duinrand|Westenschouwen|||
+USRSTAR|1|I|CXX|wstdwl|Willemstad, Boud. Drenkwaartlaan|Willemstad|||
+USRSTAR|1|I|CXX|wsthel|Willemstad, Helwijk|Willemstad|||
+USRSTAR|1|I|CXX|wstste|Willemstad, Steenpad|Willemstad|||
+USRSTAR|1|I|CXX|wtewil|Wintelre, Willibrordusstraat|Wintelre|||
+USRSTAR|1|I|CXX|wtvamb|Westervoort, Het Ambacht|Westervoort|||
+USRSTAR|1|I|CXX|wtvdlm|Westervoort, Lange Maat|Westervoort|||
+USRSTAR|1|I|CXX|wtvdor|Westervoort, Dorpstraat/Hamersetraat|Westervoort|||
+USRSTAR|1|I|CXX|wtvgan|Westervoort, Ganzenpoel|Westervoort|||
+USRSTAR|1|I|CXX|wtvhlw|Westervoort, Heilweg|Westervoort|||
+USRSTAR|1|I|CXX|wtvlgr|Westervoort, Leigraaf|Westervoort|||
+USRSTAR|1|I|CXX|wtvsta|Westervoort, Station Westervoort|Westervoort|||
+USRSTAR|1|I|CXX|wvhgmh|Wervershoof, Raadhuisplein|Wervershoof|||
+USRSTAR|1|I|CXX|wvhkag|Wervershoof, Kagerbos|Wervershoof|||
+USRSTAR|1|I|CXX|wvhrkk|Wervershoof, R.K. Kerk|Wervershoof|||
+USRSTAR|1|I|CXX|wvhskp|Wervershoof, Simon Koopmanstraat|Wervershoof|||
+USRSTAR|1|I|CXX|wwddnu|Westwoud, Dr. Nuyenstraat|Westwoud|||
+USRSTAR|1|I|CXX|wwytrw|Wognum, Tramweg|Wognum|||
+USRSTAR|1|I|CXX|wwywwy|Wadway, Wadway|Wadway|||
+USRSTAR|1|I|CXX|wydnuw|Wijdenes, Noorderuitweg|Wijdenes|||
+USRSTAR|1|I|CXX|wydwvw|Wijdenes, Wapen van Wijdenes|Wijdenes|||
+USRSTAR|1|I|CXX|wylaza|Wyler, Altes Zollamt|Wyler|||
+USRSTAR|1|I|CXX|wylsch|Wyler, Schulweg|Wyler|||
+USRSTAR|1|I|CXX|wznkbu|Westzaan, Kerkbuurt|Westzaan|||
+USRSTAR|1|I|CXX|wznksg|Westzaan, Kleine Steng|Westzaan|||
+USRSTAR|1|I|CXX|wznmdl|Westzaan, Middel|Westzaan|||
+USRSTAR|1|I|CXX|wznovt|Westzaan, Overtoom/Zuideinde|Westzaan|||
+USRSTAR|1|I|CXX|yerdam|Yerseke, Damstraat|Yerseke|||
+USRSTAR|1|I|CXX|yerda|Yerseke, Dam|Yerseke|||
+USRSTAR|1|I|CXX|yerlan|Yerseke, Langeville|Yerseke|||
+USRSTAR|1|I|CXX|yermar|Yerseke, Marijkelaan|Yerseke|||
+USRSTAR|1|I|CXX|yermoe|Yerseke, Moerplein|Yerseke|||
+USRSTAR|1|I|CXX|yermol|Yerseke, Molenlaan|Yerseke|||
+USRSTAR|1|I|CXX|ymdbri|IJmuiden, Briniostraat|IJmuiden|||
+USRSTAR|1|I|CXX|ymdbwg|IJmuiden, Badweg|IJmuiden|||
+USRSTAR|1|I|CXX|ymdcdd|IJmuiden, Camping De Duindoorn|IJmuiden|||
+USRSTAR|1|I|CXX|ymdden|IJmuiden, Dennekoplaan|IJmuiden|||
+USRSTAR|1|I|CXX|ymddno|IJmuiden, De Noostraat/Pont Velsen|IJmuiden|||
+USRSTAR|1|I|CXX|ymdhdw|IJmuiden, Heerenduinweg|IJmuiden|||
+USRSTAR|1|I|CXX|ymdkgz|IJmuiden, Zeeweg|IJmuiden|||
+USRSTAR|1|I|CXX|ymdkrh|IJmuiden, Kromhoutstraat|IJmuiden|||
+USRSTAR|1|I|CXX|ymdlgs|IJmuiden, Loggerstraat|IJmuiden|||
+USRSTAR|1|I|CXX|ymdmpl|IJmuiden, Marktplein|IJmuiden|||
+USRSTAR|1|I|CXX|ymdorw|IJmuiden, Orionweg|IJmuiden|||
+USRSTAR|1|I|CXX|ymdp45|IJmuiden, Plein 1945|IJmuiden|||
+USRSTAR|1|I|CXX|ymdrsp|IJmuiden, Rotonde Stadspark|IJmuiden|||
+USRSTAR|1|I|CXX|ymdsch|IJmuiden, Scheldestraat|IJmuiden|||
+USRSTAR|1|I|CXX|ymdsea|IJmuiden, IJmuiden aan Zee|IJmuiden|||
+USRSTAR|1|I|CXX|ymdsta|IJmuiden, Stationsstraat|IJmuiden|||
+USRSTAR|1|I|CXX|ymdvel|IJmuiden, Velserduinweg|IJmuiden|||
+USRSTAR|1|I|CXX|ymdvsh|IJmuiden, Vissershaven|IJmuiden|||
+USRSTAR|1|I|CXX|ymdzwp|IJmuiden, Zeewijkplein|IJmuiden|||
+USRSTAR|1|I|CXX|ymdzws|IJmuiden, Zwaanstraat|IJmuiden|||
+USRSTAR|1|I|CXX|ysmbur|IJsselmuiden, Burg. van Engelenweg|IJsselmuiden|||
+USRSTAR|1|I|CXX|ysmfui|IJsselmuiden, Fuite|IJsselmuiden|||
+USRSTAR|1|I|CXX|ysmghw|IJsselmuiden, Grafhorsterweg|IJsselmuiden|||
+USRSTAR|1|I|CXX|ysmgra|Grafhorst, Meenteweg|Grafhorst|||
+USRSTAR|1|I|CXX|ysmkoe|Grafhorst, Koekoeksgemaal|Grafhorst|||
+USRSTAR|1|I|CXX|ysmrkk|IJsselmuiden, R.K. Kerk|IJsselmuiden|||
+USRSTAR|1|I|CXX|ysmvah|IJsselmuiden, Vahl|IJsselmuiden|||
+USRSTAR|1|I|CXX|ysmver|IJsselmuiden, Verzinkerij|IJsselmuiden|||
+USRSTAR|1|I|CXX|ysmz44|IJsselmuiden, Zwolseweg 44|IJsselmuiden|||
+USRSTAR|1|I|CXX|yzdves|IJzendijke, Petit Paris|IJzendijke|||
+USRSTAR|1|I|CXX|zaabus|Zaamslag, Busstation|Zaamslag|||
+USRSTAR|1|I|CXX|zaasto|Vogelwaarde, Stoppeldijk-Veer|Vogelwaarde|||
+USRSTAR|1|I|CXX|zaavee|Zaamslag, Veer|Zaamslag|||
+USRSTAR|1|I|CXX|zandbe|Zandberg, Dorp|Zandberg|||
+USRSTAR|1|I|CXX|zanstr|Zandstraat, Zandstraat|Zandstraat|||
+USRSTAR|1|I|CXX|zbldor|Zuid-Beijerland, Dorpsstraat|Zuid-Beijerland|||
+USRSTAR|1|I|CXX|zblgsa|Zuid-Beijerland, Gravin Sabinastraat|Zuid-Beijerland|||
+USRSTAR|1|I|CXX|zblnwd|Nieuwendijk, Veerdienst|Nieuwendijk|||
+USRSTAR|1|I|CXX|zblold|Zuid-Beijerland, Oldenbarneveltstraat|Zuid-Beijerland|||
+USRSTAR|1|I|CXX|zblrvd|Zuid-Beijerland, R. van Dorplaan|Zuid-Beijerland|||
+USRSTAR|1|I|CXX|zbltui|Zuid-Beijerland, Tuinweg|Zuid-Beijerland|||
+USRSTAR|1|I|CXX|zdkban|Zaandijk, Bannehof|Zaandijk|||
+USRSTAR|1|I|CXX|zdkgui|Zaandijk, Guisweg/Zaanse Schans|Zaandijk|||
+USRSTAR|1|I|CXX|zdkkss|Zaandijk, Koperslagerstraat|Zaandijk|||
+USRSTAR|1|I|CXX|zdkkzd|Zaandijk, Station Zaanse Schans|Zaandijk|||
+USRSTAR|1|I|CXX|zdkohe|Zaandijk, Oud Heinstraat|Zaandijk|||
+USRSTAR|1|I|CXX|zdkron|Zaandijk, Rooswijk rotonde|Zaandijk|||
+USRSTAR|1|I|CXX|zdksgk|Zaandijk, Simon Gammerkade|Zaandijk|||
+USRSTAR|1|I|CXX|zdkwvs|Zaandijk, Witte Veerstraat|Zaandijk|||
+USRSTAR|1|I|CXX|zdmahw|Zaandam, Albert Heijnweg|Zaandam|||
+USRSTAR|1|I|CXX|zdmbin|Zaandam, De Binding|Zaandam|||
+USRSTAR|1|I|CXX|zdmbms|Zaandam, Botenmakersstraat|Zaandam|||
+USRSTAR|1|I|CXX|zdmbor|Zaandam, Borgerdiep|Zaandam|||
+USRSTAR|1|I|CXX|zdmbri|Zaandam, Brigantijnstraat|Zaandam|||
+USRSTAR|1|I|CXX|zdmbrw|Zaandam, Breedweer|Zaandam|||
+USRSTAR|1|I|CXX|zdmcre|Zaandam, Hotels Vijfhoek|Zaandam|||
+USRSTAR|1|I|CXX|zdmdda|Zaandam, Durgerdamstraat|Zaandam|||
+USRSTAR|1|I|CXX|zdmdie|Zaandam, Diepenbroekstraat|Zaandam|||
+USRSTAR|1|I|CXX|zdmdry|Zaandam, Delftse Rij|Zaandam|||
+USRSTAR|1|I|CXX|zdmduk|Zaandam, Dukaatstraat|Zaandam|||
+USRSTAR|1|I|CXX|zdmfha|Zaandam, Frans Halsstraat|Zaandam|||
+USRSTAR|1|I|CXX|zdmflu|Zaandam, Fonteinkruidweg|Zaandam|||
+USRSTAR|1|I|CXX|zdmfur|Zaandam, Schellingweg|Zaandam|||
+USRSTAR|1|I|CXX|zdmgds|Zaandam, Gaasperdamstraat|Zaandam|||
+USRSTAR|1|I|CXX|zdmggr|Zaandam, Gedempte Gracht|Zaandam|||
+USRSTAR|1|I|CXX|zdmghy|Zaandam, P. Ghijsenlaan|Zaandam|||
+USRSTAR|1|I|CXX|zdmgrt|Zaandam, Grote Tocht|Zaandam|||
+USRSTAR|1|I|CXX|zdmhal|Zaandam, Walraven van Hallstraat|Zaandam|||
+USRSTAR|1|I|CXX|zdmhee|Zaandam, Zaans Medisch Centrum|Zaandam|||
+USRSTAR|1|I|CXX|zdmhem|Zaandam, Hemkade|Zaandam|||
+USRSTAR|1|I|CXX|zdmhhk|Zaandam, Houthavenkade|Zaandam|||
+USRSTAR|1|I|CXX|zdmhou|Zaandam, Houtveldweg/Station|Zaandam|||
+USRSTAR|1|I|CXX|zdmhvz|Zaandam, Hof van Zaenden|Zaandam|||
+USRSTAR|1|I|CXX|zdmjuf|Zaandam, Jufferstraat|Zaandam|||
+USRSTAR|1|I|CXX|zdmkog|Zaandam, Kogerveld Station|Zaandam|||
+USRSTAR|1|I|CXX|zdmlwe|Zaandam, Lange Weide|Zaandam|||
+USRSTAR|1|I|CXX|zdmmen|Zaandam, Het Mennistenerf|Zaandam|||
+USRSTAR|1|I|CXX|zdmmor|Zaandam, Morgensterstraat|Zaandam|||
+USRSTAR|1|I|CXX|zdmns|Zaandam, Station|Zaandam|||
+USRSTAR|1|I|CXX|zdmope|Zaandam, Opera|Zaandam|||
+USRSTAR|1|I|CXX|zdmpar|Zaandam, Parkstraat|Zaandam|||
+USRSTAR|1|I|CXX|zdmpep|Zaandam, Peperstraat|Zaandam|||
+USRSTAR|1|I|CXX|zdmrig|Zaandam, Rigastraat|Zaandam|||
+USRSTAR|1|I|CXX|zdmrot|Zaandam, Ronde Tocht|Zaandam|||
+USRSTAR|1|I|CXX|zdmsbk|Zaandam, Schipbeek|Zaandam|||
+USRSTAR|1|I|CXX|zdmsch|Zaandam, Zaanse Schans|Zaandam|||
+USRSTAR|1|I|CXX|zdmsmv|Zaandam, Smitsven|Zaandam|||
+USRSTAR|1|I|CXX|zdmssw|Zaandam, Symon Spiersweg|Zaandam|||
+USRSTAR|1|I|CXX|zdmsve|Zaandam, Schaarsven|Zaandam|||
+USRSTAR|1|I|CXX|zdmsvl|Zaandam, De Vlinder|Zaandam|||
+USRSTAR|1|I|CXX|zdmver|Zaandam, Vermiljoenweg|Zaandam|||
+USRSTAR|1|I|CXX|zdmvin|Zaandam, Vinkenstraat|Zaandam|||
+USRSTAR|1|I|CXX|zdmvob|Zaandam, Voorsterbeek|Zaandam|||
+USRSTAR|1|I|CXX|zdmvvg|Zaandam, Vincent van Goghweg|Zaandam|||
+USRSTAR|1|I|CXX|zdmvvl|Zaandam, Veldvliegerweg|Zaandam|||
+USRSTAR|1|I|CXX|zdmvyf|Zaandam, Vijfhoek|Zaandam|||
+USRSTAR|1|I|CXX|zdmwck|Zaandam, IJssel|Zaandam|||
+USRSTAR|1|I|CXX|zdmwhk|Zaandam, Willem Hooftkade|Zaandam|||
+USRSTAR|1|I|CXX|zdmwtw|Zaandam, De Weer/Twiskeweg|Zaandam|||
+USRSTAR|1|I|CXX|zdmwwa|Zaandam, De Westerwatering|Zaandam|||
+USRSTAR|1|I|CXX|zdmwwt|Zaandam, Westerwateringtunnel|Zaandam|||
+USRSTAR|1|I|CXX|zdmzon|Zaandam, Zonnedauwhoek|Zaandam|||
+USRSTAR|1|I|CXX|zdmzui|Zaandam, Zuidervaart|Zaandam|||
+USRSTAR|1|I|CXX|zeecen|Zeewolde, Centrum|Zeewolde|||
+USRSTAR|1|I|CXX|zeeeem|Zeewolde, De Eemhof|Zeewolde|||
+USRSTAR|1|I|CXX|zeeeik|Zeewolde, RCN-Eikenlaan|Zeewolde|||
+USRSTAR|1|I|CXX|zeeflk|Zeewolde, Fluitekruid|Zeewolde|||
+USRSTAR|1|I|CXX|zeegil|Zeewolde, Gildenveld|Zeewolde|||
+USRSTAR|1|I|CXX|zeegwg|Zeewolde, Gruttoweg|Zeewolde|||
+USRSTAR|1|I|CXX|zeehor|Zeewolde, Horsterweg|Zeewolde|||
+USRSTAR|1|I|CXX|zeeind|Zeewolde, Industrieweg|Zeewolde|||
+USRSTAR|1|I|CXX|zeekas|Zeewolde, Kastanjelaan|Zeewolde|||
+USRSTAR|1|I|CXX|zeekhb|Zeewolde, Klein Hoefblad|Zeewolde|||
+USRSTAR|1|I|CXX|zeekml|Zeewolde, Kwartiermakerslaan|Zeewolde|||
+USRSTAR|1|I|CXX|zeelan|Zeewolde, Langezand|Zeewolde|||
+USRSTAR|1|I|CXX|zeemas|Zeewolde, Mast|Zeewolde|||
+USRSTAR|1|I|CXX|zeenaa|Zeewolde, Naarderweg|Zeewolde|||
+USRSTAR|1|I|CXX|zeenij|Zeewolde, Nijkerkersluis|Zeewolde|||
+USRSTAR|1|I|CXX|zeeove|Zeewolde, Overloop|Zeewolde|||
+USRSTAR|1|I|CXX|zeercn|Zeewolde, RCN-Dasselaarweg|Zeewolde|||
+USRSTAR|1|I|CXX|zeesli|Zeewolde, Slingerpad|Zeewolde|||
+USRSTAR|1|I|CXX|zeetre|Zeewolde, Trekkersveld|Zeewolde|||
+USRSTAR|1|I|CXX|zeever|Zeewolde, de Verbeelding|Zeewolde|||
+USRSTAR|1|I|CXX|zeewie|Zeewolde, Flevo-Nat/Wielseweg|Zeewolde|||
+USRSTAR|1|I|CXX|zeilph|Deurne, Blasiusstraat|Deurne|||
+USRSTAR|1|I|CXX|ziebu|Zierikzee, Busstation|Zierikzee|||
+USRSTAR|1|I|CXX|ziegem|Zierikzee, Gemeentehuis|Zierikzee|||
+USRSTAR|1|I|CXX|ziegre|Zierikzee, Grevelingenstraat|Zierikzee|||
+USRSTAR|1|I|CXX|ziehar|Zierikzee, Haringvlietstraat|Zierikzee|||
+USRSTAR|1|I|CXX|ziesa|Zierikzee, Sas|Zierikzee|||
+USRSTAR|1|I|CXX|ziesch|Zierikzee, Scheldestraat|Zierikzee|||
+USRSTAR|1|I|CXX|zieval|Zierikzee, De Val|Zierikzee|||
+USRSTAR|1|I|CXX|ziewie|Zierikzee, de Wieken (Centrum)|Zierikzee|||
+USRSTAR|1|I|CXX|ziezkh|Zierikzee, Ziekenhuis|Zierikzee|||
+USRSTAR|1|I|CXX|zldthw|Zeeland, Tweehekkenweg|Zeeland|||
+USRSTAR|1|I|CXX|zltbar|Heetveld, Barsbeek|Heetveld|||
+USRSTAR|1|I|CXX|zltdno|Zwartsluis, De Noorde|Zwartsluis|||
+USRSTAR|1|I|CXX|zobhal|Zuidoostbeemster, Halfweg|Zuidoostbeemster|||
+USRSTAR|1|I|CXX|zobkbf|Zuidoostbeemster, Kleine Bijenkorf|Zuidoostbeemster|||
+USRSTAR|1|I|CXX|zobwsn|Zuidoostbeemster, W. Sluislaan|Zuidoostbeemster|||
+USRSTAR|1|I|CXX|zobzui|Zuidoostbeemster, Zuiderweg|Zuidoostbeemster|||
+USRSTAR|1|I|CXX|zondrp|Zonnemaire, Dorp|Zonnemaire|||
+USRSTAR|1|I|CXX|zonkru|Zonnemaire, Kruisweg|Zonnemaire|||
+USRSTAR|1|I|CXX|zoukus|Zoutelande, Het Kustlicht|Zoutelande|||
+USRSTAR|1|I|CXX|zoulan|Zoutelande, Langendam|Zoutelande|||
+USRSTAR|1|I|CXX|zounie|Zoutelande, Nieuwstraat|Zoutelande|||
+USRSTAR|1|I|CXX|zslbej|Zwartsluis, Bejaardencentrum|Zwartsluis|||
+USRSTAR|1|I|CXX|zslbus|Zwartsluis, Busstation|Zwartsluis|||
+USRSTAR|1|I|CXX|zslkal|Zwartsluis, Zomerdijk|Zwartsluis|||
+USRSTAR|1|I|CXX|zslvel|De Velde, De Velde|De Velde|||
+USRSTAR|1|I|CXX|zslwro|Zwartsluis, Westeinde - Rotonde|Zwartsluis|||
+USRSTAR|1|I|CXX|zswamg|Zuid-Scharwoude, Amelsgroet|Zuid-Scharwoude|||
+USRSTAR|1|I|CXX|zswbmg|Zuid-Scharwoude, Boomgaard|Zuid-Scharwoude|||
+USRSTAR|1|I|CXX|zswklo|Noord-Scharwoude, Kloosterstraat|Noord-Scharwoude|||
+USRSTAR|1|I|CXX|zswkra|Zuid-Scharwoude, Melkpad|Zuid-Scharwoude|||
+USRSTAR|1|I|CXX|ztnhoo|Zetten, Hoofdstraat|Zetten|||
+USRSTAR|1|I|CXX|ztnlbr|Zetten, Lingebrug|Zetten|||
+USRSTAR|1|I|CXX|ztnns|Zetten, Station Zetten Andelst|Zetten|||
+USRSTAR|1|I|CXX|zudkrk|Zuiddorpe, Kerk|Zuiddorpe|||
+USRSTAR|1|I|CXX|zuzmar|Zuidzande, Markt|Zuidzande|||
+USRSTAR|1|I|CXX|zuzpot|Zuidzande, Potjes|Zuidzande|||
+USRSTAR|1|I|CXX|zvnbml|Zevenaar, Buitenmolen|Zevenaar|||
+USRSTAR|1|I|CXX|zvnbus|Zevenaar, Station Zevenaar|Zevenaar|||
+USRSTAR|1|I|CXX|zvnodw|Zevenaar, Oude Doesburgseweg|Zevenaar|||
+USRSTAR|1|I|CXX|zvnoln|Zevenaar, Oranjelaan|Zevenaar|||
+USRSTAR|1|I|CXX|zvnros|Zevenaar, Rosorum|Zevenaar|||
+USRSTAR|1|I|CXX|zvnspc|Zevenaar, Sportcentrum|Zevenaar|||
+USRSTAR|1|I|CXX|zvnzie|Zevenaar, Ziekenhuis|Zevenaar|||
+USRSTAR|1|I|CXX|zvnzwb|Zevenaar, Zwembad|Zevenaar|||
+USRSTAR|1|I|CXX|zvtbus|Zandvoort, Centrum|Zandvoort|||
+USRSTAR|1|I|CXX|zvtcrt|Zandvoort, Circuit|Zandvoort|||
+USRSTAR|1|I|CXX|zvthls|Zandvoort, Helios|Zandvoort|||
+USRSTAR|1|I|CXX|zvtkee|Zandvoort, Keesomstraat|Zandvoort|||
+USRSTAR|1|I|CXX|zvtkps|Zandvoort, Koper-Passerel/Station|Zandvoort|||
+USRSTAR|1|I|CXX|zvtlin|Zandvoort, Linnaeusstraat|Zandvoort|||
+USRSTAR|1|I|CXX|zvtns|Zandvoort, Station|Zandvoort|||
+USRSTAR|1|I|CXX|zvtwnu|Zandvoort, Waterleiding/Nw. Unicum|Zandvoort|||
+USRSTAR|1|I|CXX|zwacrt|Zwaag, De Corantijn|Zwaag|||
+USRSTAR|1|I|CXX|zwadgr|Zwaag, Dijkgraaf|Zwaag|||
+USRSTAR|1|I|CXX|zwadie|Zwaagdijk, Van Diepen|Zwaagdijk|||
+USRSTAR|1|I|CXX|zwadop|Zwaag, De Opgang|Zwaag|||
+USRSTAR|1|I|CXX|zwadwv|Zwaag, Pastoor Nuijenstraat|Zwaag|||
+USRSTAR|1|I|CXX|zwahoe|Zwaag, Hoefijzer|Zwaag|||
+USRSTAR|1|I|CXX|zwakel|Zwaag, De Kromme Elleboog|Zwaag|||
+USRSTAR|1|I|CXX|zwalak|Zwaag, Lange Akker|Zwaag|||
+USRSTAR|1|I|CXX|zwamrw|Zwaag, Waarschap|Zwaag|||
+USRSTAR|1|I|CXX|zwaoos|Zwaag, Oostergouw|Zwaag|||
+USRSTAR|1|I|CXX|zwapos|Zwaag, Krijterslaan|Zwaag|||
+USRSTAR|1|I|CXX|zwargv|Zwaag, Gevangenis|Zwaag|||
+USRSTAR|1|I|CXX|zwaris|Zwaag, Risdam|Zwaag|||
+USRSTAR|1|I|CXX|zwaspp|Zwaag, Sportpark|Zwaag|||
+USRSTAR|1|I|CXX|zwaujp|Zwaag, Unjerpad|Zwaag|||
+USRSTAR|1|I|CXX|zwbban|Zwanenburg, Banne|Zwanenburg|||
+USRSTAR|1|I|CXX|zwbkin|Zwanenburg, Kinheim|Zwanenburg|||
+USRSTAR|1|I|CXX|zwbsee|Zwanenburg, Seevank|Zwanenburg|||
+USRSTAR|1|I|CXX|zwbwil|Zwanenburg, Wilgenlaan|Zwanenburg|||
+USRSTAR|1|I|CXX|zwddeu|Nibbixwoud, van der Deureweg|Nibbixwoud|||
+USRSTAR|1|I|CXX|zwdrzd|Zwaagdijk, Rijweg/Zwaagdijk|Zwaagdijk|||
+USRSTAR|1|I|CXX|zwdtow|Zwaagdijk, Tolweg|Zwaagdijk|||
+USRSTAR|1|I|CXX|zwdwfo|Zwaagdijk, WFO/ABC|Zwaagdijk|||
+USRSTAR|1|I|CXX|zwhbgp|Zwaanshoek, Begraafplaats|Zwaanshoek|||
+USRSTAR|1|I|CXX|zwhhan|Zwaanshoek, Hanepoel|Zwaanshoek|||
+USRSTAR|1|I|CXX|zwhsup|Zwaanshoek, Goudriaanstraat|Zwaanshoek|||
+USRSTAR|1|I|CXX|zwladd|Zwolle, Assendorperdijk|Zwolle|||
+USRSTAR|1|I|CXX|zwlber|Zwolle, Bergkloosterweg|Zwolle|||
+USRSTAR|1|I|CXX|zwlbrc|Zwolle, Breecamp|Zwolle|||
+USRSTAR|1|I|CXX|zwlbus|Zwolle, Busstation|Zwolle|||
+USRSTAR|1|I|CXX|zwlbvo|Zwolle, Blaloweg|Zwolle|||
+USRSTAR|1|I|CXX|zwlcam|Zwolle, Campus|Zwolle|||
+USRSTAR|1|I|CXX|zwlewk|Zwolle, Emmawijk|Zwolle|||
+USRSTAR|1|I|CXX|zwlher|Zwolle, Herenweg|Zwolle|||
+USRSTAR|1|I|CXX|zwlhev|Zwolle, Dr. Hengeveldweg|Zwolle|||
+USRSTAR|1|I|CXX|zwlisa|Zwolle, Isala hoofdingang|Zwolle|||
+USRSTAR|1|I|CXX|zwlkat|Zwolle, Katerdijk|Zwolle|||
+USRSTAR|1|I|CXX|zwlkwp|Zwolle, Katwolderplein/Centrum|Zwolle|||
+USRSTAR|1|I|CXX|zwlnhw|Zwolle, Hasselterweg|Zwolle|||
+USRSTAR|1|I|CXX|zwlrie|Zwolle, Rieteweg|Zwolle|||
+USRSTAR|1|I|CXX|zwlstd|Zwolle, Stadion|Zwolle|||
+USRSTAR|1|I|CXX|zwlvec|Zwolle, Vechtbrug|Zwolle|||
+USRSTAR|1|I|CXX|zwlvro|Zwolle, Vrolijkheid|Zwolle|||
+USRSTAR|1|I|CXX|zypkei|Zijpe, Keinsmerbrug|Zijpe|||
+USRSTAR|1|I|CXX|zypwfd|Zijpe, Westfriesedijk|Zijpe|||
+USRSTAR|1|I|CXX|zywhar|Zijdewind, Hartweg|Zijdewind|||
